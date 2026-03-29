@@ -1,8 +1,7 @@
-import { groupArticlesByLocalDay } from "@/lib/articles/group-by-day";
-import { loadStoredArticles } from "@/lib/articles/load-articles";
+import articlesJson from "@/data/articles.json";
 
-/** 讀取本機 data/articles.json，避免 build 時快照後脚本更新仍顯示舊資料 */
-export const dynamic = "force-dynamic";
+import { groupArticlesByLocalDay } from "@/lib/articles/group-by-day";
+import type { StoredArticle } from "@/lib/articles/types";
 
 function formatDateLine(dateKey: string): string {
   const d = new Date(`${dateKey}T12:00:00+08:00`);
@@ -14,8 +13,13 @@ function formatDateLine(dateKey: string): string {
   }).format(d);
 }
 
-export default async function Home() {
-  const articles = loadStoredArticles();
+function getArticles(): StoredArticle[] {
+  if (!Array.isArray(articlesJson)) return [];
+  return articlesJson as StoredArticle[];
+}
+
+export default function Home() {
+  const articles = getArticles();
   const groups = groupArticlesByLocalDay(articles);
 
   return (
@@ -37,15 +41,15 @@ export default async function Home() {
       <main className="mx-auto w-full max-w-3xl px-4 py-12 sm:px-6">
         {groups.length === 0 ? (
           <p className="text-sm leading-7 text-zinc-600">
-            尚無已儲存文章。請在專案根目錄執行{" "}
+            尚無已儲存文章。請在本機執行{" "}
             <code className="rounded bg-zinc-100 px-1.5 py-0.5 text-[0.8rem] text-zinc-800">
               npm run fetch:summarize
             </code>
-            ，並確認已設定{" "}
+            並推送更新後的{" "}
             <code className="rounded bg-zinc-100 px-1.5 py-0.5 text-[0.8rem] text-zinc-800">
-              GEMINI_API_KEY
+              data/articles.json
             </code>
-            （Gemini API）。
+            ；正式站會在下次 Build（例如 GitHub Actions 排程）後顯示新內容。
           </p>
         ) : (
           <div className="space-y-14">
@@ -107,15 +111,19 @@ export default async function Home() {
 
       <footer className="border-t border-zinc-200">
         <div className="mx-auto w-full max-w-3xl px-4 py-10 text-xs text-zinc-500 sm:px-6">
-          內容來自{" "}
+          內容於 Build 時自{" "}
           <code className="rounded border border-zinc-200 bg-zinc-50 px-1 py-0.5 text-[0.7rem]">
             data/articles.json
-          </code>
-          ；使用{" "}
+          </code>{" "}
+          打包；更新腳本為{" "}
+          <code className="rounded border border-zinc-200 bg-zinc-50 px-1 py-0.5 text-[0.7rem]">
+            npm run update-data
+          </code>{" "}
+          ／{" "}
           <code className="rounded border border-zinc-200 bg-zinc-50 px-1 py-0.5 text-[0.7rem]">
             npm run fetch:summarize
-          </code>{" "}
-          更新並以連結查重。
+          </code>
+          。
         </div>
       </footer>
     </div>
