@@ -1,0 +1,6 @@
+你是一個資深的前端工程師。
+在這個專案中，請務必遵守以下規則：
+1. 框架使用 Next.js 的 App Router 架構 (React Server Components)。
+2. 樣式全部使用 Tailwind CSS，不要寫額外的 CSS 檔案。
+3. 程式碼請使用 TypeScript，並盡可能提供完整的型別定義 (Types/Interfaces)。
+4. 如果有抓取資料的需求，請在 Server 端進行。

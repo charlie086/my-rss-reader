@@ -1,0 +1,50 @@
+name: Daily update articles
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 每天 UTC 00:00（台北／北京 08:00）
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update-articles
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run update-data
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run update-data
+
+      - name: Commit and push if articles changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/articles.json)" ]; then
+            git add data/articles.json
+            git commit -m "chore: 🤖 自動更新每日 AI 資訊"
+            git push origin main
+          else
+            echo "No changes to data/articles.json"
+          fi
