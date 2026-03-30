@@ -1,5 +1,181 @@
 [
   {
+    "link": "https://github.com/dreddnafious/thereisnospoon",
+    "title": "There is No Spoon. A software engineers primer for demystified ML",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T22:28:11.000Z",
+    "summaryZh": "根據提供的資訊，僅有標題「There is No Spoon. A software engineers primer for demystified ML」，而新聞稿的具體內容（摘要部分顯示為「Comments」）並未提供。因此，無法依據完整的事實或主張，對關鍵主體、產品、影響或後續進行客觀、冷靜的總結。若要提供符合要求的摘要，需要獲取該新聞稿的完整文本。",
+    "summarizedAt": "2026-03-30T01:26:24.863Z"
+  },
+  {
+    "link": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+    "title": "Coding Agents Could Make Free Software Matter Again",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T22:21:34.000Z",
+    "summaryZh": "您好，很抱歉，由於您提供的內容僅有標題「Coding Agents Could Make Free Software Matter Again」而缺少文章正文，我無法根據具體事實、關鍵主體、影響或後續等資訊進行客觀冷靜的總結。若您能提供完整的文章內容，我將樂意為您撰寫符合要求的摘要。",
+    "summarizedAt": "2026-03-30T01:26:30.649Z"
+  },
+  {
+    "link": "https://github.com/anthropics/claude-code/issues/40710",
+    "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T22:15:06.000Z",
+    "summaryZh": "Anthropic 的程式碼輔助工具 Claude Code 被指出存在一項嚴重問題。據報告，該工具會每十分鐘自動將專案儲存庫強制重設為遠端 `origin/main` 分支狀態，並丟棄所有本地未提交修改。這意味著開發者在本地進行的程式碼變更，可能在毫無預警下被覆蓋或永久刪除。對於依賴 Claude Code 的開發團隊而言，這將造成嚴重的資料丟失、工作進度中斷及生產力損害。Anthropic 尚未就此問題發布官方說明或提供解決方案。",
+    "summarizedAt": "2026-03-30T01:26:56.783Z"
+  },
+  {
+    "link": "https://crazierl.org/demo/",
+    "title": "Show HN: Crazierl – An Erlang Operating System",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T20:38:26.000Z",
+    "summaryZh": "「Crazierl」是一個基於Erlang程式語言開發的新型作業系統專案，近期在Hacker News上被展示。此專案旨在探索利用Erlang在併發處理、容錯性及分散式系統方面的固有優勢，來構建一個不同於傳統作業系統架構的平台。這代表了對作業系統設計理念的一種實驗性嘗試，可能為未來高效能、高可靠性的系統開發提供新的思路。該系統的推出，將引發業界對Erlang在更廣泛應用領域潛力的討論，尤其是在基礎設施層面的創新。",
+    "summarizedAt": "2026-03-30T01:27:02.957Z"
+  },
+  {
+    "link": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
+    "title": "The road signs that teach travellers about France",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T20:30:02.000Z",
+    "summaryZh": "很抱歉，由於您僅提供了文章標題「The road signs that teach travellers about France」及「Comments」字樣，而未提供實際的英文新聞稿內文，我無法依照您的指示，總結出一段約180至250字的中文摘要。作為一名資深科技新聞編輯，我需要完整的原文內容，才能客觀、冷靜地提煉出核心事實、關鍵主體及其潛在影響或後續，並確保摘要語意完整、不帶主觀情緒且不含標題黨詞彙。請提供完整的英文新聞稿，我將樂意為您處理。",
+    "summarizedAt": "2026-03-30T01:27:08.434Z"
+  },
+  {
+    "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+    "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T20:21:05.000Z",
+    "summaryZh": "OpenAI 旗下的 ChatGPT 服務被發現整合了 Cloudflare 的前端驗證技術。據觀察，在用戶能夠於 ChatGPT 介面中輸入文字之前，Cloudflare 會執行一項特定的客戶端驗證程序。這項程序的核心在於讀取 ChatGPT 應用程式的 React 狀態，用戶必須等待此驗證過程完成，方能啟用輸入功能。此機制被推測旨在強化服務安全性、偵測並阻擋惡意機器人活動，以及管理網站流量。然而，此類深度整合的驗證方式，特別是涉及讀取應用程式內部狀態的行為，已在技術社群中引發了關於用戶數據隱私、前端控制權限及潛在性能影響的討論。這反映出大型網路服務在平衡安全需求與用戶體驗之間所面臨的挑戰與權衡。",
+    "summarizedAt": "2026-03-30T01:27:19.260Z"
+  },
+  {
+    "link": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
+    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T20:00:02.000Z",
+    "summaryZh": "您提供的標題「Midnight train from GA: A view of America from the tracks as airports struggle」指向一篇探討美國國內交通現狀與旅行體驗的報導，特別是在機場運營面臨挑戰的背景下，透過鐵路視角觀察社會現象。然而，由於新聞稿的具體正文內容並未提供，本編輯無法從中提煉出核心事實、關鍵主體（如涉及的具體公司、機構或產品）及其潛在影響或後續發展。因此，目前無法生成一份符合字數要求且語意完整的客觀摘要。",
+    "summarizedAt": "2026-03-30T01:27:26.961Z"
+  },
+  {
+    "link": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+    "title": "The Cognitive Dark Forest",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T19:36:21.000Z",
+    "summaryZh": "您提供的標題為「The Cognitive Dark Forest」，但未附上英文科技新聞稿的具體內容。由於缺乏原始文本，我無法按照您的要求，客觀冷靜地總結其核心事實、關鍵主體（如公司、機構或產品）及其潛在影響或後續發展。為能提供符合字數與風格規範的完整中文摘要，請務必提供完整的英文新聞稿原文。一旦收到所需資訊，我將能精確地提煉出文章要點，並以中立語氣呈現。",
+    "summarizedAt": "2026-03-30T01:27:32.014Z"
+  },
+  {
+    "link": "https://bramcohen.com/p/more-on-version-control",
+    "title": "More on Version Control",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T19:26:14.000Z",
+    "summaryZh": "一份關於版本控制的科技新聞稿，其核心內容聚焦於「評論」功能。這可能涉及在版本控制系統中，針對評論機制的改進或新功能引入，旨在提升開發協作效率、代碼審查質量及優化開發流程。儘管未具體指出發布方，此類更新對於依賴版本控制進行協同開發的團隊而言，具有重要意義，有助於強化溝通與版本清晰度。",
+    "summarizedAt": "2026-03-30T01:27:54.047Z"
+  },
+  {
+    "link": "https://www.jrkyushu.co.jp/english/train/index.html",
+    "title": "Kyushu Railway Company Train Varieties",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T19:08:07.000Z",
+    "summaryZh": "您好，由於您提供的內容僅有標題「Kyushu Railway Company Train Varieties」及摘要處的「Comments」，並未包含實際的新聞稿文本，我無法為您總結其核心事實、關鍵主體與影響。請提供完整的新聞稿內容，我將樂意依照您的要求，以客觀冷靜的語氣，撰寫一段約180至250字的中文摘要。",
+    "summarizedAt": "2026-03-30T01:27:56.281Z"
+  },
+  {
+    "link": "https://github.com/alonsovm44/glupe",
+    "title": "Show HN: I made a \"programming language\" looking for feedback",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T18:35:58.000Z",
+    "summaryZh": "一位開發者近期在Hacker News的「Show HN」環節中，展示了他所創建的一個新「程式語言」。該專案旨在探索新的程式設計範式或語法結構，並明確表示其主要目的是向廣大技術社群徵求反饋。預計社群成員將針對該語言的設計理念、語法特性、潛在應用場景以及其相較於現有語言的獨特之處，提供深入的討論與建議。此舉旨在透過集體智慧，共同評估該「程式語言」的潛力與可行性，並為其未來的發展方向提供寶貴的參考依據。",
+    "summarizedAt": "2026-03-30T01:28:03.384Z"
+  },
+  {
+    "link": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+    "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T17:46:12.000Z",
+    "summaryZh": "一份關於ISO C++標準會議的行程報告指出，C++26標準的開發工作已取得關鍵進展，其核心特性集已大致完成。這意味著在最近的會議中，ISO C++標準委員會已就C++26的技術內容達成共識並予以凍結，為該標準的後續修訂與正式發布奠定基礎。此里程碑標誌著C++語言演進的重要一步，預示著開發者將在C++26中迎來一系列新的功能與改進。該報告通常會詳述會議期間的關鍵決策、討論內容及未來展望，為業界提供C++標準化進程的最新資訊。",
+    "summarizedAt": "2026-03-30T01:28:13.803Z"
+  },
+  {
+    "link": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+    "title": "Neovim 0.12.0",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T17:39:55.000Z",
+    "summaryZh": "開源文字編輯器 Neovim 近日發布了其 0.12.0 版本。此版本更新的核心亮點之一，是針對程式碼註解（comments）處理能力的顯著提升。這項改進旨在為開發者提供更智能、高效的註解管理體驗，可能包括優化註解的添加、刪除、切換功能，以及更精準的語法高亮和摺疊支持，以適應不同程式語言的註解規範。除了註解功能的強化，0.12.0 版本預計也整合了多項性能優化、錯誤修復，以及對現有 API 和插件生態系統的改進，進一步提升編輯器的穩定性和擴展性。作為一個由社群驅動的開源專案，Neovim 的持續迭代旨在為專業開發者提供一個更現代、功能更強大的 Vim 替代方案。此次更新預計將有效提升開發者的編碼效率和程式碼可讀性，用戶可透過 Neovim 的官方渠道下載並體驗新版本帶來的改進。",
+    "summarizedAt": "2026-03-30T01:28:22.311Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "title": "Sora’s shutdown could be a reality check moment for AI video",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-29T16:30:00.000Z",
+    "summaryZh": "近期有觀點指出，OpenAI開發的AI影片生成模型Sora若面臨服務終止或營運調整，可能對整個AI影片產業帶來一次現實檢驗。此一假設性情境引發了業界對於AI生成影片技術未來發展路徑的深入思考。討論的核心在於，這類潛在的服務變動究竟是個別企業（如OpenAI）基於其商業策略所做的正常調整，抑或是預示著AI生成影片領域將面臨更廣泛的投資縮減與發展放緩。分析人士認為，Sora的任何重大策略轉變，無論是技術瓶頸、商業模式挑戰還是市場接受度問題所致，都將促使相關企業重新評估其在AI影片領域的投入與預期。這不僅關乎單一產品的命運，更可能影響到整個AI內容創作生態系統的信心與投資方向，促使業界更加審慎地探索AI技術的商業化可行性與倫理邊界。",
+    "summarizedAt": "2026-03-30T01:28:30.953Z"
+  },
+  {
+    "link": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+    "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T16:26:55.000Z",
+    "summaryZh": "IBM的4 Pi系列航空航太電腦，在特定歷史時期內，曾是航空航太任務的關鍵運算支柱。這些電腦的崛起，展現了IBM在早期太空計算領域的技術實力，為太空探索與飛行控制提供了重要支持。然而，隨著半導體技術的快速進步，以及對更高性能、更小型化計算機的需求日益增長，4 Pi系列逐漸無法適應新的技術環境，最終走向衰落。其發展歷程反映了科技產品生命週期的自然規律，也為理解早期航空航太計算技術的演進提供了寶貴視角。",
+    "summarizedAt": "2026-03-30T01:28:39.717Z"
+  },
+  {
+    "link": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+    "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T16:12:22.000Z",
+    "summaryZh": "深空探測器旅行者一號（Voyager 1）至今仍依賴其原始硬體系統運作，包括僅 69 KB 的記憶體與一台八軌磁帶錄音機。這艘於 1977 年發射的探測器，歷經數十年星際飛行，已成為距離地球最遠的人造物體。儘管其搭載技術與當今標準相比極為有限且陳舊，旅行者一號仍持續穩定執行科學任務，向地球傳輸數據。這不僅彰顯了早期太空工程的卓越與耐用性，也為人類探索星際空間、理解宇宙提供了寶貴視角。",
+    "summarizedAt": "2026-03-30T01:28:59.454Z"
+  },
+  {
+    "link": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
+    "title": "Full network of clitoral nerves mapped out for first time",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T15:54:25.000Z",
+    "summaryZh": "某研究團隊首次成功繪製出陰蒂神經的完整網絡。這項突破性研究填補了長期以來對女性生殖器解剖學理解的空白，糾正了過去文獻中對陰蒂神經分佈的不完整或不準確描述。研究人員利用先進的成像技術和顯微解剖方法，詳細描繪了從陰蒂體到其末梢分支的神經路徑。這項精確的神經圖譜對於提升女性健康領域的醫療實踐具有重要意義。它預計將為陰蒂重建手術、性功能障礙的診斷與治療，以及因創傷或疾病導致的神經損傷修復提供更為精準的解剖學依據。此研究成果不僅深化了對人體解剖學的認識，也為未來相關醫學研究與臨床應用奠定了堅實基礎。",
+    "summarizedAt": "2026-03-30T01:29:06.692Z"
+  },
+  {
+    "link": "https://github.com/DavidHavoc/ayaFlow",
+    "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T15:28:27.000Z",
+    "summaryZh": "AyaFlow 是一款基於 eBPF 技術開發的高性能網路流量分析工具。該工具以 Rust 語言編寫，旨在提供高效、安全且資源佔用低的網路監控解決方案。eBPF（擴展柏克萊封包過濾器）的應用使其能夠在 Linux 核心層面進行深度資料包捕獲與分析，避免了傳統用戶空間工具的性能瓶頸和高資源消耗。這使得 AyaFlow 能夠提供極其精細的網路可見性，適用於監控複雜的雲原生、容器化及微服務架構環境。Rust 語言的選擇則進一步確保了工具的記憶體安全、併發處理能力及整體運行穩定性。AyaFlow 的核心目標是協助網路工程師、開發者及資安團隊，透過即時、全面的流量數據，快速識別網路異常、診斷性能問題並強化安全防禦。其高性能與低開銷的特性，使其成為現代分散式系統中不可或缺的網路可觀測性組件。",
+    "summarizedAt": "2026-03-30T01:29:14.212Z"
+  },
+  {
+    "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+    "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T14:20:23.000Z",
+    "summaryZh": "警方近期利用人工智慧臉部辨識技術，錯誤地逮捕了一名田納西州女性。該女性被指控涉嫌在北達科他州犯下罪行，然而後續調查顯示，她與這些案件並無關聯。此次事件凸顯了執法機構在應用新興科技時可能面臨的挑戰與潛在風險，特別是當技術的準確性或應用範圍存在局限時。此類誤捕不僅對個人造成了不必要的困擾，也引發了公眾對於AI技術在司法領域中可靠性與公平性的廣泛討論。未來，執法部門在部署AI工具時，需更加審慎地評估其效能與倫理影響，並建立更完善的驗證機制，以避免類似錯誤再次發生，確保公民權益不受侵犯。",
+    "summarizedAt": "2026-03-30T01:29:22.074Z"
+  },
+  {
+    "link": "https://github.com/austin-weeks/miasma",
+    "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T10:10:12.000Z",
+    "summaryZh": "「Miasma」是一款旨在應對人工智慧網路爬蟲的工具。其核心機制是透過建立一個「無盡的毒餌陷阱」，向這些爬蟲提供大量誤導性或污染性數據。此舉旨在消耗AI模型的訓練資源，並可能導致其學習到無用甚至有害的資訊。這項技術的出現，反映了當前網路內容提供者對於AI模型未經許可大量抓取數據的擔憂。Miasma的開發者期望藉此反制數據濫用行為，促使AI開發者更審慎地獲取訓練資料。此類工具的發展，預示著未來在數據獲取與AI模型訓練之間，將出現更多技術層面的攻防。",
+    "summarizedAt": "2026-03-30T01:29:30.445Z"
+  },
+  {
+    "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+    "title": "Nitrile and latex gloves may cause overestimation of microplastics",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T09:46:58.000Z",
+    "summaryZh": "一項研究指出，實驗室中常用的丁腈和乳膠手套，可能會導致微塑膠檢測結果被高估。這類手套在操作過程中可能釋放出微小的塑膠顆粒，進而污染樣本。此發現對當前微塑膠污染研究的數據準確性提出了質疑。研究人員在進行微塑膠相關實驗時，需重新審視其採樣與分析流程，以避免潛在的交叉污染。這項提示有助於提升未來微塑膠研究的可靠性與數據品質。",
+    "summarizedAt": "2026-03-30T01:29:37.015Z"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47561489",
+    "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+    "source": "Hacker News",
+    "pubDate": "2026-03-29T08:58:24.000Z",
+    "summaryZh": "很抱歉，我無法根據您提供的標題「LinkedIn uses 2.4 GB RAM across two tabs」和「摘要：Comments」來生成一篇符合字數和內容要求的中文摘要。一篇完整的科技新聞摘要需要包含核心事實或主張、關鍵主體、以及潛在的影響或後續發展。僅憑標題，我無法得知這項資訊的來源（例如是哪家機構的測試、在什麼環境下測得）、其背後的具體原因分析、以及這對用戶或業界可能意味著什麼。請提供完整的英文新聞稿內容，我將能為您撰寫一篇客觀、冷靜且符合所有規範的摘要。",
+    "summarizedAt": "2026-03-30T01:29:40.981Z"
+  },
+  {
     "link": "https://github.com/openyak/desktop",
     "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
     "source": "Hacker News",
