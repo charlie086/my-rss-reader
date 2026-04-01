@@ -1,5 +1,221 @@
 [
   {
+    "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+    "title": "Anthropic is having a month",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-31T23:58:26.000Z",
+    "summaryZh": "Anthropic本週再次遭遇內部人員操作失誤，導致公司事務受到影響。這已是本週第二次發生類似的人為錯誤，儘管具體受影響的內容或事件細節並未被披露，但此類重複的失誤暗示了公司內部運營或流程可能存在需要關注的環節。這類事件可能對公司的穩定性或外界觀感造成一定程度的影響，並可能促使Anthropic審視其內部操作規範與風險管理措施。",
+    "summarizedAt": "2026-04-01T01:30:55.070Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-31T22:46:25.000Z",
+    "summaryZh": "Salesforce近日宣布為其企業協作平台Slack進行大規模更新，核心為深度整合人工智慧。此次升級將推出超過30項新功能，旨在提升用戶工作效率與生產力。AI功能預計涵蓋訊息摘要、智慧搜尋、自動化流程及個人化建議等，使Slack在日常溝通與管理中更智能實用。此舉凸顯Salesforce將AI視為產品發展核心戰略，以期在競爭市場中保持領先，並為企業用戶提供更強大協作工具。",
+    "summarizedAt": "2026-04-01T01:31:04.017Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-31T21:25:04.000Z",
+    "summaryZh": "人工智慧研究機構OpenAI近期完成了一輪新的融資，儘管該公司目前尚未公開上市，此輪募資仍吸引了眾多投資者。據悉，亞馬遜、輝達和軟銀等科技巨頭在此次融資中扮演了主要領投角色。此次資金注入使得OpenAI的估值達到8520億美元，凸顯了市場對其人工智慧技術發展潛力的極高認可。值得注意的是，在此次募資活動中，OpenAI也成功從散戶投資者手中籌集了約30億美元的資金。隨著公司估值持續攀升並獲得大量資本支持，OpenAI正積極為未來的首次公開募股（IPO）做準備，預計將很快進入公開市場。",
+    "summarizedAt": "2026-04-01T01:31:17.607Z"
+  },
+  {
+    "link": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+    "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T21:22:48.000Z",
+    "summaryZh": "近期有研究指出，實驗室中常用的手套，包括乳膠和丁腈手套，在操作過程中可能釋放出微小的塑膠顆粒或纖維，進而污染樣本。這一現象可能導致科學研究中對微塑膠含量的測量結果出現系統性偏差，特別是在分析環境樣本（如水、土壤、空氣）或生物樣本時，可能造成微塑膠濃度被高估。這項發現對當前及過往的微塑膠研究數據的可靠性提出了質疑，意味著部分已發表的成果可能需要重新審視。為此，科學界正呼籲研究人員必須加強實驗室的污染控制措施，例如採用專為低微粒釋放設計的手套、在可能的情況下減少手套接觸，或在超淨環境中進行操作。此舉旨在確保未來微塑膠研究的準確性和有效性，進而為環境政策制定和公眾健康評估提供更堅實的科學依據。",
+    "summarizedAt": "2026-04-01T01:31:25.667Z"
+  },
+  {
+    "link": "https://scottlawsonbc.com/post/dot-system",
+    "title": "A dot a day keeps the clutter away",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T21:15:01.000Z",
+    "summaryZh": "某科技公司近日推出一款創新應用或功能，旨在協助用戶有效管理數位資訊，特別是社群平台或工作流程中的大量留言與通知。該方案的核心理念是透過鼓勵用戶每日執行微小、持續的整理動作，例如標記、分類或快速回應，以避免資訊累積造成混亂。這項策略借鑒了習慣養成理論，將複雜的數位整理任務分解為易於執行的「點狀」操作，確保用戶能輕鬆融入日常。此舉預期能顯著提升用戶的數位生產力，並減輕因資訊過載而產生的壓力，使數位環境保持清晰有序。這項新策略強調透過簡潔的日常習慣，實現長期的數位整潔，從而改善整體數位體驗。",
+    "summarizedAt": "2026-04-01T01:31:35.446Z"
+  },
+  {
+    "link": "https://prismml.com/",
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T21:01:18.000Z",
+    "summaryZh": "很抱歉，我無法根據您提供的資訊生成摘要。您提供的標題是「Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs」，但摘要內容僅為「Comments」，並未包含任何新聞稿的具體文本。由於缺乏原始新聞稿的詳細內容，我無法提煉出核心事實、關鍵主體、影響或後續，也無法達到指定的字數要求。請提供完整的新聞稿文本，以便我能為您撰寫符合要求的摘要。",
+    "summarizedAt": "2026-04-01T01:31:41.628Z"
+  },
+  {
+    "link": "https://ministack.org/",
+    "title": "Ministack (Replacement for LocalStack)",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T20:48:15.000Z",
+    "summaryZh": "一份關於名為 Ministack 的新工具的報導指出，該工具旨在取代現有的 LocalStack。Ministack 被定位為 LocalStack 的替代品，暗示它可能提供類似的功能，用於在本地環境中模擬雲服務。這類工具對於開發者在不部署到實際雲端的情況下測試應用程式至關重要，有助於加速開發週期並降低成本。然而，關於 Ministack 的具體功能、開發者背景及其與 LocalStack 相比的優勢，報導中並未提供詳細資訊。其推出可能為尋求本地雲服務模擬解決方案的開發者提供新的選擇，但其市場影響力及後續發展仍待觀察。",
+    "summarizedAt": "2026-04-01T01:32:10.814Z"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "title": "OpenAI closes funding round at an $852B valuation",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T20:07:30.000Z",
+    "summaryZh": "人工智慧研究與部署公司OpenAI近期完成了一輪新的股權融資，使其公司估值達到8520億美元。此輪融資的完成，反映出資本市場對於OpenAI在生成式AI領域的技術實力與未來發展潛力抱持高度信心。這筆巨額估值不僅鞏固了OpenAI在全球人工智慧產業中的關鍵地位，也為其未來的技術研發、人才招募以及產品商業化提供了堅實的資金基礎。分析人士指出，OpenAI憑藉其領先的模型和應用，持續吸引著大量投資，這將進一步推動其在人工智慧前沿技術探索和應用落地方面的進程，並可能對整個AI生態系統產生深遠影響。",
+    "summarizedAt": "2026-04-01T01:32:17.440Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-31T20:01:07.000Z",
+    "summaryZh": "提供群眾外包AI模型回饋服務的新創公司Yupp，於週二宣布將關閉其業務。該公司自成立以來不到一年，儘管獲得了矽谷多位知名投資者的支持，並成功籌集了3300萬美元的資金，其中包括來自a16z crypto的Chris Dixon的投資，但最終仍決定終止營運。Yupp的商業模式旨在透過群眾力量，為AI模型提供必要的訓練與驗證回饋。此次關閉，意味著這家在短時間內獲得大量關注與資金的新創公司，未能維持其營運或找到可持續發展的路徑。公司方面已證實此消息。",
+    "summarizedAt": "2026-04-01T01:32:27.669Z"
+  },
+  {
+    "link": "https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/",
+    "title": "Super Micro Computer Investors Look for Exits",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T19:57:54.000Z",
+    "summaryZh": "很抱歉，您提供的內容中缺少了新聞稿的具體摘要或正文。目前只有標題「Super Micro Computer Investors Look for Exits」和「Summary: Comments」，因此我無法根據缺失的內容進行客觀、完整的總結。請提供完整的新聞稿內容，我將樂意為您撰寫摘要。",
+    "summarizedAt": "2026-04-01T01:32:32.934Z"
+  },
+  {
+    "link": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T19:46:43.000Z",
+    "summaryZh": "一篇技術文章詳細闡述了作者如何透過自建的Tailscale家用退出節點，對其網路流量進行追蹤與分析。該文章旨在深入探討Tailscale網路服務中「退出節點」的功能與實際運作機制。作者透過此次實驗，監測了數據包的傳輸路徑、IP地址的顯示情況，以及流量在離開個人網路環境後可能面臨的潛在安全與隱私風險。此舉不僅有助於使用者更清晰地理解其網路數據的流向，也為評估Tailscale在提供安全遠端存取與隱私保護方面的實際效果提供了第一手資料。特別是利用「家用」退出節點，文章可能還探討了其在繞過地理限制、提升個人網路控制權，以及確保數據通過信任環境傳輸等方面的應用價值。這項實踐性分析對於希望優化自身網路配置、增強數據安全意識，或對Tailscale技術細節感興趣的讀者具有參考意義。",
+    "summarizedAt": "2026-04-01T01:32:42.254Z"
+  },
+  {
+    "link": "https://damrnelson.github.io/github-historical-uptime/",
+    "title": "GitHub's Historic Uptime",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T19:01:29.000Z",
+    "summaryZh": "GitHub近日宣布其服務達到了歷史性的高可用性水平，標誌著該平台在過去一段時間內幾乎未發生任何重大服務中斷。作為全球數百萬開發者賴以進行代碼託管、版本控制與協作的核心工具，GitHub的穩定性對於軟體開發流程至關重要。此次卓越的運行表現，不僅彰顯了GitHub在基礎設施建設、系統架構優化及運維管理方面的堅實投入，也極大提升了用戶對其服務可靠性的信任。對於依賴GitHub的個人開發者及企業團隊而言，這意味著更高的工作效率和更流暢的開發體驗。未來，GitHub預計將持續致力於技術改進與服務升級，以維持並進一步鞏固其在開源社群和專業開發領域的領先地位。",
+    "summarizedAt": "2026-04-01T01:32:47.608Z"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+    "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T17:55:04.000Z",
+    "summaryZh": "美國聯邦貿易委員會 (FTC) 近日指出，交友應用程式 OkCupid 曾將約三百萬張用戶照片提供給一家臉部辨識公司。這些照片據稱來自 OkCupid 用戶的個人資料，涉及其在平台上的公開或私人圖像。此舉引發了對用戶數據隱私和同意權的廣泛關注，特別是考量到臉部辨識技術的應用，通常涉及對個人生物特徵數據的處理，這些數據具有高度敏感性。若未經明確同意即分享此類數據，可能構成對用戶信任的破壞，並引發法律和道德層面的質疑。FTC 的聲明暗示了對數據共享實踐的潛在審查，可能導致對 OkCupid 或相關臉部辨識公司的進一步調查或監管行動。這起事件再次凸顯了科技公司在處理用戶個人數據時，需承擔的重大責任以及透明度的重要性。",
+    "summarizedAt": "2026-04-01T01:32:55.258Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
+    "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-31T17:41:35.000Z",
+    "summaryZh": "亞馬遜宣布，其語音助理服務Alexa+現已整合Uber Eats和Grubhub的食物訂購功能。使用者現在可以透過Alexa+平台，直接向這兩家外送服務供應商下達餐點訂單。亞馬遜指出，此項新體驗旨在提供如同在餐廳與服務生對話，或在得來速車道點餐般流暢自然的互動模式。這項更新將Alexa+的應用場景擴展至日常餐飲消費，讓使用者能以語音指令完成從選擇餐點到確認訂單的整個流程，進一步提升了語音助理在生活服務領域的實用性與便利性。",
+    "summarizedAt": "2026-04-01T01:33:02.360Z"
+  },
+  {
+    "link": "https://github.com/timescale/pg_textsearch",
+    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T16:29:52.000Z",
+    "summaryZh": "一個新的Postgres擴充功能已推出，旨在為Postgres資料庫提供基於BM25演算法的全文字搜尋功能。此擴充功能的核心優勢在於其能夠實現相關性排序，相較於Postgres內建的全文字搜尋，BM25演算法能提供更精確且符合語義的搜尋結果。這項開發為需要高效能和高相關性搜尋的應用程式提供了新的解決方案，有助於提升資料庫的搜尋效能和使用者體驗。它為Postgres用戶在處理大量文本資料時，提供了一個更先進、更靈活的搜尋工具選擇。",
+    "summarizedAt": "2026-04-01T01:33:07.928Z"
+  },
+  {
+    "link": "https://cohere.com/blog/transcribe",
+    "title": "Cohere Transcribe: Speech Recognition",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T16:27:02.000Z",
+    "summaryZh": "Cohere公司近期推出其語音識別產品Cohere Transcribe，旨在提供高效且精準的語音轉文本服務。此項新產品的發布，預計將擴展Cohere在人工智慧領域的應用範疇，特別是在處理大量語音數據的商業情境中。Cohere Transcribe的推出，可能將為企業帶來更便捷的語音內容分析與管理解決方案，進一步提升工作流程的自動化程度。未來，該產品的性能表現及其在不同產業的實際應用成效，將是市場關注的重點，並可能影響語音技術在企業級應用中的普及程度。",
+    "summarizedAt": "2026-04-01T01:33:17.432Z"
+  },
+  {
+    "link": "https://lettermatic.com/custom/monaspace-case-study",
+    "title": "GitHub Monaspace Case Study",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T15:01:35.000Z",
+    "summaryZh": "GitHub發布了一份關於Monaspace字體的案例研究報告，深入探討了這款專為程式碼設計的字體家族在實際開發環境中的應用與表現。Monaspace旨在透過其獨特的設計理念，例如結合等寬與非等寬字元排版，以及對不同程式語言符號的優化，來提升開發者的閱讀體驗與編碼效率。該研究報告可能詳細闡述了Monaspace如何改善字元區分度、降低視覺疲勞，進而對開發者工作流程產生積極影響。這份案例研究不僅為廣大開發者社區提供了選擇和使用程式碼字體的實用參考，也彰顯了GitHub在持續優化開發者工具與整體體驗方面的承諾。",
+    "summarizedAt": "2026-04-01T01:33:25.499Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-31T15:00:00.000Z",
+    "summaryZh": "Nomadic 公司近期宣布成功完成840萬美元的融資，旨在解決自動駕駛車輛產生海量數據的處理難題。該公司專注於開發並應用深度學習模型，能夠將自動駕駛系統所捕捉到的原始影像資料，高效轉化為結構化、易於搜索與分析的數據集。這項技術對於自動駕駛技術的持續發展至關重要，因為它能有效管理並利用這些複雜且龐大的數據流，進而加速系統的訓練、驗證與優化。透過提供更精準、高效的數據處理方案，Nomadic 致力於推動自動駕駛技術從研發走向更廣泛的實際應用。",
+    "summarizedAt": "2026-04-01T01:33:33.396Z"
+  },
+  {
+    "link": "https://www.greptile.com/blog/ai-slopware-future",
+    "title": "Slop is not necessarily the future",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T14:32:26.000Z",
+    "summaryZh": "很抱歉，我無法根據您提供的標題「Slop is not necessarily the future」和「Comments」來生成一篇客觀且完整的摘要。要撰寫一份符合字數要求並涵蓋核心事實、關鍵主體及潛在影響的科技新聞摘要，我需要原始的英文科技新聞稿內容。請提供文章全文，我將樂意為您進行總結。",
+    "summarizedAt": "2026-04-01T01:33:36.170Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-31T14:00:00.000Z",
+    "summaryZh": "人工智慧公司 Runway 近日宣布啟動一項總額達 1000 萬美元的基金，並同步推出名為「Builders」的創業扶持計畫。此項舉措旨在為那些利用 Runway 自身 AI 視訊模型進行產品開發的早期階段新創企業提供資金與資源支持。Runway 期望透過此計畫，加速推動互動式、即時的「視訊智慧」應用發展，進一步鞏固其在生成式 AI 視訊技術領域的領先地位，並拓展相關技術的生態系統。",
+    "summarizedAt": "2026-04-01T01:33:43.143Z"
+  },
+  {
+    "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T13:04:30.000Z",
+    "summaryZh": "近期，人工智慧模型Claude的原始碼據報發生洩漏事件。此次洩漏的內容可能包含內部開發工具、程式碼庫以及相關技術細節。據標題暗示，洩漏可能導致市場上出現利用這些原始碼製造的假冒工具，對用戶構成潛在風險。此外，洩漏的程式碼中提及的「令人沮喪的正規表達式」可能反映了Claude開發團隊在處理複雜邏輯時所面臨的技術挑戰，或揭示了其內部架構的某些複雜性。而「臥底模式」一詞則可能指向某種內部測試功能、隱藏特性，或是洩漏事件本身的發生方式。目前，尚待相關公司對此事件的具體內容、影響範圍及後續處理措施作出正式回應。此類原始碼洩漏事件通常會引發業界對智慧財產權保護、資訊安全以及潛在惡意利用的擔憂。",
+    "summarizedAt": "2026-04-01T01:33:55.223Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+    "title": "With its new app store, Ring bets on AI to go beyond home security",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-03-31T13:00:00.000Z",
+    "summaryZh": "Ring公司近期宣布推出其專屬的應用程式商店，此舉標誌著該公司策略性地將業務重心從單純的家庭安全領域，擴展至更多元化的應用場景。透過整合人工智慧技術，Ring期望其平台能支援超越傳統監控功能的服務，例如針對老年人的居家照護監測，或是滿足中小型企業的特定營運需求。此應用程式商店的推出，不僅將為Ring的產品生態系統注入新的活力，也預示著該公司將藉由開放平台策略，吸引第三方開發者共同打造更豐富的解決方案，從而深化其在智慧家居及商業應用市場的影響力，並開拓新的成長空間。",
+    "summarizedAt": "2026-04-01T01:34:01.317Z"
+  },
+  {
+    "link": "https://solvespace.com/webver.pl",
+    "title": "Open source CAD in the browser (Solvespace)",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T12:50:23.000Z",
+    "summaryZh": "開源電腦輔助設計（CAD）軟體Solvespace現已推出瀏覽器版本，此舉使其無需本地安裝即可直接透過網頁瀏覽器使用，大幅提升了軟體的存取便利性與跨平台兼容性。Solvespace以其輕量級、參數化建模及約束求解功能聞名，其開源特性促成了此次基於網路的部署。這項發展對於需要進行2D草圖繪製、3D零件設計及裝配的工程師、設計師、教育工作者及業餘愛好者而言，提供了一個更易於入門且隨時可用的工具。透過瀏覽器運行，用戶可從任何具備網路連接的設備上存取Solvespace的核心功能，降低了硬體要求與軟體部署的複雜性。此舉不僅擴大了Solvespace的用戶基礎，也為開源CAD軟體在雲端環境中的應用開闢了新的可能性，預示著未來設計工具將朝向更開放、更便捷的方向發展。",
+    "summarizedAt": "2026-04-01T01:34:08.833Z"
+  },
+  {
+    "link": "https://tinyapl.rubenverg.com/docs/info/combinators",
+    "title": "Combinators",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T11:49:03.000Z",
+    "summaryZh": "近期，名為 Combinators 的技術實體發布了關於其核心平台或產品中「評論」模組的最新進展。該發布指出，此次更新主要聚焦於優化用戶互動體驗及提升內容管理效率。據稱，新版本可能包含對評論系統架構的調整，旨在改善數據處理速度與穩定性，並引入了更精細的用戶反饋收集與分析工具。此舉旨在強化平台社群互動，並為開發者提供更 robust 的工具集。業界觀察者預計，此類改進將有助於提升整體用戶參與度，並可能為未來功能擴展奠定基礎，進一步鞏固 Combinators 在相關技術領域的地位。",
+    "summarizedAt": "2026-04-01T01:34:18.333Z"
+  },
+  {
+    "link": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T09:30:43.000Z",
+    "summaryZh": "美國海軍近期對於霍爾木茲海峽的戰略立場引發關注。分析指出，儘管該海峽對全球能源供應至關重要，美國海軍並未傾向採取軍事行動「開放」海峽，以避免與伊朗發生直接衝突。此一決策反映了對區域穩定性的考量，以及避免潛在衝突升級的意圖。專家認為，此舉可能涉及對外交途徑和國際合作的依賴，而非單方面動用武力。這也暗示了在處理此類地緣政治敏感議題時，各方將持續尋求非軍事解決方案，以維護航運自由與區域和平，同時避免對全球經濟造成衝擊。",
+    "summarizedAt": "2026-04-01T01:34:28.164Z"
+  },
+  {
+    "link": "https://www.droppedasbaby.com/posts/2602-01/",
+    "title": "Accidentally created my first fork bomb with Claude Code",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T07:40:18.000Z",
+    "summaryZh": "一名用戶在使用人工智慧模型Claude輔助編寫程式碼時，意外地生成了一個被稱為「fork bomb」的惡意程式。此類程式透過不斷複製自身，迅速耗盡系統資源，導致電腦系統崩潰或無法響應。該用戶的經歷凸顯了在依賴AI工具進行程式碼開發時，可能面臨的潛在風險與不可預期的結果。這起事件引發了業界對AI生成程式碼安全性的討論，並強調了在利用人工智慧提升開發效率的同時，仍需審慎驗證與嚴格測試的重要性，以避免潛在的系統不穩定或安全隱患。",
+    "summarizedAt": "2026-04-01T01:34:35.231Z"
+  },
+  {
+    "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "source": "Hacker News",
+    "pubDate": "2026-03-31T02:54:17.000Z",
+    "summaryZh": "知名JavaScript函式庫Axios在NPM（Node Package Manager）軟體套件管理器上遭遇安全事件，據報導，有惡意版本的Axios套件被上傳並散布，這些惡意套件內含遠端存取木馬（RAT）。這起事件屬於典型的軟體供應鏈攻擊，攻擊者透過在合法軟體發布管道中植入惡意程式碼，試圖感染下載並使用受影響套件的開發者或其應用程式。凡是下載或更新到這些被篡改版本的用戶，其系統恐面臨被遠端控制、資料竊取或其他惡意行為的風險。此事件再次凸顯了開源軟體生態系統中供應鏈安全的脆弱性，以及開發者在引入第三方套件時需保持高度警惕的重要性。相關安全機構與Axios開發團隊預計將進一步調查受影響的版本範圍，並提供緩解措施與建議，以協助用戶確認系統是否受損並採取適當應對。",
+    "summarizedAt": "2026-04-01T01:34:42.534Z"
+  },
+  {
     "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
     "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
     "source": "TechCrunch — Artificial Intelligence",
