@@ -1,5 +1,221 @@
 [
   {
+    "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
+    "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T23:45:03.000Z",
+    "summaryZh": "經典網路項目ZomboCom近期經歷了重大變革。據悉，該項目首先遭到駭客入侵並被盜取，其數位資產隨後被轉售。目前，ZomboCom的原始內容已被一個完全由人工智慧生成的全新面貌所取代。這項更新不僅改變了該網站的視覺呈現，也標誌著其所有權與內容來源的根本性轉變。此事件凸顯了數位資產在網路環境中面臨的安全挑戰，以及所有權轉移後可能帶來的內容與技術演進。ZomboCom的這一系列發展，為網路歷史上一個標誌性項目帶來了意想不到的結局，同時也展示了AI技術在內容生成領域的應用潛力。",
+    "summarizedAt": "2026-04-02T01:20:44.950Z"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=p1fPbGHe3xE",
+    "title": "Montana referendum to outlaw corporate campaign contributions [video]",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T23:42:19.000Z",
+    "summaryZh": "蒙大拿州將舉行一項公民投票，旨在禁止企業向政治競選活動提供獻金。這項公投的核心目標是限制企業在政治進程中的資金影響力。若公投獲得通過，蒙大拿州將成為禁止企業競選獻金的州份之一。此舉將對該州的競選資金規範產生直接影響，並可能重塑企業與政治活動之間的互動模式。這項提案反映了對競選資金透明度和公平性的關注，試圖減少企業資金對選舉結果的潛在影響。",
+    "summarizedAt": "2026-04-02T01:21:15.468Z"
+  },
+  {
+    "link": "https://github.com/ocaml/ocaml/pull/14701",
+    "title": "A new C++ back end for ocamlc",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T23:35:02.000Z",
+    "summaryZh": "OCaml編譯器 `ocamlc` 正在引入一個全新的C++後端。這項開發旨在提升編譯器的整體性能，包括編譯速度與生成代碼的執行效率。同時，採用C++作為後端有助於改善OCaml與現有C++工具鏈及庫的互操作性，為OCaml應用程式開拓更廣泛的部署場景。此舉由OCaml核心開發團隊推動，預期將為OCaml開發者帶來更優化的開發體驗及更強大的應用潛力。",
+    "summarizedAt": "2026-04-02T01:21:22.902Z"
+  },
+  {
+    "link": "https://www.afterpack.dev/blog/claude-code-source-leak",
+    "title": "Obfuscation is not security – AI can deobfuscate any minified JavaScript code",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T23:25:29.000Z",
+    "summaryZh": "近期研究指出，人工智慧（AI）技術，特別是大型語言模型（LLMs），已展現出能有效「去混淆」（deobfuscate）最小化（minified）JavaScript程式碼的能力。這項發現挑戰了業界長期以來將程式碼混淆視為一種安全措施的觀念，明確指出混淆並非真正的安全性保障。過去，開發者常利用程式碼混淆來保護智慧財產權、防止逆向工程，或作為惡意軟體分析的障礙。然而，AI現在能將這些難以閱讀的程式碼還原成更易於理解的形式，大幅降低了其作為防護手段的有效性。此能力對軟體安全領域帶來深遠影響，意味著攻擊者可能更容易分析專有程式碼、發現潛在漏洞，甚至複製智慧財產。因此，企業和開發者需要重新評估其程式碼保護策略，不能再單純依賴混淆來提供足夠的安全屏障，而應轉向更為嚴謹的安全實踐。",
+    "summarizedAt": "2026-04-02T01:21:30.810Z"
+  },
+  {
+    "link": "https://sentence2ipv6.tib3rius.com/",
+    "title": "IPv6 address, as a sentence you can remember",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T23:22:57.000Z",
+    "summaryZh": "針對IPv6位址因其長度與複雜性導致記憶與輸入困難的問題，近期有業界人士或研究團隊提出一項創新方案，旨在將IPv6位址轉化為更易於人類記憶的「句子」形式。此方案的核心理念是透過特定的編碼或映射機制，將冗長的十六進位數字串轉換為具有語義結構、甚至可讀性更高的詞組或短語組合。此舉旨在大幅降低使用者在日常操作中處理IPv6位址的認知負擔，提升其可用性與親和力。隨著全球網路基礎設施逐步向IPv6遷移，如何簡化其管理與應用一直是業界關注的焦點。這類記憶輔助技術的出現，有望加速IPv6的普及進程，特別是在個人用戶與非專業技術人員之間。未來，若此類方案能獲得廣泛採納並標準化，將對網路位址的呈現方式與使用者體驗產生深遠影響，進一步推動下一代網際網路的發展。",
+    "summarizedAt": "2026-04-02T01:21:38.398Z"
+  },
+  {
+    "link": "https://github.com/solvespace/solvespace/issues/1036",
+    "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T22:32:04.000Z",
+    "summaryZh": "開源2D/3D CAD軟體SolveSpace的開發團隊正致力於確保該軟體能在Windows 2000作業系統上正常運行，並預計於2025年完成此項工作。鑑於Windows 2000是一款發布於1999年的舊版作業系統，此舉在當前科技環境下顯得相當不尋常。這項努力可能旨在展現SolveSpace對極致向後兼容性的承諾，為仍在使用舊版硬體和作業系統的特定用戶群體提供支援，亦或反映開發團隊在技術挑戰方面的興趣。此進展為開源軟體社群中關於軟體壽命、兼容性及對歷史系統支援策略的討論，提供了新的視角。",
+    "summarizedAt": "2026-04-02T01:21:50.084Z"
+  },
+  {
+    "link": "http://techkettle.blogspot.com/2026/04/the-windows-equivalents-of-most-used.html",
+    "title": "The Windows equivalents of the most used Linux commands",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T22:25:14.000Z",
+    "summaryZh": "這篇文章旨在探討並列舉常用Linux指令在Windows作業系統中的對應功能。其核心主張是為熟悉Linux命令列環境的用戶提供一份實用指南，幫助他們理解如何在Windows的命令提示字元（CMD）或PowerShell中執行類似的任務。文章可能涵蓋了檔案管理、系統資訊查詢、網路工具等常見操作的指令對應，例如Linux的`ls`之於Windows的`dir`，或`cp`之於`copy`等。此類資訊對於跨平台開發者、系統管理員以及希望在不同作業系統間轉換技能的用戶而言，具有重要的參考價值，有助於他們更高效地在Windows環境下進行命令列操作，從而縮短學習曲線並提升工作效率。",
+    "summarizedAt": "2026-04-02T01:21:56.503Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-01T22:12:13.000Z",
+    "summaryZh": "人工智慧公司Anthropic近期對GitHub上數千個儲存庫發出下架通知，旨在移除據信為其外洩的原始碼內容。然而，Anthropic高層隨後表示，此舉為一次意外操作，並已迅速撤回了大部分的下架通知。這起事件引發了業界對企業如何有效管理敏感資訊外洩風險及數位版權保護的廣泛關注。儘管Anthropic迅速採取了糾正措施，但其原始碼外洩的具體原因、範圍及可能造成的長期影響，仍是外界持續追蹤的焦點。",
+    "summarizedAt": "2026-04-02T01:22:05.996Z"
+  },
+  {
+    "link": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+    "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T21:59:14.000Z",
+    "summaryZh": "針對在線交易平台 Swappa.com 上購買 GrapheneOS 相容設備的情況，出現了一項明確的警告。此警告建議用戶應「遠離」或避免透過該平台獲取此類設備。雖然具體原因未在標題中詳述，但此類建議通常暗示存在潛在的安全、隱私或設備完整性問題。這項提醒旨在促使潛在買家在考慮透過 Swappa.com 購買用於運行 GrapheneOS 的設備時，保持高度警惕，並可能需要尋求其他更可靠的來源，以確保設備的安全性與預期功能。",
+    "summarizedAt": "2026-04-02T01:22:12.960Z"
+  },
+  {
+    "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+    "title": "DRAM pricing is killing the hobbyist SBC market",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T21:36:41.000Z",
+    "summaryZh": "近期有觀點指出，動態隨機存取記憶體（DRAM）的價格走勢，正對業餘愛好者單板電腦（SBC）市場構成顯著影響。作為SBC的核心關鍵組件之一，DRAM的成本在其整體物料清單（BOM）中佔據相當比重。當DRAM價格持續上揚時，SBC製造商面臨更高的生產成本，這通常會轉嫁到終端產品的零售價格上，導致SBC產品的整體售價隨之攀升。這種價格上漲可能直接抑制了業餘愛好者和開發者的購買意願，特別是對於預算敏感的群體而言。對於依賴低成本和高性價比來吸引用戶的SBC市場而言，DRAM價格的壓力不僅壓縮了製造商的利潤空間，也提高了新用戶進入該領域的門檻。長期來看，這可能導致市場創新放緩，新產品的推出受阻，甚至影響到相關開源硬體生態系統的健康發展。因此，DRAM價格的波動被視為當前業餘SBC市場面臨的一項嚴峻挑戰。",
+    "summarizedAt": "2026-04-02T01:22:21.475Z"
+  },
+  {
+    "link": "https://getdull.app",
+    "title": "Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T21:04:53.000Z",
+    "summaryZh": "一款名為「Dull」的全新iOS應用程式已推出。該應用程式旨在提供一個無短影音內容的社群媒體體驗，明確排除類似Instagram Reels或YouTube Shorts的功能。其核心主張是為用戶提供一個專注於較長形式內容的平台，避免主流社群媒體上常見的演算法驅動式短影音所帶來的干擾。作為一個新興選項，Dull期望吸引尋求不同社群互動模式的用戶，並提供一個更為沉靜、專注的內容消費環境。",
+    "summarizedAt": "2026-04-02T01:22:29.422Z"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
+    "title": "InspectMind AI (YC W24) Is Hiring",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T21:00:06.000Z",
+    "summaryZh": "InspectMind AI，一家隸屬於知名創業加速器Y Combinator 2024年冬季批次的科技初創公司，目前正積極啟動其人才招募計畫。作為Y Combinator孵化的一員，InspectMind AI的招聘活動通常預示著公司正處於成長階段，旨在擴充團隊以支持其技術研發、產品迭代或市場拓展。此類招募對於新興科技公司而言，是其業務發展與實現未來目標的關鍵一步，亦可能吸引業界對於其創新方向與潛力的關注。然而，該新聞稿中並未提供具體的招聘職位、業務細節或預期影響等進一步資訊。",
+    "summarizedAt": "2026-04-02T01:22:43.347Z"
+  },
+  {
+    "link": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+    "title": "Signing data structures the wrong way",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T19:52:00.000Z",
+    "summaryZh": "近期科技界關注一項關於資料結構簽署方式的潛在問題。該問題指出，若開發者未能正確實施資料結構的數位簽署機制，可能導致嚴重的安全漏洞。這類錯誤的簽署方法恐會破壞資料的完整性與真實性，進而使系統面臨未經授權的篡改或偽造風險。儘管具體受影響的平台或程式庫未詳述，但此議題提醒了廣大開發者社群，在設計與實施安全協定時，務必遵循最佳實踐，並對簽署流程的細節保持高度警惕，以避免潛在的資安威脅。",
+    "summarizedAt": "2026-04-02T01:22:53.898Z"
+  },
+  {
+    "link": "https://benoit.paris/posts/jax-ray-marcher/",
+    "title": "Jax's true calling: Ray-Marching renderers on WebGL",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T19:36:07.000Z",
+    "summaryZh": "一篇技術文章探討了Google的JAX函式庫在開發光線步進（Ray-Marching）渲染器方面的應用。該文核心主張為JAX在處理此類圖形渲染任務時展現出獨特優勢，或認為這是其「真正潛力」的體現。這些渲染器主要針對WebGL平台，使其能在網頁瀏覽器中執行，無需額外插件。此類技術結合有望提升網頁端3D圖形渲染的效率與複雜度，為開發者提供新的工具組合，進而拓展網頁互動式視覺內容的可能性。",
+    "summarizedAt": "2026-04-02T01:23:02.063Z"
+  },
+  {
+    "link": "https://www.sciencedaily.com/releases/2026/03/260313002633.htm",
+    "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T19:26:12.000Z",
+    "summaryZh": "科學家們近期解開了困擾核物理界長達二十年的謎團，揭示了黃金等重元素在宇宙中形成的關鍵核反應機制。長期以來，主流理論認為黃金主要在中子星合併等極端天文事件中產生。然而，這項新研究透過深入的實驗與理論分析，可能修正了我們對這些元素合成過程的理解。研究團隊的發現，為理解宇宙中重元素的豐度與分佈提供了新的視角，並對核合成理論及宇宙演化模型產生深遠影響。這項突破性進展有助於我們更精確地描繪宇宙中物質起源的完整圖景。",
+    "summarizedAt": "2026-04-02T01:23:09.176Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "title": "Meta’s natural gas binge could power South Dakota",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-01T18:35:36.000Z",
+    "summaryZh": "Meta公司正著手規劃，為其即將啟用的Hyperion人工智慧資料中心，部署十座新建的天然氣發電廠以供應所需電力。這項龐大的能源基礎設施建設計畫，旨在滿足該AI資料中心預期的高能耗需求。據相關報導標題指出，此能源供應規模甚至可能達到足以支撐美國南達科他州整體電力消耗的水平。這不僅突顯了大型人工智慧運算設施對電力的巨大依賴，也預示了其在當地能源供應鏈與環境影響層面的潛在重要性。此案例反映出科技巨頭在擴展AI基礎建設時，所面臨的能源策略選擇與挑戰。",
+    "summarizedAt": "2026-04-02T01:23:18.795Z"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
+    "title": "SpaceX files to go public",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T17:49:54.000Z",
+    "summaryZh": "SpaceX已提交上市申請，此舉標誌著這家由伊隆·馬斯克創立的私人航太製造與太空運輸服務公司，正朝向公開募股邁進。若成功上市，SpaceX將從私人企業轉變為上市公司，其股權結構將發生重大變化，並向公眾投資者開放。此舉預計將為其諸如星艦開發、星鏈衛星網路部署以及火星探索等雄心勃勃的計畫籌集大量資金。市場將密切關注其後續的上市進展，以了解其對公司未來發展策略與資金募集能力的具體影響，並評估其對全球航太產業格局可能帶來的變化。",
+    "summarizedAt": "2026-04-02T01:23:25.110Z"
+  },
+  {
+    "link": "https://flight-viz.com",
+    "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T17:34:16.000Z",
+    "summaryZh": "一個名為 Flight-Viz 的新專案在 Hacker News 上展示，該專案旨在於一個三維地球儀上視覺化呈現一萬條飛行航線。此工具的核心功能是將大量的航空數據以互動式的方式展現，讓使用者能夠直觀地觀察全球範圍內的航班動態。值得注意的是，Flight-Viz 在技術實現上展現了高效能與輕量化的特性，其整體應用程式大小僅約 3.5 MB。這項技術成果主要歸功於其採用了 Rust 程式語言與 WebAssembly (WASM) 技術進行開發。Rust 以其記憶體安全和高效能著稱，而 WebAssembly 則允許在網頁瀏覽器中執行接近原生速度的程式碼，兩者結合使得 Flight-Viz 能夠在保持較小體積的同時，提供流暢且數據豐富的視覺化體驗。",
+    "summarizedAt": "2026-04-02T01:23:31.444Z"
+  },
+  {
+    "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+    "title": "AI for American-produced cement and concrete",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T17:17:24.000Z",
+    "summaryZh": "近期討論聚焦於人工智慧（AI）在美國水泥與混凝土生產領域的應用。此舉旨在透過技術創新，提升本土建材產業的效率與永續性。AI技術的導入預期將從多方面優化生產流程，包括精準控制原料配比、預測設備維護需求、最佳化能源消耗，以及改善供應鏈管理。這些應用有助於降低生產成本、提高產品品質的一致性，並減少碳排放量，以應對氣候變遷挑戰。業界專家與研究機構普遍認為，AI的整合將是推動美國水泥與混凝土產業現代化轉型的關鍵驅動力。這不僅能強化美國在全球市場的競爭力，亦能為基礎設施建設提供更環保、高效的解決方案。隨著數位化工具的普及，相關企業正積極探索AI模型在材料科學研發、生產排程與品質監測上的潛力，以期建立更具韌性與智慧化的生產體系。此發展預示著美國建材製造業將邁向一個由數據驅動的新時代。",
+    "summarizedAt": "2026-04-02T01:23:38.859Z"
+  },
+  {
+    "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+    "title": "NASA’s Artemis II Crew Launches to the Moon",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T17:11:31.000Z",
+    "summaryZh": "美國國家航空暨太空總署（NASA）的阿提米絲二號（Artemis II）任務已啟動，將載人環繞月球。這是自阿波羅計畫以來，首次有太空人執行繞月飛行任務，標誌著人類深空探索的新階段。此任務旨在測試獵戶座（Orion）太空船與太空發射系統（SLS）火箭的性能，並驗證深空載人飛行的關鍵技術。四名太空人將搭乘獵戶座飛船，在不登陸月球的情況下，完成為期約十天的繞月飛行，為後續的阿提米絲三號載人登月任務奠定基礎。此次飛行是NASA實現人類重返月球並最終前往火星願景的重要一步。",
+    "summarizedAt": "2026-04-02T01:23:54.283Z"
+  },
+  {
+    "link": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+    "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T16:17:35.000Z",
+    "summaryZh": "一項針對 OpenClaw 任務的最新評估結果顯示，由 StepFun 公司開發的 3.5 Flash 模型，在成本效益方面表現突出，被評為同類產品中的領先者。這項結論是基於該模型在 300 場模擬對戰中的綜合表現數據。評估指出，StepFun 3.5 Flash 在處理 OpenClaw 相關任務時，不僅展現出高效能，同時在資源消耗與投入成本之間取得了優異的平衡。此結果對於尋求在特定應用場景中優化運營效率與降低總體擁有成本的企業或開發者而言，提供了重要的參考依據，預計將影響未來相關技術的選型與部署策略。",
+    "summarizedAt": "2026-04-02T01:24:04.290Z"
+  },
+  {
+    "link": "https://blog.cloudflare.com/emdash-wordpress/",
+    "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T16:14:38.000Z",
+    "summaryZh": "EmDash 是一個被視為 WordPress 精神繼承者的新平台，其核心主張在於解決 WordPress 長期以來面臨的外掛程式安全性問題。傳統上，WordPress 豐富的外掛程式生態系統雖然提供了高度彈性，但也因其開放性而常成為安全漏洞的來源。EmDash 旨在透過創新的架構或機制，從根本上提升平台的安全性，為用戶提供一個更穩定、可靠的內容管理解決方案。此舉預期將吸引那些對現有 WordPress 外掛程式安全隱患感到擔憂的企業或個人用戶，為他們提供一個新的選擇，以確保其網站數據與營運的安全性。",
+    "summarizedAt": "2026-04-02T01:24:11.935Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-01T16:00:00.000Z",
+    "summaryZh": "Cognichip公司近期成功募資6000萬美元，旨在推動其核心技術發展，即利用人工智慧（AI）來設計驅動AI運算的晶片。該公司主張，透過其AI驅動的設計方法，能夠顯著降低晶片開發的成本與時間。具體而言，Cognichip聲稱可將晶片開發成本減少超過75%，並將整體開發週期縮短逾一半。此舉旨在解決當前晶片設計領域面臨的高成本與長時間挑戰，若能成功實現，預期將大幅提升晶片設計的效率與經濟性，進而加速AI技術的發展與普及，對AI晶片產業產生深遠影響。",
+    "summarizedAt": "2026-04-02T01:24:16.241Z"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47601859",
+    "title": "Ask HN: Who is hiring? (April 2026)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T15:01:36.000Z",
+    "summaryZh": "Hacker News於2026年4月再次發布其標誌性的「誰在招聘？」系列貼文，為科技業界提供一個開放的招聘與求職平台。此每月更新的討論串，旨在連結全球尋找人才的企業與尋求新機會的專業人士。參與企業涵蓋從新創公司到成熟科技巨頭，詳細列出其最新的職位空缺，職位類型廣泛，包括軟體工程師、數據科學家、產品經理、設計師等技術與非技術崗位，反映了當前科技產業多元化的人才需求。求職者可藉此直接瀏覽大量職位資訊，並與招聘方進行初步互動，了解職位要求與公司文化。「誰在招聘？」系列已成為Hacker News社群的重要傳統，不僅是科技人才流動的風向標，也為業界持續提供寶貴的招聘與求職資源，有效促進了科技生態系統內的人才匹配與發展。",
+    "summarizedAt": "2026-04-02T01:24:28.510Z"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47601858",
+    "title": "Ask HN: Who wants to be hired? (April 2026)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-01T15:01:36.000Z",
+    "summaryZh": "Hacker News平台於2026年4月按月發布了其標誌性的「誰想被僱用？」主題貼文，此舉旨在為全球科技業界的求職者與潛在雇主之間，建立一個直接且高效的交流管道。作為Hacker News社群的長期傳統，這類每月定期推出的貼文，提供了一個開放的平台，讓包括軟體工程師、資料科學家、產品經理、UI/UX設計師及其他技術專業人士在內的廣泛人才，能夠在評論區詳細發布他們的個人簡介、核心技能、過往經驗、所在地理位置以及期望的職位類型。同時，尋求技術人才的企業、新創公司或招聘人員，則可以主動瀏覽這些豐富的個人資料，並直接與符合其需求的候選人取得聯繫。這種去中心化且由社群驅動的招聘機制，特別受到那些重視技術能力、創新思維和社群參與度的公司青睞。",
+    "summarizedAt": "2026-04-02T01:24:36.242Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-01T14:00:00.000Z",
+    "summaryZh": "StrictlyVC San Francisco 將於 4 月 30 日舉辦一場業界活動，屆時將匯聚來自 TDK Ventures、Replit 等知名企業的領袖人物。此次聚會旨在為科技與創投領域的決策者提供一個交流平台，促進思想碰撞與合作機會。鑑於活動場地空間有限，主辦單位特別提醒有意參與者務必盡早完成註冊，以確保席位。這場活動預計將深入探討當前科技發展趨勢、創新投資策略以及新興技術的未來走向，為與會者提供前瞻性的洞察與行業見解。",
+    "summarizedAt": "2026-04-02T01:24:43.904Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-01T01:42:59.000Z",
+    "summaryZh": "AI 招聘新創公司 Mercor 近日發布聲明，證實其遭遇了一起網路安全事件。該公司明確指出，此次攻擊與開源專案 LiteLLM 的安全漏洞洩露存在關聯。此前，一個活躍的勒索駭客組織已公開聲稱，他們成功從 Mercor 的內部系統中竊取了大量數據。Mercor 在其官方聲明中確認了這起數據被盜的安全事件，並表示目前正積極展開內部調查，以釐清受影響的具體範圍、被竊數據的性質以及此次事件可能帶來的後續影響。",
+    "summarizedAt": "2026-04-02T01:24:52.657Z"
+  },
+  {
     "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
     "title": "Anthropic is having a month",
     "source": "TechCrunch — Artificial Intelligence",
