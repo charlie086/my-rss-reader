@@ -1,5 +1,205 @@
 [
   {
+    "link": "https://github.com/axios/axios/issues/10636",
+    "title": "Post Mortem: axios NPM supply chain compromise",
+    "source": "Hacker News",
+    "pubDate": "2026-04-03T00:00:19.000Z",
+    "summaryZh": "近期，知名JavaScript HTTP客戶端函式庫Axios的NPM套件供應鏈發生安全事件。該事件涉及惡意程式碼被植入到Axios的NPM套件中，導致使用受影響版本的開發者面臨潛在的資安風險。初步調查顯示，攻擊者可能透過某種途徑，如帳戶憑證洩露或惡意套件注入，成功修改了官方發布的套件內容。這類供應鏈攻擊通常旨在竊取敏感資料、植入後門或執行遠端程式碼，對依賴該函式庫的應用程式及其使用者構成嚴重威脅。Axios團隊與NPM平台在發現問題後迅速採取行動，移除了惡意版本並發布了安全更新，同時建議所有使用者立即檢查其專案依賴，並更新至最新且安全的版本。此事件再次凸顯了開源軟體供應鏈安全的重要性，促使開發者社群與平台方加強安全措施，例如實施多因素驗證、提升套件審核機制及推廣安全開發實踐，以防範未來類似的攻擊。",
+    "summarizedAt": "2026-04-03T01:23:16.446Z"
+  },
+  {
+    "link": "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/",
+    "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T23:26:01.000Z",
+    "summaryZh": "名為「Tor Alva」的建築項目，據稱已成為全球最高的3D列印建築，標誌著建築領域增材製造技術的一項重要里程碑。此項目展示了3D列印技術在大型結構建造方面的潛力，其核心在於利用先進的機器人列印系統和特殊配方的建築材料，實現了傳統工藝難以達到的複雜結構與高度。這項成就的實現，不僅突破了現有3D列印建築的高度紀錄，也為未來城市建設、可持續建築以及快速建造方案提供了新的思路。此類創新項目預示著建築行業正逐步邁向數位化與自動化，有望在降低資源消耗、減少施工時間和提高設計自由度方面發揮關鍵作用。它的成功實踐為全球範圍內探索新型建造模式提供了寶貴的經驗與參考，推動了建築科技的進一步發展。",
+    "summarizedAt": "2026-04-03T01:23:27.943Z"
+  },
+  {
+    "link": "https://www.bi6.us/CO/MG.HTML",
+    "title": "A Few Good Magazines From the 70s and 80s",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T23:17:26.000Z",
+    "summaryZh": "您提供的標題「A Few Good Magazines From the 70s and 80s」與摘要「Comments」並非一篇科技新聞稿的內容。由於缺乏具體的科技新聞資訊，我無法依照您的指示，總結出包含核心事實、關鍵主體及影響的中文摘要。請提供完整的英文科技新聞稿原文，以便我能準確地進行客觀且冷靜的總結。",
+    "summarizedAt": "2026-04-03T01:23:30.383Z"
+  },
+  {
+    "link": "https://artemis-ii-tracker.com/",
+    "title": "Show HN: Made a little Artemis II tracker",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T23:16:05.000Z",
+    "summaryZh": "在Hacker News上，一位開發者展示了一個名為「Artemis II tracker」的追蹤工具。該工具旨在監測美國國家航空暨太空總署（NASA）「阿提米絲二號」（Artemis II）載人月球任務的進度。透過此應用，用戶可以獲取任務的實時狀態、軌道資訊及其他相關數據。此類社群開發的工具為公眾提供了另一種途徑，以更直觀地了解並參與重大太空探索計畫。這類獨立開發的項目，通常能以獨特的視角或簡潔的介面，補充官方資訊的不足，提升公眾對太空任務的關注度。",
+    "summarizedAt": "2026-04-03T01:23:37.244Z"
+  },
+  {
+    "link": "https://danieltemkin.com/Esolangs/Memo/",
+    "title": "Memo: A language that remembers only the last 12 lines of code",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T22:21:24.000Z",
+    "summaryZh": "近期，一種名為Memo的新型程式語言引起了業界關注。其核心設計理念獨特，即該語言僅能「記憶」並處理最後十二行的程式碼。這項嚴格的記憶限制，使其在傳統程式設計範式中顯得與眾不同，挑戰了開發者對程式碼組織與邏輯連貫性的既有認知。Memo的出現，可能旨在探索極簡程式設計的可能性，或是作為一種實驗性工具，促使開發者以更精煉、模組化的方式思考問題。此設計預計將在程式語言社群中引發關於效率、可讀性及新興應用場景的討論。",
+    "summarizedAt": "2026-04-03T01:23:44.814Z"
+  },
+  {
+    "link": "https://paradedb.notion.site/",
+    "title": "ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T22:13:03.000Z",
+    "summaryZh": "ParadeDB，一家隸屬於Y Combinator 2023夏季批次的初創公司，近日宣布啟動招聘，尋求專精於Rust語言的資料庫內部工程師。此舉旨在擴大其工程團隊，以加速其資料庫解決方案的開發與迭代。作為一家新興的資料庫技術公司，ParadeDB的此次人才招募，預示著其在產品發展與市場拓展方面的積極策略。公司期望透過引入頂尖人才，進一步強化其核心技術實力，並推動資料庫產品的創新與完善。",
+    "summarizedAt": "2026-04-03T01:23:51.165Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-02T19:21:00.000Z",
+    "summaryZh": "OpenAI 宣布收購了 TBPN，這個在矽谷廣受歡迎、由創始人主導的商業脫口秀節目。儘管被收購，TBPN 將繼續保持獨立運作，其日常事務將由 OpenAI 的首席政治策略師 Chris Lehane 負責監督。",
+    "summarizedAt": "2026-04-03T01:24:18.482Z"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c62492e925lo",
+    "title": "The Australian government has announced gambling advertising reforms",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T18:24:12.000Z",
+    "summaryZh": "澳洲政府近期宣布將針對博弈廣告實施一系列改革措施。此舉旨在回應社會對博弈廣告過度曝光及潛在危害的擔憂，特別是對於弱勢群體和未成年人的影響。預計這些改革將涵蓋廣告內容、播放時段、呈現方式及目標受眾等多個面向，以期建立更為嚴格的規範框架。政府此舉旨在平衡產業發展與公共利益，減少博弈廣告對社會造成的負面衝擊，並促進負責任的博弈行為。後續相關法規細節及實施辦法將逐步公布，業界與社會各界正密切關注其具體影響。",
+    "summarizedAt": "2026-04-03T01:24:31.033Z"
+  },
+  {
+    "link": "https://tailscale.com/blog/macos-notch-escape",
+    "title": "Tailscale's new macOS home",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T18:22:03.000Z",
+    "summaryZh": "針對標題為「Tailscale's new macOS home」的科技新聞稿，由於僅提供了標題資訊，而缺乏具體的新聞稿內文，因此無法依據核心事實、關鍵主體（如公司、產品細節）及其可能帶來的影響或後續發展等要求，進行客觀且完整的中文摘要。若能提供完整的英文新聞稿內容，方可進行精確的總結與分析。",
+    "summarizedAt": "2026-04-03T01:24:42.720Z"
+  },
+  {
+    "link": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+    "title": "George Goble has died",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T18:21:08.000Z",
+    "summaryZh": "很抱歉，您提供的內容僅有標題「George Goble has died」和「Comments」，並未包含新聞稿的具體內文。作為資深科技新聞編輯，我需要完整的原文資訊，才能客觀、準確地總結其核心事實、關鍵主體及其影響。請提供完整的英文科技新聞稿，我將依照您的要求進行摘要。",
+    "summarizedAt": "2026-04-03T01:24:47.226Z"
+  },
+  {
+    "link": "https://cursor.com/blog/cursor-3",
+    "title": "Cursor 3",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T18:13:41.000Z",
+    "summaryZh": "該科技新聞稿主要圍繞名為 Cursor 3 的產品展開討論。儘管具體細節未被闡明，但新聞稿的核心內容聚焦於與 Cursor 3 相關的各類評論。這些評論可能涵蓋了產品的初步反饋、用戶體驗、技術評估或市場對其發布的反應。由於缺乏進一步的資訊，目前無法判斷 Cursor 3 的具體功能、所屬開發公司、其在行業中的定位，或是這些評論可能帶來的直接影響與後續發展。因此，該新聞稿主要呈現了圍繞 Cursor 3 的討論現狀，而未深入探討其技術規格或市場策略。未來若有更多關於 Cursor 3 及其相關評論的具體內容釋出，將有助於更全面地理解其潛在價值與影響。",
+    "summarizedAt": "2026-04-03T01:24:57.890Z"
+  },
+  {
+    "link": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+    "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T17:29:03.000Z",
+    "summaryZh": "一份於2008年發表的評論，其核心主張為「優良的理念或產品，其內在價值應足以贏得公眾認可，無需依賴不實陳述或誇大其詞來獲取社會接受度」。這項聲明在當時的背景下，可能旨在呼籲科技與商業領域的推廣活動應回歸誠信本質，強調透明化溝通的重要性。該觀點指出，真正的創新與價值，應能憑藉自身優勢立足市場，而非透過誤導性資訊來建立聲譽。此一原則性立場，對於鼓勵企業在產品開發與市場溝通中堅守道德底線，以及促進消費者信任，具有長遠的指導意義。它提醒業界，長期的成功建立於真實與可靠之上，而非短暫的虛假宣傳。這類評論通常由業界領袖或權威機構發出，旨在引導行業風氣，促使各方在追求創新與商業利益的同時，不忘社會責任與倫理規範，確保市場資訊的公正與透明，最終維護整個產業的健康發展。",
+    "summarizedAt": "2026-04-03T01:25:07.321Z"
+  },
+  {
+    "link": "https://openai.com/index/openai-acquires-tbpn/",
+    "title": "OpenAI Acquires TBPN",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T17:26:49.000Z",
+    "summaryZh": "人工智慧研究與開發公司OpenAI宣布已完成對TBPN的收購。然而，關於此次收購的具體細節，新聞稿中並未提供充分資訊。TBPN的業務性質、其在科技領域的專長，以及此次交易的財務條款，均未在公告中披露。此外，OpenAI收購TBPN的戰略動機，以及TBPN未來將如何整合進OpenAI的產品線或研究方向，也未有明確說明。這份簡短的聲明僅確認了收購行為本身，而缺乏通常伴隨此類重大企業活動的背景資訊與未來展望。因此，此次收購對OpenAI長期發展的潛在影響，目前仍難以評估，有待更多官方資訊的釋出。",
+    "summarizedAt": "2026-04-03T01:25:14.769Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-02T16:48:16.000Z",
+    "summaryZh": "微軟旗下的MAI部門在成立約六個月後，正式發布了三款全新的基礎人工智慧模型。這些模型的核心功能涵蓋了將語音內容精準轉錄為文字、獨立生成音頻，以及創造圖像等多模態能力。此舉不僅展現了MAI在AI技術研發上的進展，也標誌著微軟正積極投入基礎模型領域的競爭，旨在強化其在快速發展的人工智慧生態系統中的地位，與其他領先的AI公司展開技術較量。這些模型的推出，預計將為未來的AI應用開發提供更堅實的底層支持。",
+    "summarizedAt": "2026-04-03T01:25:22.584Z"
+  },
+  {
+    "link": "https://deepmind.google/models/gemma/gemma-4/",
+    "title": "Google releases Gemma 4 open models",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T16:10:54.000Z",
+    "summaryZh": "Google 近日發布了其開源模型系列 Gemma 的最新版本 Gemma 4。此版本旨在延續 Gemma 系列的開放性與可存取性，為開發者和研究人員提供更強大的工具。Gemma 4 提供了多種模型尺寸，例如 2B、7B 和 27B 參數版本，以適應不同應用場景的需求。據稱，Gemma 4 在多項基準測試中展現了顯著的性能提升，尤其是在邏輯推理、程式碼生成和數學運算等領域。新版本還引入了多模態能力，使其能夠處理和理解文字以外的資訊，例如圖像。這些模型已在 Hugging Face、Kaggle 等主流 AI 開發平台以及 Google Cloud 的 Vertex AI 上開放，方便全球開發者取用和部署。",
+    "summarizedAt": "2026-04-03T01:25:30.711Z"
+  },
+  {
+    "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+    "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T16:00:27.000Z",
+    "summaryZh": "一位前微軟 Azure 核心工程師近期發表了一系列評論，詳細闡述了其在職期間觀察到的內部決策如何逐步侵蝕了用戶對 Azure 平台的信任。該工程師指出，某些管理與技術層面的選擇，例如對技術債務的處理方式、資源分配的優先順序，以及在追求新功能與確保核心穩定性之間的權衡，未能充分顧及平台的長期健康與客戶體驗。這些決策最終導致了服務可靠性下降、客戶支援效率受影響，進而削弱了用戶對 Azure 服務品質與未來發展方向的信心。此類來自內部人士的觀點，為外界理解大型雲端服務供應商在快速發展過程中可能面臨的挑戰提供了獨特視角。相關言論在科技社群中引發了廣泛討論，促使業界重新審視雲端基礎設施的穩健性與透明度問題。此事件不僅是對微軟 Azure 內部營運的一次審視，也可能促使該團隊對其內部流程與決策機制進行評估與調整，以期重建用戶信任並確保服務品質。",
+    "summarizedAt": "2026-04-03T01:25:39.397Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "title": "Google now lets you direct avatars through prompts in its Vids app",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-02T16:00:00.000Z",
+    "summaryZh": "Google 近期在其 Vids 應用程式中推出一項新功能，旨在提升用戶的影片創作體驗。此更新允許用戶透過輸入文字提示詞，來直接指導和客製化虛擬替身（avatars）的動作與表現。這項功能使得用戶能夠更精準地控制影片中虛擬角色的行為模式、表情及姿態，進而簡化了影片製作流程，並為內容創作者提供了更豐富的敘事工具。透過這種方式，Vids 應用程式旨在降低專業影片製作的門檻，讓更多用戶得以利用AI技術，高效地生成具有特定情境和角色互動的影片內容。此舉預計將進一步拓展AI在多媒體創作領域的應用潛力。",
+    "summarizedAt": "2026-04-03T01:25:45.112Z"
+  },
+  {
+    "link": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+    "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T15:08:45.000Z",
+    "summaryZh": "據報導，美國國家航空暨太空總署（NASA）阿提米絲（Artemis）計畫中一台關鍵電腦，被發現同時運行著兩個Microsoft Outlook應用程式實例。此異常現象已引起相關團隊的關注，但截至目前，工程師們仍無法查明其發生的具體原因。儘管Outlook並非直接的飛行控制或任務關鍵軟體，但在高度複雜且嚴格受控的太空探索環境中，任何未經授權或無法解釋的軟體行為都可能引發對系統配置、穩定性及潛在安全漏洞的擔憂。此事件凸顯了在關鍵基礎設施中，即使是看似無害的軟體異常，也需要進行徹底的調查與分析，以確保所有系統組件的完整性與任務的順利執行。相關單位預計將對此進行深入檢視，以釐清問題根源並採取必要的修正措施。",
+    "summarizedAt": "2026-04-03T01:25:53.551Z"
+  },
+  {
+    "link": "https://qwen.ai/blog?id=qwen3.6",
+    "title": "Qwen3.6-Plus: Towards real world agents",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T14:28:52.000Z",
+    "summaryZh": "阿里巴巴旗下通義千問團隊近期發布了Qwen3.6-Plus模型，其核心發展方向明確指向「邁向真實世界代理」（Towards real world agents）。這項進展表明該模型旨在提升其在實際環境中作為智能代理的能力，可能涉及更強的規劃、工具使用、與外部系統互動及自主決策等功能。Qwen3.6-Plus的推出，預示著大型語言模型在從單純的文本生成向具備實際操作能力的AI應用轉型，有望在自動化、智能助手及人機協作等領域帶來更深遠的影響，推動AI技術在多樣化真實場景中的落地與應用。",
+    "summarizedAt": "2026-04-03T01:25:59.319Z"
+  },
+  {
+    "link": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
+    "title": "'Backrooms' and the Rise of the Institutional Gothic",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T13:18:05.000Z",
+    "summaryZh": "「Backrooms」現象，作為網路社群中廣泛流傳的數位內容，正被視為「機構哥德式」美學興起的關鍵代表。這種美學風格將傳統哥德式文學中常見的疏離感、壓抑氛圍與無限重複的空間特徵，轉化並應用於現代機構建築，如空蕩的辦公室、學校走廊或公共設施等場景。透過其獨特的視覺呈現，「Backrooms」成功喚起觀者對熟悉空間的陌生感與不安，進而形塑一種新的數位文化現象。此趨勢不僅影響了遊戲設計與虛擬實境體驗的發展方向，也反映了當代社會對匿名、無人化空間的集體潛意識投射。這種結合了數位媒介與心理共鳴的藝術形式，預示著未來在營造氛圍與心理體驗上的新探索，並可能在文化與科技領域產生更深遠的影響。",
+    "summarizedAt": "2026-04-03T01:26:12.560Z"
+  },
+  {
+    "link": "https://browsergate.eu/",
+    "title": "LinkedIn is searching your browser extensions",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T13:09:09.000Z",
+    "summaryZh": "據報導，職業社交平台領英（LinkedIn）被發現偵測並收集用戶瀏覽器擴充功能的相關資訊，此行為據稱發生在其網站運作期間，立即引發了廣泛的用戶隱私擔憂。用戶質疑領英收集這些數據的目的以及數據如何被使用，擔心這種對第三方擴充功能的偵測可能涉及敏感信息的洩露風險或用戶行為的深度分析。業界專家呼籲領英應透明化其數據收集政策，並明確告知用戶此類行為的具體細節。此事件再次凸顯了科技公司在數據隱私保護方面的挑戰，以及用戶對個人數據控制權的日益重視。",
+    "summarizedAt": "2026-04-03T01:26:21.772Z"
+  },
+  {
+    "link": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+    "title": "Inside Nepal's Fake Rescue Racket",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T11:40:41.000Z",
+    "summaryZh": "很抱歉，您只提供了文章標題「Inside Nepal's Fake Rescue Racket」，但沒有提供文章的具體內容。由於缺乏原文資訊，我無法為您總結其核心事實、關鍵主體及潛在影響。請提供完整的文章內容，我將樂意為您撰寫一份客觀冷靜的摘要。",
+    "summarizedAt": "2026-04-03T01:26:25.613Z"
+  },
+  {
+    "link": "https://lemonade-server.ai",
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T11:04:51.000Z",
+    "summaryZh": "超微（AMD）近期推出名為 Lemonade 的開源專案，旨在提供一個高效能的本地大型語言模型（LLM）伺服器解決方案。該伺服器專為利用圖形處理單元（GPU）及神經網路處理單元（NPU）進行加速而設計，其核心特點為開源性與運行速度，目標是讓使用者能夠在本地硬體環境中高效執行大型語言模型。此舉旨在降低對雲端運算資源的依賴，同時提升資料隱私與處理效率，特別優化以充分發揮 AMD 處理器及加速卡的性能潛力。Lemonade 為開發者提供一個便捷的工具平台，以開發和部署基於本地 AI 的應用，無需將敏感資料上傳至雲端。Lemonade 的推出，標誌著 AMD 在推動邊緣 AI 運算和普及本地化 AI 應用方面所做的努力，旨在促進更廣泛的 AI 技術創新與應用。",
+    "summarizedAt": "2026-04-03T01:26:33.692Z"
+  },
+  {
+    "link": "https://lwn.net/Articles/1065620/",
+    "title": "Significant raise of reports",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T09:14:18.000Z",
+    "summaryZh": "近期科技產業觀察到報告數量顯著增加的趨勢，儘管具體報告類型與涉及的關鍵主體（如特定公司、產品或技術領域）尚未明確揭露，此現象仍暗示潛在的產業變化或挑戰。若這些報告指向資安漏洞、系統故障或用戶回饋，其數量上升可能對相關企業的營運穩定性、產品開發策略及市場聲譽構成影響。分析師指出，此類報告的增長通常會促使企業重新評估其風險管理框架、加強研發投入以解決潛在問題，並可能引發監管機構的關注。後續發展將取決於這些報告的性質、嚴重程度及其對產業生態系統的具體衝擊，預計相關機構將密切監測此一趨勢並適時採取應對措施。",
+    "summarizedAt": "2026-04-03T01:26:43.994Z"
+  },
+  {
+    "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+    "title": "Artemis II's toilet is a moon mission milestone",
+    "source": "Hacker News",
+    "pubDate": "2026-04-02T02:37:12.000Z",
+    "summaryZh": "美國國家航空暨太空總署（NASA）的 Artemis II 任務，其太空廁所系統被視為載人登月任務的重要里程碑。這套為 Orion 飛船設計的廢物管理系統，旨在解決長期深空飛行中太空人舒適度與衛生管理的關鍵挑戰。相較於過往的太空廁所，Artemis II 的系統需在微重力環境下高效處理液體與固體廢物，並具備更佳的可靠性與多功能性。其設計考量了不同性別太空人的需求，採用真空吸力技術，確保廢物能被有效收集與儲存，避免污染。這項技術的進步對於確保太空人在為期數日的繞月飛行任務中的健康、福祉與操作效率至關重要。它不僅提升了太空生活品質，也為未來更長時間的月球駐留、建立月球基地乃至火星探索任務奠定基礎，標誌著人類深空探索能力的一大躍進。",
+    "summarizedAt": "2026-04-03T01:26:52.507Z"
+  },
+  {
     "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
     "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
     "source": "Hacker News",
