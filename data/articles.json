@@ -1,5 +1,261 @@
 [
   {
+    "link": "https://www.hatchmag.com/articles/trump-administration-orders-dismantling-us-forest-service/7716263",
+    "title": "Trump administration orders dismantling of the U.S. Forest Service",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T01:02:03.000Z",
+    "summaryZh": "美國川普政府已發布指令，要求對美國林務局進行結構性調整，甚至可能涉及其職能的解散與重組。美國林務局作為負責管理全國154個國家森林和20個國家草原的核心聯邦機構，其職責涵蓋了從森林保護、野生動物棲息地維護、水資源管理到野火預防與撲滅等多個關鍵領域。這項指令的頒布，預計將對美國的自然資源管理、環境保護政策以及聯邦土地的未來走向產生深遠影響。此舉可能導致該機構的運作模式、權責範圍乃至其在聯邦政府中的地位發生根本性變化，並預期將在國會、環保團體及相關利益者之間引發廣泛的討論與爭議。",
+    "summarizedAt": "2026-04-09T01:16:16.703Z"
+  },
+  {
+    "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+    "title": "LittleSnitch for Linux",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T00:26:08.000Z",
+    "summaryZh": "Objective Development 公司近日宣布，其知名的 macOS 網路監控與防火牆工具 Little Snitch 現已推出 Linux 版本。此舉回應了 Linux 社群長期以來對類似工具的需求，旨在為 Linux 用戶提供更精細的網路流量控制能力。新版本允許用戶監測應用程式的連線行為，並根據預設或自訂規則，即時決定是否允許或阻止其發出的網路請求。這將顯著提升 Linux 系統的隱私保護與安全性，使用戶能更清楚地了解並掌控其設備的網路活動。該產品的推出，預計將為 Linux 平台帶來更完善的網路安全管理選項，填補了市場上的一個空白。",
+    "summarizedAt": "2026-04-09T01:16:24.635Z"
+  },
+  {
+    "link": "https://thales.me/posts/why-i-built-snapstate/",
+    "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T21:53:36.000Z",
+    "summaryZh": "一位開發者在Hacker News上展示了一款新的React狀態管理器，其開發動機源於對React `useEffect` Hook中處理複雜邏輯感到困擾。該開發者指出，`useEffect`在管理副作用和狀態依賴時，常導致程式碼複雜度增加，難以維護與理解。為此，他設計了一款基於類別（class-based）的狀態管理工具，旨在為React應用程式提供一種替代方案。此工具回歸了類似物件導向的結構，試圖提供更清晰、更易於推理的狀態邏輯組織方式，特別是對於那些希望避免`useEffect`可能帶來的依賴項管理複雜性及相關副作用的開發者。該項目作為「Show HN」發布，意在徵求社群回饋，並為面臨類似挑戰的React開發者提供一個新的選擇，同時也為React生態系統中日益增長的狀態管理工具庫再添一員，可能引發關於不同狀態管理哲學的討論。",
+    "summarizedAt": "2026-04-09T01:16:32.554Z"
+  },
+  {
+    "link": "https://www.ishormuzopenyet.com/",
+    "title": "Show HN: Is Hormuz open yet?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T21:33:06.000Z",
+    "summaryZh": "Hacker News 平台近期發布了一則名為「霍爾木茲海峽開放了嗎？」的「Show HN」貼文。此類貼文通常用於展示技術專案或創新概念。根據提供的摘要，該貼文的主要內容為用戶的討論與留言，顯示社群對此議題的高度關注與互動。然而，由於缺乏具體專案細節，目前無法得知該「Show HN」所展示的技術內容、其核心主張，或其對科技領域的潛在影響。儘管如此，此現象仍反映出科技社群對地緣政治事件的興趣，並可能引發關於相關數據分析、監控技術或資訊呈現方式的進一步探討。",
+    "summarizedAt": "2026-04-09T01:16:44.564Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "title": "AI agent Poke makes setting up automations as easy as sending a text",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T21:05:13.000Z",
+    "summaryZh": "名為「Poke」的人工智慧代理服務，旨在革新日常使用者設定自動化任務的方式。該服務的核心主張是透過簡訊介面，讓用戶能夠輕鬆部署AI代理來處理各項任務與自動化流程。這意味著，過去需要複雜設定、下載專用應用程式或具備特定技術背景才能實現的自動化功能，如今普通用戶僅需透過發送文字訊息即可達成。此舉大幅降低了AI代理的應用門檻，使更多非專業人士也能便捷地利用人工智慧技術，簡化日常操作，提升個人或工作效率，標誌著AI工具普及化的一大進展。",
+    "summarizedAt": "2026-04-09T01:16:51.658Z"
+  },
+  {
+    "link": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+    "title": "John Deere to pay $99M in right-to-repair settlement",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T20:46:27.000Z",
+    "summaryZh": "美國農業機械製造商約翰迪爾（John Deere）已同意支付9900萬美元，作為一項「維修權」（right-to-repair）集體訴訟的和解金。這項訴訟指控約翰迪爾限制農民自行維修其設備的能力，迫使他們依賴公司授權的經銷商進行診斷和維修，導致農民遭受經濟損失。該訴訟由數千名農民提起，他們聲稱因這些限制而無法自由維修其擁有的農業機械。儘管約翰迪爾否認有任何不當行為，但此次和解將為受影響的農民提供賠償。此舉被視為維修權倡議者的一項重要進展，凸顯了現代農業設備日益複雜的軟體和專有技術所帶來的挑戰，並可能促使其他製造商重新評估其維修政策，因為維修權運動在全球範圍內持續受到關注。",
+    "summarizedAt": "2026-04-09T01:17:00.307Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T20:09:14.000Z",
+    "summaryZh": "亞馬遜網路服務（AWS）的負責人近日闡述了公司同時對人工智慧新創公司 Anthropic 和 OpenAI 進行數十億美元投資的策略考量。儘管這兩家AI公司在市場上存在競爭關係，AWS高層解釋，此舉與其內部處理競爭的既有文化相符。他進一步指出，作為一家雲端服務巨頭，AWS在日常營運中經常與其合作夥伴同時存在競爭關係，因此，公司已具備一套成熟的機制來管理這類複雜的市場動態。這表明AWS將其對兩家AI領先企業的投資視為其長期以來在科技生態系統中平衡合作與競爭的延續。",
+    "summarizedAt": "2026-04-09T01:17:08.102Z"
+  },
+  {
+    "link": "https://werwolv.net/posts/usb_for_sw_devs/",
+    "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T19:23:34.000Z",
+    "summaryZh": "這篇針對軟體開發者的介紹性文章，旨在闡述使用者空間USB驅動程式的編寫方法與核心概念。其主要目標是引導開發者理解如何在應用程式層面直接與USB設備進行互動，從而避免了傳統核心層驅動程式開發的複雜性與高門檻。文章將深入探討使用者空間驅動程式的運作原理，以及它們在客製化USB設備控制、數據傳輸和特定功能實作上的應用價值。對於需要開發與各式USB硬體無縫協作的應用程式而言，掌握此技術至關重要，它能賦予開發者更大的靈活性與控制權。透過學習相關的程式庫、API與開發工具，開發者將能有效地設計出功能更強大、相容性更廣泛的軟體解決方案，進一步推動USB設備在多樣化應用場景中的創新與整合。",
+    "summarizedAt": "2026-04-09T01:17:17.923Z"
+  },
+  {
+    "link": "https://swift.org/blog/expanding-swift-ide-support/",
+    "title": "Expanding Swift's IDE Support",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T19:21:41.000Z",
+    "summaryZh": "Swift 程式語言的整合開發環境（IDE）支援正持續擴展，旨在為開發者提供更廣泛的工具選擇。這項進展意味著 Swift 的開發體驗不再僅限於 Apple 旗下的 Xcode，而是透過支援如 Language Server Protocol (LSP) 等標準化協定，逐步整合至 Visual Studio Code、JetBrains 系列 IDE 等主流開發平台。此舉預計將大幅提升 Swift 的跨平台開發能力與普及性，吸引更多非 Apple 生態系的開發者投入。透過降低進入門檻，Swift 應用程式的開發將能更靈活地適應不同開發者的偏好與工作流程。這不僅有助於 Swift 社群的壯大，也為其在伺服器端、Linux 或其他非 iOS/macOS 平台的應用開闢了更廣闊的空間，標誌著 Swift 生態系邁向更開放、多元的發展方向。",
+    "summarizedAt": "2026-04-09T01:17:25.417Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T18:23:06.000Z",
+    "summaryZh": "串流媒體服務 Tubi 近日宣布，已在人工智慧聊天機器人 ChatGPT 內推出其原生應用程式，成為首家實現此類整合的串流平台。ChatGPT 作為一個擁有數百萬用戶的廣泛應用型 AI 工具，其內部引入 Tubi 應用程式，標誌著內容發現與互動模式的潛在轉變。此舉意味著用戶未來可能透過 ChatGPT 直接查詢、探索 Tubi 的影音內容，或獲取相關推薦資訊，無需切換應用程式。這不僅為 Tubi 開闢了新的用戶觸及渠道，也為其他串流服務與 AI 平台的深度結合樹立了業界先例，預示著跨平台內容體驗整合的趨勢。",
+    "summarizedAt": "2026-04-09T01:17:32.324Z"
+  },
+  {
+    "link": "http://oj-hn.com/",
+    "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T18:08:52.000Z",
+    "summaryZh": "一個名為「Orange Juice」的項目近日在 Hacker News (HN) 平台上亮相。該項目旨在為 HN 網站提供一系列精巧的用戶體驗 (UX) 優化，其核心目標是顯著提升平台內容的閱讀便利性。特別值得一提的是，Orange Juice 針對 HN 上複雜的評論區進行了多項改進。這些優化措施旨在幫助用戶更輕鬆地瀏覽和理解嵌套式的討論串，例如通過視覺提示或結構調整，從而減少閱讀疲勞。透過這些細緻的調整，該項目期望能為廣大 Hacker News 用戶帶來更流暢、高效的資訊獲取體驗，進一步促進社區內的交流與學習。",
+    "summarizedAt": "2026-04-09T01:17:40.674Z"
+  },
+  {
+    "link": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T17:44:25.000Z",
+    "summaryZh": "一份用戶投訴指出，人工智慧公司Anthropic的客戶服務在處理帳單問題上存在顯著延遲。該用戶表示，其帳單相關問題已提交超過一個月，但至今仍未收到Anthropic的任何回應。此情況凸顯了部分快速發展的科技公司在擴張業務的同時，可能面臨的客戶支援挑戰。對於依賴其AI服務的用戶而言，帳單問題的長期未決可能導致不便與不滿，進而影響用戶體驗。儘管此投訴僅代表單一用戶的經驗，但它也反映出在AI技術日益普及的背景下，用戶對供應商提供及時有效支援的期望。Anthropic作為一家領先的AI模型開發商，其客戶服務的效率與響應速度，對於維護用戶信任及品牌聲譽至關重要。此事件也可能促使業界重新審視在提供先進技術服務的同時，如何確保基礎客戶支援的品質與可靠性，以避免類似問題影響整體用戶滿意度。",
+    "summarizedAt": "2026-04-09T01:17:51.230Z"
+  },
+  {
+    "link": "https://kalmanfilter.net",
+    "title": "Understanding the Kalman filter with a simple radar example",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T17:11:46.000Z",
+    "summaryZh": "卡爾曼濾波器是一種廣泛應用於動態系統的數學工具，主要用於狀態估計、數據融合及雜訊抑制。該文旨在透過一個簡明的雷達範例，深入淺出地闡釋卡爾曼濾波器的基本原理與運作機制。此濾波器在導航、控制、機器人學及信號處理等領域扮演關鍵角色。透過具體案例的解析，有助於讀者更直觀地掌握其複雜概念，進而促進其在實際工程問題中的應用與優化。",
+    "summarizedAt": "2026-04-09T01:18:23.362Z"
+  },
+  {
+    "link": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+    "title": "Muse Spark: Scaling towards personal superintelligence",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T16:01:32.000Z",
+    "summaryZh": "Muse Spark 專案被提出為人工智慧領域的一項重要進展，其核心目標是推動「個人超級智慧」的發展。該專案旨在將現有AI模型的規模與能力擴展至超越當前限制，特別著重於為個人用戶提供高度客製化且超越現有水平的智慧服務。據稱，為實現此宏偉目標，Muse Spark 可能採用新穎的架構設計、強化的數據處理技術以及複雜的學習演算法。此舉預期將能大幅提升AI在個人化協助、深度推理及複雜問題解決方面的表現。其潛在影響廣泛，包括轉變人機互動模式、顯著增強個人認知能力，並可能催生新型態的個人化數位伴侶或專業知識系統。Muse Spark 的發展，將其定位為下一代AI研究的關鍵參與者，對未來個人如何在其日常與專業活動中與先進智慧系統互動並加以利用，具有深遠的影響。",
+    "summarizedAt": "2026-04-09T01:18:33.473Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+    "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T16:01:09.000Z",
+    "summaryZh": "Astropad 公司推出了一款名為 Workbench 的軟體，旨在重新定義遠端桌面技術的應用範疇。該產品不同於傳統用於 IT 支援或一般辦公的遠端桌面工具，而是專為管理人工智慧代理而設計。Workbench 允許用戶透過 iPhone 或 iPad 等行動裝置，遠端監控並精確控制運行於 Mac Mini 上的 AI 代理。其核心優勢在於提供低延遲的串流傳輸能力，確保用戶能夠即時、流暢地操作和觀察 AI 代理的運作狀態。此舉標誌著遠端桌面解決方案從傳統的通用型支援，轉向更專業化、針對特定 AI 工作負載的管理模式，為 AI 開發者和研究人員提供了更高效、便捷的遠端操作體驗。",
+    "summarizedAt": "2026-04-09T01:18:42.064Z"
+  },
+  {
+    "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+    "title": "I ported Mac OS X to the Nintendo Wii",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T15:40:00.000Z",
+    "summaryZh": "一位獨立開發者成功將蘋果公司的Mac OS X作業系統移植至任天堂Wii遊戲主機上。此舉為非官方的個人技術展示，突顯了在非預期硬體平台上運行主流作業系統的可能性。任天堂Wii是一款以體感互動為特色的家用遊戲機，其硬體架構與Mac OS X原生支援的平台存在顯著差異，因此這次移植工作涉及複雜的底層系統修改與驅動程式開發，展現了開發者在逆向工程與客製化軟體方面的技術實力。儘管Mac OS X在Wii上的實際運行效能與功能完整性可能受限於硬體資源，但此類項目通常被視為對硬體潛力探索的一部分，並為開源社群與改機愛好者提供了新的思路與實驗平台。這類非官方的系統移植案例，不僅豐富了家用遊戲機的「改機」文化，也持續推動著跨平台軟體相容性與硬體利用極限的討論。",
+    "summarizedAt": "2026-04-09T01:18:49.912Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+    "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T15:23:44.000Z",
+    "summaryZh": "OpenAI近期發布了新的「兒童安全藍圖」，旨在應對因人工智慧技術進步而日益嚴峻的兒童性剝削問題。此舉回應了外界對AI可能被濫用於生成、傳播或協助獲取兒童性剝削內容的深切擔憂。該藍圖闡明了OpenAI在開發其AI模型時，將如何優先考量兒童安全，並承諾透過制定全面性策略，以識別、預防並打擊此類非法活動。這項行動突顯了OpenAI在推動AI發展的同時，對其社會責任的重視，特別是致力於保護未成年人免受數位環境中潛在危害的堅定立場。此藍圖的推出，標誌著科技公司在應對AI倫理挑戰和確保技術負責任應用方面邁出了具體一步。",
+    "summarizedAt": "2026-04-09T01:19:03.375Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+    "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T15:00:00.000Z",
+    "summaryZh": "Databricks共同創辦人馬泰·扎哈里亞（Matei Zaharia）榮獲國際電腦協會（ACM）的頂級榮譽。這項殊榮肯定了他在電腦科學領域的卓越貢獻。扎哈里亞目前正致力於開發用於研究領域的人工智慧應用。他同時提出，通用人工智慧（AGI）實際上已經存在，只是其概念常被外界誤解。他的觀點挑戰了業界對AGI發展階段的普遍認知，預計將引發相關領域的進一步討論。",
+    "summarizedAt": "2026-04-09T01:19:35.253Z"
+  },
+  {
+    "link": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
+    "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T14:46:15.000Z",
+    "summaryZh": "據報導，科技巨頭微軟已終止了與開源磁碟加密軟體VeraCrypt相關的帳戶。此舉據稱導致了Windows作業系統的更新服務暫停。VeraCrypt作為一款廣泛使用的加密工具，其帳戶被終止以及隨之而來的Windows更新中斷，引發了業界對其具體原因的關注。目前，微軟方面尚未提供詳細解釋，說明終止VeraCrypt帳戶的具體性質，以及此行動與Windows更新服務停止之間的確切關聯。此事件可能對依賴VeraCrypt進行資料加密的用戶，以及所有Windows用戶的系統安全與穩定性產生潛在影響。後續發展仍待觀察，以釐清微軟此決策背後的考量與可能的解決方案。",
+    "summarizedAt": "2026-04-09T01:19:44.847Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+    "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T14:00:00.000Z",
+    "summaryZh": "科技媒體TechCrunch宣布，其年度旗艦活動TechCrunch Disrupt 2026的門票目前正提供最高達500美元的限時折扣。此項優惠將於太平洋時間4月10日晚間11時59分截止。TechCrunch Disrupt被視為科技生態系統的核心盛會，匯聚了新創公司、投資者與業界領袖。有意參與此重要科技交流平台的專業人士，應把握最後機會進行註冊，以確保能以優惠價格購得入場資格。",
+    "summarizedAt": "2026-04-09T01:19:51.504Z"
+  },
+  {
+    "link": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+    "title": "ML promises to be profoundly weird",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T13:06:33.000Z",
+    "summaryZh": "近期科技界對機器學習（ML）技術的未來發展方向進行了深入探討，有觀點指出其演進路徑可能呈現出「深刻的奇異性」。這種「奇異性」主要源於ML模型日益複雜的內部運作機制，特別是深度學習網絡的「黑箱」特性，使其決策過程難以被人類直觀理解或完全解釋。隨著模型規模的擴大和自主能力的增強，ML系統可能展現出超出設計者預期的行為模式、生成非傳統的解決方案，甚至在某些情境下表現出與人類邏輯截然不同的「智能」形式。這不僅對AI倫理、可解釋性AI（XAI）的研究提出了新的挑戰，也促使開發者和研究人員重新思考人機協作的本質，以及如何建立信任和理解。這種趨勢預示著未來ML應用將不再僅限於模仿人類智能，而可能開闢出全新的、非人類中心化的認知與創造模式，進而對科學研究、藝術創作乃至社會組織形式產生深遠且難以預測的影響。",
+    "summarizedAt": "2026-04-09T01:20:00.450Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+    "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T13:00:00.000Z",
+    "summaryZh": "科技公司 Atlassian 近期在其協作平台 Confluence 中推出了一系列新的功能，其中包括視覺化人工智慧工具以及整合第三方代理。透過這些視覺化 AI 工具，Confluence 用戶現在可以直接在該軟體環境內創建和編輯各種視覺資產，提升內容製作的效率與便利性。此外，Confluence 也新增了與 Lovable、Replit 和 Gamma 等公司合作的第三方代理功能，旨在擴展平台的能力邊界，為用戶提供更多元的自動化與整合服務。這些更新旨在強化 Confluence 作為企業知識管理與協作中心的地位，為用戶帶來更豐富且高效的工作體驗。",
+    "summarizedAt": "2026-04-09T01:20:06.834Z"
+  },
+  {
+    "link": "https://github.com/skrun-dev/skrun",
+    "title": "Show HN: Skrun – Deploy any agent skill as an API",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T12:34:38.000Z",
+    "summaryZh": "「Skrun」是一個新推出的平台，旨在將任何AI代理的技能部署為可供外部調用的API。這項服務的核心概念是將AI模型（特別是大型語言模型）所具備的特定能力或任務執行邏輯，轉化為標準化的程式介面。透過這種方式，開發者能夠更便捷地將複雜的AI功能整合到他們的應用程式、服務或工作流程中，無需深入了解底層AI模型的細節。此舉有望降低AI技術的應用門檻，加速AI驅動產品和服務的開發週期。隨著AI代理和大型語言模型技術的日益成熟，Skrun提供了一個將這些先進能力模組化、可重用化的解決方案。該平台在Hacker News上首次亮相，表明其作為一項創新工具，正尋求在開發者社群中推廣其價值。預計Skrun將有助於構建更靈活、可組合的AI應用生態系統，使企業和開發者能更高效地利用AI代理的潛力。",
+    "summarizedAt": "2026-04-09T01:20:14.707Z"
+  },
+  {
+    "link": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+    "title": "US cities are axing Flock Safety surveillance technology",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T12:26:14.000Z",
+    "summaryZh": "很抱歉，由於您提供的內容僅有標題「US cities are axing Flock Safety surveillance technology」，而未包含新聞稿的具體摘要或正文，我無法從中提取核心事實、關鍵主體及潛在影響等資訊。因此，我無法根據這些必要元素，為您總結出約180至250字的客觀中文摘要。請提供完整的新聞稿內容，以便我能準確地完成任務，確保摘要的客觀性與完整性。",
+    "summarizedAt": "2026-04-09T01:20:29.096Z"
+  },
+  {
+    "link": "https://arxiv.org/abs/2604.05091",
+    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T12:19:00.000Z",
+    "summaryZh": "一項名為 MegaTrain 的新技術，旨在解決大型語言模型（LLM）訓練中的資源瓶頸問題。該技術的核心主張是，它能夠在單一圖形處理器（GPU）上，實現對擁有超過千億參數的 LLM 進行全精度訓練。這項進展顯著突破了傳統上訓練此類超大規模模型需依賴多個甚至數十個 GPU 的限制，大幅降低了對高性能計算硬體的需求。MegaTrain 的出現，預計將使更多研究機構和開發者能夠以更低的成本和更高的效率，進行大型語言模型的實驗與開發，進而加速人工智慧技術的普及與創新。",
+    "summarizedAt": "2026-04-09T01:20:34.036Z"
+  },
+  {
+    "link": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+    "title": "They're made out of meat (1991)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T11:20:50.000Z",
+    "summaryZh": "根據所提供的資訊，該新聞稿的標題為「They're made out of meat (1991)」，但未附帶任何具體內容。作為資深科技新聞編輯，我們無法在缺乏實質文本的情況下，客觀地提煉出其核心事實、主要主張或關鍵技術細節。這包括無法識別所涉及的公司、機構、產品或技術創新等關鍵主體，也無法評估其潛在影響或預期的後續發展。因此，在未獲得完整英文科技新聞稿文本的前提下，無法生成一份符合專業標準、具備資訊完整性的中文摘要。若能提供完整的英文新聞稿內容，我們將能依循既定規範，進行精確且客觀的資訊歸納與總結。",
+    "summarizedAt": "2026-04-09T01:20:58.740Z"
+  },
+  {
+    "link": "https://piechowski.io/post/git-commands-before-reading-code/",
+    "title": "Git commands I run before reading any code",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T08:53:42.000Z",
+    "summaryZh": "一篇技術文章深入探討了開發者在著手閱讀任何程式碼之前，應優先執行哪些Git指令，以期更高效地掌握專案脈絡與程式碼意圖。文章指出，透過檢視提交歷史、檔案變更紀錄及相關註解，開發者能夠快速建立對程式碼庫的初步理解，包括其演進過程、主要貢獻者及關鍵決策點。此類預備性操作旨在幫助開發者節省大量理解時間，避免重複勞動，並為後續的程式碼修改、錯誤修復或新功能開發奠定堅實基礎。這不僅能顯著提升個人開發效率，亦有助於促進團隊成員間對共享程式碼庫的共同認知與協作流暢度。",
+    "summarizedAt": "2026-04-09T01:21:06.907Z"
+  },
+  {
+    "link": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+    "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T08:50:37.000Z",
+    "summaryZh": "斯柯達公司近日推出一款名為DuoBell的創新自行車鈴。該產品的核心設計旨在解決騎行者與佩戴降噪耳機的行人之間潛在的溝通障礙。據稱，DuoBell自行車鈴採用特殊技術，使其發出的聲音能夠有效穿透市面上常見的降噪耳機，確保佩戴者能夠清晰聽到鈴聲。此項創新旨在顯著提升道路交通安全，減少因行人未能察覺自行車靠近而導致的意外風險。斯柯達希望透過DuoBell為現代城市騎行環境提供一個更安全的解決方案。",
+    "summarizedAt": "2026-04-09T01:21:15.071Z"
+  },
+  {
+    "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+    "title": "Veracrypt project update",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T07:23:39.000Z",
+    "summaryZh": "很抱歉，您提供的摘要內容僅為「Comments」，並未包含Veracrypt專案更新的具體資訊。作為資深科技新聞編輯，我需要完整的英文新聞稿內容才能為您進行客觀、冷靜的中文總結，並確保涵蓋核心事實、關鍵主體及其影響。請您提供完整的原文，我將樂意為您處理。",
+    "summarizedAt": "2026-04-09T01:21:17.894Z"
+  },
+  {
+    "link": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+    "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T06:01:00.000Z",
+    "summaryZh": "雲端部署平台 Railway 近期宣布，已將其前端應用程式的技術棧從 Next.js 遷移。此舉旨在解決先前因 Next.js 框架導致的建置時間過長問題。根據該公司發布的資訊，在完成遷移後，其前端專案的建置時間從原先的超過 10 分鐘顯著縮短至 2 分鐘以內。這項技術調整對 Railway 的開發流程產生了直接且正面的影響，大幅提升了開發效率與迭代速度。此案例突顯了在選擇前端框架時，建置性能對開發體驗與資源消耗的重要性，並為其他面臨類似性能瓶頸的開發團隊提供了參考。",
+    "summarizedAt": "2026-04-09T01:21:25.822Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-08T05:40:19.000Z",
+    "summaryZh": "Google 近期悄然推出一款人工智慧聽寫應用程式，其核心特色為支援離線操作。這款應用程式採用 Google 自家的 Gemma AI 模型，旨在提供無需網路連接的語音轉文字服務。此舉顯示 Google 正進入離線聽寫軟體市場，與 Wispr Flow 等現有應用程式展開競爭，為用戶提供更多選擇，並拓展其 AI 技術在個人生產力工具領域的應用範圍。",
+    "summarizedAt": "2026-04-09T01:21:32.498Z"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
+    "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
+    "source": "Hacker News",
+    "pubDate": "2026-04-08T04:37:57.000Z",
+    "summaryZh": "比特幣創始人中本聰的真實身份，一直是加密貨幣領域的核心謎團之一。一篇報導深入探討了作者個人為揭示這位匿名創造者身份所進行的長期追查與研究。該追查行動旨在釐清中本聰的真實身份，並探究其在比特幣誕生與早期發展中所扮演的關鍵角色。報導指出，儘管多年來各方猜測不斷，且多位人士曾被懷疑是中本聰，但其真實身份至今仍未被權威證實。這項持續的探索不僅反映了業界對區塊鏈技術起源的好奇心，也凸顯了去中心化系統中匿名性、信任機制以及創始人影響力等複雜議題的重要性。",
+    "summarizedAt": "2026-04-09T01:21:41.061Z"
+  },
+  {
     "link": "https://github.com/linebender/xilem",
     "title": "Xilem – An experimental Rust native UI framework",
     "source": "Hacker News",
