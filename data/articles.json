@@ -1,5 +1,261 @@
 [
   {
+    "link": "https://vaultproof.dev/blog/trivy-supply-chain-attack",
+    "title": "How the Trivy supply chain attack harvested credentials from secrets managers",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T22:10:53.000Z",
+    "summaryZh": "近期，一項針對開源安全掃描工具Trivy的供應鏈攻擊被揭露。攻擊者利用此類攻擊途徑，旨在從受影響系統的秘密管理器中竊取敏感憑證。這類攻擊通常涉及在軟體開發或分發過程中注入惡意程式碼，使其在用戶環境中執行，進而獲取對憑證儲存的未經授權訪問。此事件凸顯了軟體供應鏈安全面臨的持續威脅，以及對開發工具及其依賴項進行嚴格審查的必要性。企業和開發者應審慎評估其軟體供應鏈的完整性，並採取措施加強憑證管理與保護，以防範潛在的資料外洩風險。",
+    "summarizedAt": "2026-04-10T01:26:45.504Z"
+  },
+  {
+    "link": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
+    "title": "Many African families spend fortunes burying their dead",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T22:10:10.000Z",
+    "summaryZh": "非洲許多家庭在親人離世後，面臨高昂的喪葬費用。這些費用往往佔據家庭收入的很大一部分，甚至可能遠超其年度預算。傳統上，在非洲許多地區，喪禮被視為對逝者表達敬意和維繫社會連結的重要儀式。為此，家庭成員常需動用積蓄、借貸，甚至變賣資產以籌集資金。這種現象對許多家庭的經濟穩定性構成挑戰，可能導致長期債務負擔，並影響其在教育、醫療等其他基本需求上的投入。因此，如何在尊重傳統的同時，減輕家庭的經濟壓力，成為當地社會關注的議題。",
+    "summarizedAt": "2026-04-10T01:26:53.249Z"
+  },
+  {
+    "link": "https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/",
+    "title": "BunnyCDN has been silently losing our production files for 15 months",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T22:04:09.000Z",
+    "summaryZh": "一則科技新聞指出，內容傳遞網路（CDN）服務商BunnyCDN的某位客戶發布聲明，稱其生產環境文件在過去15個月內持續無聲地丟失。該客戶表示，這些數據丟失是在未經其知情的情況下發生，對其服務的數據完整性構成潛在威脅。此事件引發了對CDN服務商數據管理與可靠性的關注。對於依賴第三方服務進行關鍵數據儲存的企業而言，這凸顯了定期備份與驗證數據完整性的重要性。",
+    "summarizedAt": "2026-04-10T01:27:01.775Z"
+  },
+  {
+    "link": "https://pbement.com/posts/lie_brackets/",
+    "title": "The Training Example Lie Bracket",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T21:59:28.000Z",
+    "summaryZh": "一份標題為《訓練範例李括號》（The Training Example Lie Bracket）的科技新聞稿，其摘要部分僅標註為「評論」。此標題暗示內容可能涉及機器學習或相關領域中，關於訓練數據或演算法理論的專業探討。由於缺乏具體文本，目前無法提煉出該新聞稿的核心主張、所涉關鍵機構或產品，以及其可能帶來的行業影響或後續發展。因此，對於此專題的詳細內容與潛在意義，尚待進一步的資訊揭露方能進行客觀評估與總結。",
+    "summarizedAt": "2026-04-10T01:27:09.020Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T21:29:11.000Z",
+    "summaryZh": "OpenAI於週四正式發布了ChatGPT的全新訂閱方案，新增每月100美元的選項。此舉旨在回應長期以來高階用戶對於介於現有服務層級之間方案的需求。此前，ChatGPT的訂閱服務僅提供每月20美元的基礎方案，以及每月200美元的更高階方案，兩者之間存在顯著的價格與功能差異。新推出的每月100美元方案，填補了這一價格區間的空白，為需要更頻繁、更穩定或更高性能服務的用戶提供了中階選擇。此舉預計將使更多專業用戶能夠根據自身需求，更靈活地選擇適合的ChatGPT服務層級。",
+    "summarizedAt": "2026-04-10T01:27:20.667Z"
+  },
+  {
+    "link": "https://lzon.ca/posts/other/microsoft-user-abuse/",
+    "title": "Microsoft is employing dark patterns to goad users into paying for storage?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T21:09:12.000Z",
+    "summaryZh": "有報導指出，微軟公司被指控可能採用「黑暗模式」設計，以引導或施壓用戶購買其儲存服務。這些設計模式通常涉及透過介面或互動流程，在用戶不知情或不情願的情況下，促使其做出特定選擇，例如升級儲存空間。此類做法可能出現在微軟的作業系統或相關雲端服務中，旨在增加用戶對OneDrive等儲存產品的付費訂閱。此舉引發了外界對企業倫理與用戶體驗設計透明度的討論，以及用戶是否在充分知情的情況下做出消費決策的疑慮。業界觀察家正密切關注微軟對此類指控的回應及其後續影響。",
+    "summarizedAt": "2026-04-10T01:27:32.952Z"
+  },
+  {
+    "link": "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/",
+    "title": "Moving from WordPress to Jekyll (and static site generators in general)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T20:59:51.000Z",
+    "summaryZh": "這篇技術文章探討了從WordPress內容管理系統轉移至Jekyll靜態網站生成器（以及更廣泛的靜態網站生成器技術）的過程。此轉變的核心動機通常涉及提升網站性能、增強安全性、降低維護複雜性及優化開發工作流程。文章特別指出，在從動態平台轉向靜態環境時，處理用戶評論是其中一個關鍵考量點。由於靜態網站本身不具備伺服器端處理能力來管理評論數據，因此通常需要整合第三方服務，例如Disqus或其他基於JavaScript的解決方案，以實現評論功能。這種轉變代表著一種不同的網站架構哲學，強調預先渲染內容並將動態功能外包，從而為內容發布者帶來更快的加載速度和更低的營運成本。整體而言，該文旨在為考慮採用靜態網站生成器技術的開發者和內容創作者，提供關於其優勢、挑戰及特定功能（如評論管理）實施策略的深入見解。",
+    "summarizedAt": "2026-04-10T01:27:42.074Z"
+  },
+  {
+    "link": "https://charcuterie.elastiq.ch/",
+    "title": "Charcuterie – Visual similarity Unicode explorer",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T20:12:07.000Z",
+    "summaryZh": "一款名為「Charcuterie – Visual similarity Unicode explorer」的工具或專案，旨在探索Unicode字元之間的視覺相似性。此類探索工具的核心功能通常涉及分析不同Unicode字元的視覺特徵，以識別外觀相近的字元，例如同形異義字（homoglyphs）。這對於提升網路安全，防範利用視覺相似字元進行的網路釣魚或域名欺騙攻擊具有重要意義。此外，它也能在字體設計、國際化軟體開發、內容審核或語言學研究等領域提供輔助。該專案的具體技術實現、開發背景及預期影響等詳細資訊，有待進一步的內容揭露。",
+    "summarizedAt": "2026-04-10T01:27:54.673Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T20:11:55.000Z",
+    "summaryZh": "佛羅里達州總檢察長辦公室近日宣布，已針對人工智慧公司OpenAI啟動一項調查。這項調查的背景是去年四月在佛羅里達州立大學發生的一起槍擊事件，該事件導致兩人不幸身亡，另有五人受傷。據相關報導指出，OpenAI所開發的對話式人工智慧工具ChatGPT，被指控涉嫌用於策劃這起致命襲擊。針對此事件，其中一名受害者的家屬已明確表示，他們計劃對OpenAI提起法律訴訟。總檢察長的調查預計將深入審視OpenAI在該事件中的潛在責任，並評估其產品在預防和應對此類惡意使用方面的現有措施與未來改進空間。",
+    "summarizedAt": "2026-04-10T01:28:04.269Z"
+  },
+  {
+    "link": "https://github.com/aloshdenny/reverse-SynthID",
+    "title": "Reverse engineering Gemini's SynthID detection",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T20:10:25.000Z",
+    "summaryZh": "一篇關於「逆向工程Gemini的SynthID偵測」的報導指出，有分析或研究活動已針對Google旗下AI模型Gemini所採用的SynthID內容偵測技術進行了逆向工程。SynthID技術旨在為AI生成的內容嵌入數位浮水印，以協助識別其來源與真實性。若此偵測機制遭到逆向工程，可能對其識別能力、安全性及AI內容的溯源性構成潛在挑戰，進而影響數位內容的信任度。然而，目前關於此次逆向工程的具體方法、所發現的弱點或其對SynthID實際效能的全面影響等詳細資訊尚未公開。相關進展及其對AI內容生態系統未來發展的長遠意義，仍有待進一步觀察與評估。",
+    "summarizedAt": "2026-04-10T01:28:12.674Z"
+  },
+  {
+    "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+    "title": "Native Instant Space Switching on macOS",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T19:48:26.000Z",
+    "summaryZh": "macOS作業系統將實現原生即時的空間切換功能，旨在消除現有桌面空間切換時的動畫延遲。這項系統級的改進預計將顯著提升用戶在多個虛擬桌面之間操作的流暢度與效率，提供更為直接且無縫的使用體驗。此舉標誌著蘋果公司對其作業系統核心功能進行優化，以響應用戶對更高效工作流程的需求。這項功能將作為macOS的內建特性，無需第三方工具即可實現，進一步強化了系統的整體響應速度。",
+    "summarizedAt": "2026-04-10T01:28:21.839Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+    "title": "After data breach, $10B-valued startup Mercor is having a month",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T19:33:54.000Z",
+    "summaryZh": "估值達100億美元的新創公司Mercor近期遭遇駭客攻擊，導致嚴重的資料外洩事件。此次安全漏洞不僅讓Mercor面臨來自受影響方的多起法律訴訟，其業務也受到直接衝擊。據報導，事件發生後，該公司已開始流失一些重要的企業客戶，這對其營收和市場地位構成顯著挑戰。Mercor目前正努力應對此次危機，包括處理法律事務並試圖重建客戶信任，但此次資料外洩事件預計將在一段時間內持續影響其營運與發展前景。",
+    "summarizedAt": "2026-04-10T01:28:30.075Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T19:10:07.000Z",
+    "summaryZh": "Meta AI應用程式近期在App Store上的排名出現顯著提升。據觀察，在Meta AI推出其新模型，即Muse Spark之後，該應用程式的市場表現發生了變化。此前，該應用程式在App Store上的排名為第57位。然而，隨著新模型的發布，其排名迅速躍升至第5位，並呈現持續上升的趨勢。此一排名變化反映了新模型發布對於應用程式在數位平台上的曝光度、用戶關注度及潛在下載量所產生的即時且積極的影響。這也暗示了Meta在人工智慧領域的最新進展，可能正在有效轉化為其產品的市場競爭力。",
+    "summarizedAt": "2026-04-10T01:28:38.434Z"
+  },
+  {
+    "link": "https://eaw.app/picoz80/",
+    "title": "PicoZ80 – Drop-In Z80 Replacement",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T18:53:20.000Z",
+    "summaryZh": "一項名為 PicoZ80 的新開發項目近期受到關注，旨在提供 Z80 微處理器的直接替換方案。此方案的核心特點是其「即插即用」（drop-in）的設計理念，意味著它能夠在無需大幅修改現有電路板的情況下，直接取代原始的 Z80 晶片。據推測，PicoZ80 透過利用現代微控制器（例如 Raspberry Pi Pico 所採用的 RP2040 晶片）來模擬 Z80 的指令集、時序和電氣特性。這項創新對於維護、修復或升級基於 Z80 處理器的舊有系統具有重要意義，包括經典的個人電腦、街機遊戲機以及工業控制設備等。它為稀缺或故障的原始 Z80 晶片提供了一個現代且可行的替代品，有助於延長這些設備的使用壽命，並促進復古計算（retro-computing）社群的發展。",
+    "summarizedAt": "2026-04-10T01:28:48.519Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T18:50:05.000Z",
+    "summaryZh": "Anthropic 本週宣布，已限制其最新人工智慧模型 Mythos 的發布。該公司解釋稱，此舉是因 Mythos 在發現全球用戶廣泛依賴的軟體安全漏洞方面展現出過強的能力。然而，此決定也引發了外界的質疑，部分觀點認為 Anthropic 所提出的網路安全擔憂，可能只是掩蓋這家前沿實驗室內部潛在更大問題的藉口。此事件凸顯了在開發高能力AI模型時，公司在技術發布與潛在風險之間所面臨的複雜權衡，以及如何平衡創新與安全責任的挑戰。這也促使業界重新審視AI模型部署的透明度與倫理考量。",
+    "summarizedAt": "2026-04-10T01:28:55.839Z"
+  },
+  {
+    "link": "https://hegel.dev",
+    "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T18:37:45.000Z",
+    "summaryZh": "近期，一項名為Hegel的全新通用基於屬性測試（PBT）協議及其系列函式庫正式推出。該協議旨在為軟體開發領域提供一套標準化、更為穩健的測試方法。傳統的測試方法多依賴於預設的具體範例，而PBT則專注於驗證程式碼在各種輸入情況下應始終保持的屬性或不變性，從而有效發現邊界條件下的潛在錯誤。Hegel的核心主張在於其「通用性」，旨在打破現有PBT工具在不同程式語言或框架間的隔閡，提供一個跨平台、可互操作的測試標準。隨協議一同發布的系列PBT函式庫，則為開發者提供了具體的實作工具，便於在各自的開發環境中快速導入並應用Hegel協議。此舉預期將有助於提升軟體測試的效率與深度，降低軟體缺陷率，進而提高整體軟體產品的品質與可靠性。未來，Hegel有望促進PBT方法論在業界的更廣泛採用，並推動相關測試工具的標準化發展。",
+    "summarizedAt": "2026-04-10T01:29:06.320Z"
+  },
+  {
+    "link": "https://www.instantdb.com/essays/architecture",
+    "title": "Instant 1.0, a backend for AI-coded apps",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T18:30:59.000Z",
+    "summaryZh": "一家名為Instant的科技公司近日發布了其核心產品Instant 1.0，這是一個專為AI編碼應用程式設計的後端解決方案。該平台旨在簡化AI驅動應用程式的開發與部署流程，解決開發者在構建此類應用時常面臨的後端基礎設施複雜性問題。Instant 1.0提供了一套整合式工具，涵蓋了資料庫管理、身份驗證、API生成、即時資料同步及擴展性支援等多項關鍵後端服務。透過自動化和抽象化傳統後端開發的繁瑣環節，Instant 1.0使開發者能更專注於應用程式的AI邏輯與使用者體驗，從而顯著加速產品上市時間。此舉預計將降低AI應用開發的技術門檻，鼓勵更多創新者投入AI驅動產品的創建，進一步推動AI生態系統的發展與普及。Instant公司表示，未來將持續迭代更新，以滿足不斷演進的AI應用需求。",
+    "summarizedAt": "2026-04-10T01:29:16.483Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+    "title": "Google and Intel deepen AI infrastructure partnership",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T18:27:47.000Z",
+    "summaryZh": "Google與Intel近期宣布深化其在人工智慧（AI）基礎設施領域的合作關係，核心內容為兩家科技巨頭將共同投入客製化晶片的開發工作。此舉旨在應對當前全球半導體供應鏈面臨的挑戰，特別是中央處理器（CPU）市場因需求持續高漲而出現的短缺現象。透過共同設計與製造專用晶片，Google與Intel期望能更有效地滿足其AI運算平台對高效能硬體的需求，進而強化各自在AI領域的競爭力。這項策略性合作不僅反映了兩大公司對未來AI發展趨勢的判斷，也顯示了它們在關鍵硬體供應上面臨的壓力，並試圖透過內部合作來確保其AI基礎設施的穩定性與創新能力。",
+    "summarizedAt": "2026-04-10T01:29:22.886Z"
+  },
+  {
+    "link": "https://colaptop.pages.dev/",
+    "title": "Old laptops in a colo as low cost servers",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T18:22:39.000Z",
+    "summaryZh": "近期科技社群中，將舊筆記型電腦部署於主機代管（colocation）設施作為低成本伺服器的討論日益增多，主要訴求為降低硬體採購成本、利用閒置資源，並藉由筆電內建電池提供基礎不斷電功能，同時功耗亦較低。然而，業界普遍關注其穩定性、可管理性、擴展性、消費級硬體壽命、散熱、遠端管理與網路I/O能力等潛在挑戰，以及機架整合問題。儘管存在這些考量，對於預算有限的新創公司或特定邊緣運算、開發測試環境而言，此方案提供了一種具成本效益的替代選擇，引發了對IT基礎設施成本與效能平衡的思考。",
+    "summarizedAt": "2026-04-10T01:29:54.454Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+    "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T17:20:50.000Z",
+    "summaryZh": "Sierra公司上月推出了名為Ghostwriter的「代理即服務」工具，旨在透過自然語言處理取代傳統基於點擊的網路應用程式。該工具的核心功能是讓用戶只需描述其需求，Ghostwriter便能自主創建並部署專門的代理來執行特定任務。Sierra的Bret Taylor表示，此舉預示著傳統點擊式操作時代的終結，標誌著人機互動模式將轉向更直觀的自然語言指令。這項創新旨在簡化用戶體驗，使軟體應用程式的開發與使用更加高效和自動化。",
+    "summarizedAt": "2026-04-10T01:29:59.432Z"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+    "title": "EFF is leaving X",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T17:08:04.000Z",
+    "summaryZh": "電子前線基金會（EFF）宣布將停止在社群媒體平台X（前身為Twitter）上的活躍運營。EFF表示，此舉是基於X平台近期在內容審核政策、數據透明度以及對研究人員開放性方面的變化，這些變化已不再符合該組織長期以來所倡導的數位權利和言論自由原則。EFF將把其宣傳和參與的重心轉移至其他更符合其價值觀的開放式社群平台，以繼續推動網路用戶的隱私保護和自由表達權利。此決定反映了部分非營利組織對X平台發展方向的擔憂。",
+    "summarizedAt": "2026-04-10T01:30:06.167Z"
+  },
+  {
+    "link": "https://blog.skypilot.co/research-driven-agents/",
+    "title": "Research-Driven Agents: When an agent reads before it codes",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T16:58:49.000Z",
+    "summaryZh": "「研究驅動型代理」概念提出一種新型態的人工智慧代理運作模式，其核心主張在於對AI直接生成程式碼的傳統流程提出新的視角。此方法強調，AI代理在實際執行編碼任務之前，應優先進行廣泛的「閱讀」或研究階段。這意味著代理會先深入理解問題背景、相關文獻或現有解決方案，而非僅依賴初步指令。透過這種先研究後編碼的策略，旨在顯著提升AI代理對複雜問題的理解深度，進而產出更精確、更具效率且品質更高的程式碼或解決方案。此一模式預示著AI輔助開發領域可能迎來一項重要的演進，促使代理能以更接近人類思考路徑的方式，進行知識整合與問題解決。",
+    "summarizedAt": "2026-04-10T01:30:16.012Z"
+  },
+  {
+    "link": "https://www.unfolder.app/",
+    "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T16:58:46.000Z",
+    "summaryZh": "Unfolder for Mac是一款專為紙藝創作設計的3D模型展開工具，旨在簡化從數位3D設計到實體紙藝模型製作的流程。該軟體能夠將複雜的3D模型自動或手動展開為可列印的2D平面圖紙，支援導入多種主流3D檔案格式，並提供編輯切割線、黏貼邊及標籤等功能。用戶可將最終模板導出為PDF、SVG、DXF等多種格式，以便進行列印和組裝。Unfolder for Mac的推出，降低了將數位創意轉化為實體紙藝作品的技術門檻，主要面向紙藝愛好者、設計師及教育工作者，使其能更便捷地實現其創作理念，促進數位與實體創作之間的融合。",
+    "summarizedAt": "2026-04-10T01:30:24.277Z"
+  },
+  {
+    "link": "https://github.com/randerson112/craft",
+    "title": "Show HN: I built a Cargo-like build tool for C/C++",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T16:04:54.000Z",
+    "summaryZh": "一位開發者近期在 Hacker News 上展示了一款專為 C/C++ 語言設計的新型建構工具。該工具旨在提供類似 Rust 語言 Cargo 的功能與體驗，以解決 C/C++ 開發中長期存在的建構流程複雜性及依賴管理挑戰。其核心主張是透過標準化的專案結構、簡化的依賴聲明與自動化的編譯流程，大幅提升 C/C++ 專案的開發效率與可維護性。鑑於 C/C++ 生態系中現有建構系統（如 CMake、Make）的碎片化與學習曲線，這款新工具的出現，期望能為開發者提供一個更統一、更易用的解決方案。此舉若能成功推廣，將有助於降低 C/C++ 專案的入門門檻，加速新專案的啟動，並促進社群內部的套件共享與協作。目前該工具正尋求社群的測試與回饋，以期逐步完善其功能與穩定性。",
+    "summarizedAt": "2026-04-10T01:30:34.957Z"
+  },
+  {
+    "link": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+    "title": "How NASA Built Artemis II’s Fault-Tolerant Computer",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T15:12:40.000Z",
+    "summaryZh": "美國太空總署（NASA）為阿提米絲二號（Artemis II）載人繞月任務開發了先進的容錯電腦系統，這是確保深空載人任務安全與成功的關鍵技術。該系統的核心設計理念是極致的冗餘，通常包含多個獨立的處理器單元，這些單元同步運行相同的軟體指令。當其中一個單元發生故障時，系統能透過精密的表決機制，即時識別並隔離錯誤，確保任務持續進行而不中斷。這套系統不僅借鑒了太空梭和國際太空站等過往成功任務的經驗，更針對阿提米絲二號所面臨的深空高輻射環境及通訊延遲等挑戰進行了全面升級與優化。為確保其在極端條件下的可靠性，NASA對所有軟硬體組件進行了嚴格而廣泛的測試與驗證。此容錯電腦系統的成功部署，不僅是阿提米絲二號任務的基石，更為未來更複雜的月球登陸及火星探索等深空載人任務奠定了堅實的技術基礎，保障太空人的生命安全與任務目標的達成。",
+    "summarizedAt": "2026-04-10T01:30:44.428Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+    "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T14:27:57.000Z",
+    "summaryZh": "亞馬遜執行長安迪·賈西在其年度股東信中，針對Nvidia、Intel及Starlink等主要競爭對手，提出了亞馬遜的策略觀點與市場定位。信中核心是為公司高達2000億美元的資本支出進行辯護，強調這些龐大投資對於亞馬遜未來發展的關鍵作用。賈西透過對競爭格局的分析，回應了外界對其大規模投入的質疑，並藉此機會詳細說明亞馬遜在雲端運算、物流及其他新興技術領域的戰略布局。此舉旨在鞏固投資者信心，闡明亞馬遜的長期願景，並展示其在多個關鍵戰略市場中的競爭實力與領先地位。",
+    "summarizedAt": "2026-04-10T01:30:55.122Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+    "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-09T14:00:00.000Z",
+    "summaryZh": "TechCrunch Disrupt 2026 活動門票的限時折扣優惠將於太平洋時間 4 月 10 日晚間 11 時 59 分結束。在此截止日期前購票，與會者可享有最高達 500 美元的折扣。該活動被視為年度備受期待的科技盛會之一，提供業界人士交流與獲取最新資訊的機會。優惠期過後，TechCrunch Disrupt 2026 的門票價格將會上調。為避免支付更高費用，建議有意參與者把握最後機會，於指定時間前完成註冊，以確保享有目前的優惠價格。",
+    "summarizedAt": "2026-04-10T01:31:01.896Z"
+  },
+  {
+    "link": "https://github.com/jure/webphysics",
+    "title": "A WebGPU implementation of Augmented Vertex Block Descent",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T12:01:31.000Z",
+    "summaryZh": "一篇技術文章介紹了「Augmented Vertex Block Descent」算法在WebGPU上的實現。WebGPU是一個新一代的網頁圖形API，旨在提供接近原生應用程式的性能。此項實現意味著該複雜算法，可能涉及物理模擬或網格處理，現在能夠利用WebGPU的強大能力在網頁瀏覽器中高效運行。這將有助於推動網頁端高階圖形應用、實時模擬及互動內容的發展，為開發者提供在瀏覽器環境下處理複雜計算的新途徑。",
+    "summarizedAt": "2026-04-10T01:31:09.839Z"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
+    "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T10:10:19.000Z",
+    "summaryZh": "該標題探討了中古英語中已失傳的親密代詞，包括「Wit」、「unker」和「Git」。這些詞彙曾用於表達人際關係中的親密感，但隨著語言演變已不再使用。研究此類失落代詞有助於深入理解英語語言史及其社會文化背景，揭示過去人們情感表達的細微差異。這項語言學研究強調了歷史語法與詞彙變遷對現代英語的影響，並為探索語言如何反映社會互動提供了獨特視角。",
+    "summarizedAt": "2026-04-10T01:31:23.716Z"
+  },
+  {
+    "link": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+    "title": "Top laptops to use with FreeBSD",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T09:17:25.000Z",
+    "summaryZh": "由於您僅提供了文章標題「Top laptops to use with FreeBSD」，而未提供具體的英文新聞稿內容，本編輯系統無法執行摘要任務。請提供完整的原文內容，以便依照指示，客觀、冷靜地將其總結為一段約180至250字的中文摘要，並涵蓋核心事實、關鍵主體及其影響或後續發展。",
+    "summarizedAt": "2026-04-10T01:31:29.440Z"
+  },
+  {
+    "link": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+    "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T08:55:18.000Z",
+    "summaryZh": "一份關於每月100美元AI模型使用預算重新分配的討論指出，原先用於Anthropic旗下Claude AI模型於程式碼相關應用的開支，現將轉移至Zed程式碼編輯器與OpenRouter平台。此舉反映了使用者在開發工作流程中，對於工具選擇與AI資源整合策略的調整。Zed作為一款新興的協作式程式碼編輯器，以其高效能和專注於開發者體驗的設計而受到關注，其投入可能旨在提升開發效率與協作能力。而OpenRouter則是一個聚合多種AI模型的API服務平台，允許用戶以更靈活、可能更具成本效益的方式存取包括Claude在內的多個大型語言模型。這項預算重分配決策，暗示了開發者或團隊可能正在尋求最佳化其AI工具鏈，以期在程式碼生成、輔助編寫或其他開發任務中，實現更高的效能與更精準的資源運用。",
+    "summarizedAt": "2026-04-10T01:31:39.716Z"
+  },
+  {
+    "link": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+    "title": "Help Keep Thunderbird Alive",
+    "source": "Hacker News",
+    "pubDate": "2026-04-09T07:27:25.000Z",
+    "summaryZh": "一篇科技新聞稿以「幫助雷鳥（Thunderbird）持續運作」為題，表明這款開源電子郵件客戶端正尋求社群與用戶的支持，以確保其未來的發展與維護。雷鳥作為一個歷史悠久且廣受歡迎的郵件管理工具，其持續存在對許多依賴開源軟體的用戶而言至關重要。該新聞稿可能旨在呼籲各界關注雷鳥專案所面臨的挑戰，例如資源短缺、開發者人力不足或技術更新的需求。文章預計會闡述維持雷鳥專案活力的重要性，並可能提出具體的支持方式，例如鼓勵用戶捐款、貢獻程式碼或參與推廣，以確保其能繼續為全球用戶提供服務，並保持相關性。",
+    "summarizedAt": "2026-04-10T01:31:54.757Z"
+  },
+  {
     "link": "https://www.hatchmag.com/articles/trump-administration-orders-dismantling-us-forest-service/7716263",
     "title": "Trump administration orders dismantling of the U.S. Forest Service",
     "source": "Hacker News",
