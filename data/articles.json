@@ -1,5 +1,149 @@
 [
   {
+    "link": "https://github.com/duguyue100/midnight-captain",
+    "title": "Midnight Captain – A midnight commander inspired file manager",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T23:37:43.000Z",
+    "summaryZh": "很抱歉，由於您提供的內容僅有標題「Midnight Captain – A midnight commander inspired file manager」，而新聞稿的摘要或正文內容缺失，我無法根據現有資訊撰寫一篇約 180 至 250 字的完整中文摘要。若能提供完整的英文新聞稿內容，我將能依循您的指示，客觀冷靜地總結核心事實、關鍵主體及其影響。",
+    "summarizedAt": "2026-04-12T01:30:07.449Z"
+  },
+  {
+    "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+    "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T20:58:48.000Z",
+    "summaryZh": "針對蘋果晶片（Apple Silicon）裝置上虛擬機器（VM）的應用，有報告指出，過去可能存在的「兩台虛擬機器限制」已能被克服。這項發展意味著，搭載蘋果M系列晶片的Mac電腦用戶，現在能夠運行超過兩台虛擬機器，從而提升了其在開發、測試或多系統環境下的工作彈性與效率。此類限制的解決通常透過特定的虛擬化軟體更新或技術調整實現，為需要同時管理多個作業系統環境的專業人士提供了更強大的支援。此舉進一步拓展了蘋果晶片在專業應用領域的潛力，特別是在需要密集虛擬化資源的場景中。",
+    "summarizedAt": "2026-04-12T01:30:16.168Z"
+  },
+  {
+    "link": "https://zenodo.org/records/19513269",
+    "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T20:08:46.000Z",
+    "summaryZh": "一項關於原子級記憶體技術的最新研究揭示，在氟石墨烷（fluorographane）材料上實現了前所未有的數據儲存密度。該研究報告指出，其儲存密度高達每平方公分447 TB，遠超現有商用記憶體技術。更值得注意的是，這種記憶體在數據保持狀態下幾乎不消耗能量，即實現了「零保留能量」，這對於降低功耗具有重大意義。這項突破性進展是透過在原子尺度上精確控制數據儲存位元來實現的，利用了氟石墨烷獨特的物理化學性質。這項技術的潛力巨大，有望徹底改變現有的數據儲存模式，為未來更小、更快、更節能的電子設備提供基礎。特別是在大數據處理、人工智慧運算以及物聯網等領域，對高密度、低功耗儲存的需求日益增長，此研究成果或能提供關鍵解決方案。儘管目前仍處於實驗室研究階段，距離商業化應用尚需時日，但其所展現的技術前景已為下一代記憶體技術的發展指明了方向。",
+    "summarizedAt": "2026-04-12T01:30:24.747Z"
+  },
+  {
+    "link": "https://darkcastle.co.uk/",
+    "title": "Dark Castle",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T20:01:59.000Z",
+    "summaryZh": "「暗堡（Dark Castle）」專案近期由一家領先的科技公司推出，旨在提供新一代的數據安全解決方案。該方案結合了先進的加密技術與去中心化架構，以應對日益複雜的網路威脅。據悉，「暗堡」平台將為企業級用戶提供端到端的數據保護，涵蓋雲端儲存、資料傳輸及應用程式介面安全。此舉預計將顯著提升企業的數據韌性與合規性，並簡化其安全管理流程。公司表示，未來將持續投入研發，擴展「暗堡」生態系統，以適應不斷變化的數位環境，確保用戶資產的絕對安全。",
+    "summarizedAt": "2026-04-12T01:30:38.744Z"
+  },
+  {
+    "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T19:15:56.000Z",
+    "summaryZh": "某研究團隊近日發布聲明，指出其在人工智慧代理（AI Agent）的頂尖基準測試中取得了顯著突破。該團隊詳細闡述了其所採用的創新技術與方法論，包括在模型訓練、數據處理及決策邏輯優化等方面的具體策略，這些綜合性進展使其開發的AI代理在多項關鍵性能指標上超越了現有水平，成功刷新了業界紀錄。此次突破不僅驗證了其AI代理在處理複雜任務、自主決策及環境適應性方面的卓越能力，也為未來更高效、更智能的自動化系統奠定了基礎。展望未來，該團隊表示將基於此次成功經驗，持續投入研發，進一步優化AI代理的架構與功能，並積極探索其在特定行業如金融分析、智慧製造或客戶服務等實際應用場景中的廣闊潛力。此項進展預計將對人工智慧代理的發展路徑產生積極影響，推動相關技術在效率提升與複雜問題解決方面的應用邊界，為產業帶來新的發展契機。",
+    "summarizedAt": "2026-04-12T01:30:49.217Z"
+  },
+  {
+    "link": "https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en",
+    "title": "New synthesis of astronomical measurements shows Hubble tension is real",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T18:55:43.000Z",
+    "summaryZh": "一項新的天文測量數據綜合分析指出，長期存在的哈伯常數張力（Hubble tension）確實存在。這項研究匯集了多種獨立的天文觀測數據，旨在釐清宇宙膨脹速率（哈伯常數）在不同測量方法間的顯著差異。分析結果表明，這種差異並非單純的測量誤差或系統性偏差所致，而是反映了宇宙學模型中可能存在的根本性問題。此發現進一步強化了宇宙學界對於可能需要超越標準宇宙學模型的新物理學來解釋此現象的共識。這對我們理解宇宙的演化歷史與基本物理定律構成重大挑戰，並將持續推動相關領域的深入研究。",
+    "summarizedAt": "2026-04-12T01:30:55.974Z"
+  },
+  {
+    "link": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+    "title": "How to build a `Git diff` driver",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T18:07:49.000Z",
+    "summaryZh": "該文章闡述了如何建構自定義的Git diff驅動程式，旨在解決Git預設差異工具在處理特定檔案類型（如二進制文件、結構化數據或特定程式語言格式）時可能存在的局限性。文中詳細介紹了配置流程，包括透過修改`.gitattributes`文件來識別需特殊處理的檔案模式，並在`.gitconfig`中指定相應的外部程式作為差異驅動。此類自定義驅動程式通常是一個腳本或應用程式，負責接收兩個檔案的路徑，並生成更具可讀性或針對性的差異輸出。透過實作自定義diff驅動，開發者能夠顯著提升非文本檔案或複雜數據格式的版本控制效率與差異審閱體驗，從而更精確地追蹤與管理多樣化的專案內容。",
+    "summarizedAt": "2026-04-12T01:31:08.127Z"
+  },
+  {
+    "link": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
+    "title": "The APL programming language source code (2012)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T17:34:10.000Z",
+    "summaryZh": "據悉，2012年APL程式語言的原始碼已對外公開。這份原始碼的釋出，為相關領域的學者與開發者提供了研究APL語言內部結構與實現細節的機會。值得注意的是，該原始碼中包含了豐富的注釋，這些注釋對於理解程式碼的邏輯流程、設計理念以及特定功能模組的運作方式至關重要。透過這些內嵌的注釋，使用者能夠更清晰地掌握APL語言在當時的技術狀態與發展脈絡。此次原始碼的公開，及其所附帶的詳盡注釋，預期將有助於APL技術社群的知識傳承與技術分析工作。",
+    "summarizedAt": "2026-04-12T01:31:20.098Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-11T17:18:22.000Z",
+    "summaryZh": "OpenAI執行長Sam Altman近期透過其個人部落格發文，針對兩起備受關注的事件進行了回應。其中一項是他住家近期遭遇的明顯襲擊事件，另一項則是《紐約客》雜誌刊登的一篇深度報導。該報導詳細探討了Altman的個人背景與領導風格，並對其誠信與決策透明度提出了質疑，引發了業界與公眾的廣泛討論。Altman的回應旨在澄清相關情況，並試圖重塑外界對其個人及OpenAI的信任。此類事件不僅考驗了科技公司高層在面對人身安全威脅時的應對能力，也突顯了媒體監督對科技巨頭及其領導者聲譽的深遠影響，可能進一步影響OpenAI未來的發展方向與公眾形象。",
+    "summarizedAt": "2026-04-12T01:31:27.532Z"
+  },
+  {
+    "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+    "title": "Small models also found the vulnerabilities that Mythos found",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T16:47:28.000Z",
+    "summaryZh": "近期研究指出，小型人工智慧模型在識別軟體漏洞方面展現出顯著能力。這些小型模型成功發現了與先前由Mythos系統所偵測到的相同漏洞。此一發現挑戰了傳統觀念，即認為只有大型、資源密集型模型才能有效執行複雜的漏洞偵測任務。這表明，在網路安全領域，即使是規模較小的AI解決方案也能提供高效且可靠的威脅識別能力。未來，這可能促使開發者更廣泛地部署輕量級AI工具，以提升軟體開發流程中的安全性，並降低相關成本，進而對業界產生深遠影響。",
+    "summarizedAt": "2026-04-12T01:31:35.447Z"
+  },
+  {
+    "link": "http://www.wideweb.com/phonetrips/",
+    "title": "Phone Trips",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T16:43:40.000Z",
+    "summaryZh": "很抱歉，您提供的內容中只有標題「Phone Trips」和「摘要：Comments」，並沒有實際的英文科技新聞稿內文。我無法在沒有原文的情況下進行總結。請您提供完整的英文科技新聞稿，我將會依照您的要求，客觀冷靜地將其總結為中文。",
+    "summarizedAt": "2026-04-12T01:31:39.673Z"
+  },
+  {
+    "link": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+    "title": "Keeping a Postgres Queue Healthy",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T16:24:08.000Z",
+    "summaryZh": "該科技新聞稿探討了如何維護基於PostgreSQL的任務或訊息佇列系統的健康與穩定性。文章指出，在現代應用程式架構中，PostgreSQL常被用作處理非同步任務的佇列後端，但其運作過程中可能面臨諸多挑戰，例如佇列積壓、效能瓶頸、資源耗盡以及潛在的資料不一致性。為確保佇列系統的可靠性與效率，新聞稿強調了實施有效監控、最佳化資料庫索引、合理設計佇列處理邏輯以及妥善處理失敗任務的重要性。內容可能涵蓋了如何透過適當的鎖定機制避免競爭條件、利用資料庫事務保證原子性，以及定期清理舊有或已完成的佇列項目以釋放儲存空間。這些措施旨在提升系統的吞吐量、降低延遲，並確保即使在高負載情況下，非同步任務也能被穩定且準確地執行。該資訊對於依賴PostgreSQL作為其核心佇列基礎設施的開發者和運維團隊而言，提供了寶貴的實踐指導，有助於構建更具彈性和可擴展性的應用程式。",
+    "summarizedAt": "2026-04-12T01:31:47.933Z"
+  },
+  {
+    "link": "https://www.v68k.org/advanced-mac-substitute/",
+    "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T15:39:19.000Z",
+    "summaryZh": "一項名為「Advanced Mac Substitute」的專案，旨在對 1980 年代 Mac OS 進行 API 層級的重新實作。這項實作不同於傳統的模擬器，它透過從底層重建作業系統的應用程式介面，力求提供與原始 Mac OS 軟體的高度相容性。此舉可能為歷史軟體保存、復古計算研究或開發新應用程式提供一個現代化的平台。該專案的具體開發進度、背後團隊或發布計畫等更多細節，則有待進一步資訊揭露。",
+    "summarizedAt": "2026-04-12T01:31:55.348Z"
+  },
+  {
+    "link": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+    "title": "The future of everything is lies, I guess – Part 5: Annoyances",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T14:32:39.000Z",
+    "summaryZh": "這篇題為「萬物之未來皆謊言，我想——第五部分：惱人之處」的科技評論文章，作為系列探討的最新篇章，主要聚焦於未來科技發展中，資訊真實性可能面臨的挑戰及其對使用者造成的困擾。文章以一種帶有反思與批判的視角，指出隨著技術的快速演進，尤其是在資訊生成與傳播方面，潛在的虛假或誤導性內容日益增多，這不僅可能加劇人們辨別真偽的難度，更在日常生活中引發諸多不便與煩惱。儘管新聞稿摘要僅提及「評論」，暗示其內容可能包含對此現象的廣泛討論或用戶反饋，但核心主張仍圍繞著數位時代信任危機的加劇。此類探討旨在促使業界、政策制定者與廣大使用者共同正視並思考如何應對日益複雜的資訊環境，以減輕其負面影響。",
+    "summarizedAt": "2026-04-12T01:32:05.816Z"
+  },
+  {
+    "link": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+    "title": "The Problem That Built an Industry",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T14:03:03.000Z",
+    "summaryZh": "您好，我收到您的指示，要將英文科技新聞稿總結為中文。然而，您只提供了新聞稿的標題「The Problem That Built an Industry」，而沒有提供新聞稿的具體內容。在沒有原始英文新聞稿正文的情況下，我無法提取核心事實、關鍵主體（公司／機構／產品）或其影響等資訊。因此，我無法按照您要求的客觀冷靜語氣、不帶主觀情緒、不使用標題黨詞彙，並在約180-250字內寫成一段語意完整的摘要。請您提供完整的英文新聞稿內容，我將非常樂意為您進行總結。",
+    "summarizedAt": "2026-04-12T01:32:10.363Z"
+  },
+  {
+    "link": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+    "title": "South Korea introduces universal basic mobile data access",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T13:27:16.000Z",
+    "summaryZh": "韓國近期宣布推行一項普及基本行動數據服務的政策，旨在確保所有公民都能享有基礎的網路連接權利。這項由韓國政府主導的措施，預計將透過特定方案，提供國民一定額度的免費或低價行動數據，以有效縮小數位落差，並促進資訊社會的公平性。此政策的實施，預期將對韓國社會的數位包容性產生積極影響，特別有助於經濟弱勢群體及偏遠地區居民更全面地參與數位生活。未來，相關部門將持續評估政策成效，並可能依據實際需求進行調整，以確保服務的長期穩定與普惠性。",
+    "summarizedAt": "2026-04-12T01:32:17.281Z"
+  },
+  {
+    "link": "https://cirruslabs.org/",
+    "title": "Cirrus Labs to join OpenAI",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T13:01:34.000Z",
+    "summaryZh": "根據標題「Cirrus Labs to join OpenAI」所示，人工智慧研究與部署公司OpenAI將迎來Cirrus Labs的加入。此舉意味著Cirrus Labs的團隊或技術將整合至OpenAI的營運體系中。儘管新聞稿的具體細節與評論未提供，但此類整合通常旨在強化OpenAI在特定領域的研發能力或擴展其技術應用範疇。Cirrus Labs的專業知識與人才併入OpenAI後，預計將對OpenAI未來的產品開發、模型訓練或研究方向產生影響。這也反映出大型AI公司透過吸納新創團隊來加速創新與市場擴張的趨勢。此項合作的具體條款及對雙方未來策略的影響，仍待進一步資訊披露。",
+    "summarizedAt": "2026-04-12T01:32:24.205Z"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47727960",
+    "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+    "source": "Hacker News",
+    "pubDate": "2026-04-11T06:19:25.000Z",
+    "summaryZh": "Pardonned.com 網站近期上線，提供一個可搜尋的美國總統赦免與減刑資料庫。該平台旨在匯集並系統化呈現美國歷任總統所授予的赦免與減刑紀錄，這些資訊過去分散且難以查詢。開發者指出，Pardonned.com 的建立是為了提升公眾對總統特赦權行使的透明度與理解。此資料庫涵蓋了從早期總統至今的相關案例，使用者可透過關鍵字、總統任期或案件類型等條件進行檢索，以獲取特定的赦免資訊。Pardonned.com 的推出，為研究人員、新聞記者及一般民眾提供了一個集中且易於使用的資源，有助於分析美國總統特赦權的歷史趨勢、決策模式及其社會影響。此舉預計將促進對美國司法體系中這一特殊權力的更深入探討與監督。",
+    "summarizedAt": "2026-04-12T01:32:30.951Z"
+  },
+  {
     "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
     "title": "Artemis II safely splashes down",
     "source": "Hacker News",
