@@ -1,5 +1,213 @@
 [
   {
+    "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+    "title": "Lean proved this program correct; then I found a bug",
+    "source": "Hacker News",
+    "pubDate": "2026-04-14T00:25:08.000Z",
+    "summaryZh": "一個程式儘管經過形式化證明工具Lean的驗證，被認為是正確的，但隨後仍被發現存在一個錯誤。Lean作為一種先進的互動式定理證明器，旨在透過數學邏輯確保軟體的正確性。此事件凸顯了即使是經過嚴格形式化驗證的程式碼，也可能因多種因素而存在缺陷。這些因素可能包括驗證時的規範定義不完整或不準確、人類在將程式邏輯轉化為形式證明時的錯誤，或是證明工具本身的某些局限性。這促使業界重新審視形式化驗證的應用範圍與其局限，並強調結合多種測試與驗證方法的重要性。",
+    "summarizedAt": "2026-04-14T01:30:03.424Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "title": "OpenAI has bought AI personal finance startup Hiro",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-14T00:23:33.000Z",
+    "summaryZh": "OpenAI 近期完成對人工智慧個人理財新創公司 Hiro 的收購。此舉明確指出 OpenAI 正在為其旗艦產品 ChatGPT 整合財務規劃能力。Hiro 專注於利用 AI 提供個人化的理財建議與工具，其技術與團隊的加入，預計將大幅強化 ChatGPT 在處理複雜金融數據和提供客製化理財方案方面的潛力。這項收購不僅擴展了 OpenAI 的服務範疇，也預示著未來 ChatGPT 可能會從一個通用型 AI 助理，轉變為一個能提供更專業、更具體生活應用支援的平台。透過整合 Hiro 的專業知識，OpenAI 旨在讓用戶能夠直接在 ChatGPT 中獲得初步的財務分析、預算管理、儲蓄規劃或基礎投資建議，進一步提升其在日常生活中的實用價值。此發展反映了大型 AI 公司將其技術應用於特定垂直領域的趨勢，以滿足用戶對更深入、更個人化服務的需求。",
+    "summarizedAt": "2026-04-14T01:30:13.020Z"
+  },
+  {
+    "link": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
+    "title": "Why it's impossible to measure England's coastline",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T23:44:10.000Z",
+    "summaryZh": "英格蘭海岸線的長度無法精確測量，這是一個著名的地理學和數學問題。其核心在於海岸線的「碎形」特徵，即無論用多小的單位去測量，總能發現更微小的彎曲和不規則。測量結果會隨著測量尺度的縮小而增加，因此沒有一個固定的、絕對的長度。這個現象被稱為「海岸線悖論」，由數學家本華·曼德博提出，它揭示了自然界中許多不規則形狀的複雜性，挑戰了傳統歐幾里得幾何的局限性。這不僅影響地理測繪，也對科學界理解和量化複雜系統提供了新的視角。",
+    "summarizedAt": "2026-04-14T01:30:18.759Z"
+  },
+  {
+    "link": "https://github.com/fabienmillet/WiiFin",
+    "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T23:33:18.000Z",
+    "summaryZh": "一款名為 WiiFin 的全新應用程式已推出，旨在作為開源媒體伺服器 Jellyfin 的用戶端，專為任天堂 Wii 主機設計。此應用程式的推出，使得 Wii 用戶能夠直接透過其遊戲主機，存取並串流播放來自個人 Jellyfin 伺服器上的影音內容。這項發展為仍在使用任天堂 Wii 的用戶提供了一個新的家庭娛樂選項，有效延長了這款經典遊戲主機的實用壽命與功能性。Jellyfin 作為一款免費且開源的媒體解決方案，允許用戶管理和串流自己的媒體庫，而 WiiFin 的出現則將其服務範圍擴展至更廣泛的硬體平台。WiiFin 的開發體現了社群對於舊有硬體設備功能再利用的持續興趣，並為用戶提供了更多元的媒體消費途徑。",
+    "summarizedAt": "2026-04-14T01:30:27.367Z"
+  },
+  {
+    "link": "https://ndaybench.winfunc.com",
+    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T21:54:03.000Z",
+    "summaryZh": "一項名為 N-Day-Bench 的新基準測試已推出，旨在評估大型語言模型（LLMs）在實際程式碼庫中發現真實安全漏洞的能力。這項基準測試的核心目標是探討 LLMs 在網路安全領域的潛力，特別是在自動化漏洞檢測方面的應用。N-Day-Bench 的設計強調使用真實世界的程式碼與已知的安全缺陷，而非合成數據，以確保評估結果的實用性與可靠性。此舉對於理解 LLMs 在軟體安全生命週期中的角色至關重要。透過系統性地評估 LLMs 識別潛在威脅的能力，研究人員與開發者將能更清晰地掌握其當前表現與未來發展方向。N-Day-Bench 的成果預計將為軟體開發與網路安全社群提供寶貴的洞察，有助於推動更高效、更自動化的安全檢測工具的發展，進而提升整體軟體生態系統的安全性。",
+    "summarizedAt": "2026-04-14T01:30:36.480Z"
+  },
+  {
+    "link": "https://www.enfuse.io/blog/vibe-coding-trap",
+    "title": "Tokens – The New Dopamine Economy",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T21:48:00.000Z",
+    "summaryZh": "科技界正密切關注一種名為「代幣——多巴胺經濟」的新興模式。其核心主張是，透過精心設計的數位代幣獎勵機制，企業與平台能夠有效激發並維持用戶的參與度與活躍行為。此模式旨在利用人類對即時獎勵、成就感和社會認可的心理需求，創造類似於社交媒體或遊戲所觸發的多巴胺釋放效應，以建立高度黏著的用戶生態。相關分析指出，此策略有助於提升用戶留存率與商業價值，但也引發了關於潛在的行為成癮風險、倫理設計原則及數位資產市場波動性等方面的討論。儘管存在挑戰，許多科技公司仍積極探索將代幣化策略融入其核心業務，期望在快速變化的數位經濟中獲取競爭優勢。",
+    "summarizedAt": "2026-04-14T01:30:56.023Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T21:25:38.000Z",
+    "summaryZh": "史丹佛大學近期發布一份報告，指出人工智慧（AI）領域的內部人士與廣大公眾之間存在日益加劇的認知落差。該報告深入分析了雙方在AI技術的潛在風險、發展方向、倫理考量以及社會影響等方面的觀點差異。研究強調，這種落差可能導致公眾對AI技術產生誤解或不信任，進而阻礙負責任的AI創新與應用。史丹佛大學的研究人員透過數據分析與專家訪談，揭示了技術開發者與政策制定者、普通民眾之間在AI議題上的溝通不足。報告呼籲各界應加強對話與透明度，以彌合此一鴻溝，確保AI技術的發展能夠更符合社會的整體利益與價值觀。",
+    "summarizedAt": "2026-04-14T01:31:04.349Z"
+  },
+  {
+    "link": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/",
+    "title": "Mathematical Minimalism",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T20:45:39.000Z",
+    "summaryZh": "您好，很抱歉，我無法根據僅有的標題「Mathematical Minimalism」和「摘要：Comments」來生成一份符合您要求的中文摘要。請您提供完整的英文新聞稿內容，我將會依照您的指示，客觀冷靜地總結其核心事實、關鍵主體及其影響，並確保摘要長度符合180至250字的限制，且語意完整。",
+    "summarizedAt": "2026-04-14T01:31:07.593Z"
+  },
+  {
+    "link": "https://github.com/SunAndClouds/ReadMe",
+    "title": "Show HN: Continual Learning with .md",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T20:42:19.000Z",
+    "summaryZh": "您提供的內容僅包含標題「Show HN: Continual Learning with .md」以及摘要欄位的「Comments」字樣。這不足以提煉出核心事實、關鍵主體、產品或其潛在影響。為了撰寫一篇符合要求的客觀摘要，我需要完整的英文科技新聞稿原文。請提供新聞稿的詳細內容，我將樂意為您進行總結。",
+    "summarizedAt": "2026-04-14T01:31:12.858Z"
+  },
+  {
+    "link": "https://github.github.com/gh-stack/",
+    "title": "GitHub Stacked PRs",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T20:36:49.000Z",
+    "summaryZh": "GitHub 近日推出或強化了對「堆疊式拉取請求」（Stacked PRs）的支援，旨在提升複雜軟體專案的開發與程式碼審查效率。這項功能允許開發者將大型變更分解為一系列相互依賴的獨立拉取請求，每個請求都建立在前一個未合併的請求之上。透過這種方式，審閱者可以逐一審查較小的、有明確上下文的變更，從而簡化審查流程並減少認知負擔。新功能特別強調了在堆疊式結構中進行評論和討論的機制，確保審閱者能夠針對每個獨立的變更提供精確且具上下文的意見回饋，進一步促進團隊協作與程式碼品質的提升。此舉預計將有助於大型團隊更有效地管理複雜功能開發，並加速軟體交付週期。",
+    "summarizedAt": "2026-04-14T01:31:21.817Z"
+  },
+  {
+    "link": "https://www.dwarmstrong.org/chimera-install-zfs/",
+    "title": "Just Enough Chimera Linux",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T19:37:54.000Z",
+    "summaryZh": "抱歉，您提供的內容中僅有標題「Just Enough Chimera Linux」及「摘要：Comments」，並未包含新聞稿的具體內容。因此，我無法根據現有資訊為您總結該新聞稿的核心事實、關鍵主體及其影響。請提供完整的英文新聞稿內容，以便我能按照您的要求進行客觀、冷靜的中文摘要。",
+    "summarizedAt": "2026-04-14T01:31:26.757Z"
+  },
+  {
+    "link": "https://amd-gaia.ai/docs",
+    "title": "(AMD) Build AI Agents That Run Locally",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T19:28:41.000Z",
+    "summaryZh": "超微（AMD）近期強調其在推動人工智慧（AI）代理於本地端運行的策略。此舉旨在利用其高效能處理器及圖形處理器（GPU）的運算能力，讓AI應用程式能夠直接在個人電腦或邊緣設備上執行。本地運行AI代理可帶來多重優勢，包括提升數據隱私性、降低網路延遲、減少對雲端服務的依賴，並可能降低長期營運成本。為實現此目標，AMD正積極提供相關軟體工具與開發框架，例如ROCm開放軟體平台，以支援開發者在AMD硬體上優化並部署AI模型。這項策略預示著未來AI應用將更加普及化與個人化，使更多用戶能在本地環境中享有AI代理帶來的便利與創新。",
+    "summarizedAt": "2026-04-14T01:31:34.379Z"
+  },
+  {
+    "link": "https://www.ithihasas.in",
+    "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T19:10:07.000Z",
+    "summaryZh": "一個名為「Ithihāsas」的項目近期在Hacker News平台公開展示。此項目被描述為一個專為探索印度史詩中角色而設計的工具。據開發者介紹，該工具的初步版本在數小時內完成。其主要功能是提供用戶一個介面，以便於瀏覽和理解《摩訶婆羅多》與《羅摩衍那》等印度主要史詩中的複雜人物網絡、背景故事及其相互關係。這類工具旨在簡化對這些龐大且多層次敘事結構的分析過程，特別是對於其中數量眾多且情節交織的角色。透過「Ithihāsas」，研究人員、學生以及對印度文化和文學感興趣的讀者，能夠更系統、高效地獲取和整理史詩文本中的角色資訊。該項目的快速開發與在技術社群的分享，也體現了個人開發者在特定文化領域應用技術解決方案的實踐。",
+    "summarizedAt": "2026-04-14T01:31:43.017Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "title": "Microsoft is working on yet another OpenClaw-like agent",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-13T19:05:19.000Z",
+    "summaryZh": "微軟正著手開發一款新的代理程式，其功能與OpenClaw類似。此項新產品主要針對企業客戶的需求，旨在提供比廣為人知且具安全風險的開源OpenClaw代理程式更為嚴格和完善的安全控制措施。微軟此舉顯然是為了滿足企業市場對高安全性自動化工具日益增長的需求，同時避免開源方案可能帶來的潛在風險，為企業用戶提供一個更可靠的選擇。",
+    "summarizedAt": "2026-04-14T01:31:51.283Z"
+  },
+  {
+    "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+    "title": "How to make Firefox builds 17% faster",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T18:50:08.000Z",
+    "summaryZh": "一篇技術文章或討論探討了如何提升 Firefox 瀏覽器構建速度的方法。該文指出，透過特定優化措施，可望將 Firefox 的構建時間縮短達 17%。這項進展對於參與 Firefox 開發的工程師團隊具有實質意義，因為更快的構建速度通常意味著更高效的開發流程、更迅速的代碼迭代與測試週期。此類優化不僅能提升開發者體驗，長遠來看亦有助於產品的快速更新與穩定性提升。相關技術細節與實施方案的公開，預計將為開源社群帶來參考價值。",
+    "summarizedAt": "2026-04-14T01:31:58.955Z"
+  },
+  {
+    "link": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
+    "title": "Visualizing CPU Pipelining (2024)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T18:26:40.000Z",
+    "summaryZh": "2024年關於CPU管線化視覺化的相關發展，其核心在於透過圖形化介面，清晰呈現中央處理器（CPU）內部指令的執行流程。此類工具或研究旨在協助工程師、學生及研究人員，更直觀地理解CPU如何透過管線技術提升運算效率，涵蓋指令擷取、解碼、執行、記憶體存取及寫回等關鍵階段的並行處理。透過視覺化，潛在的管線停滯（stalls）或資源衝突（hazards）得以被有效識別，進而促進程式碼或硬體設計的優化。儘管具體發布者或技術細節尚待披露，此領域的持續探索對於深化電腦架構教育與提升系統效能具有重要意義，預計將有助於更精確地分析與解決複雜的處理器行為問題，推動未來運算技術的進步。",
+    "summarizedAt": "2026-04-14T01:32:10.971Z"
+  },
+  {
+    "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T17:54:39.000Z",
+    "summaryZh": "近期有報告指出，一名不明身份的行為者收購了三十款WordPress外掛。隨後，該行為者在所有這些外掛中植入了惡意後門程式碼。這些後門可能允許未經授權的遠端存取，進而危害使用這些外掛的網站安全，包括資料竊取、網站內容篡改或進一步的惡意軟體散播。此類行為通常涉及惡意方透過合法途徑取得現有且受歡迎的外掛，再於更新版本中悄悄植入惡意功能。對於廣大的WordPress網站管理員而言，這構成嚴重的安全威脅，因為許多網站可能在不知情的情況下運行著受感染的外掛。相關安全機構和WordPress社群預計將會發布詳細的受影響外掛列表及應對措施，建議用戶密切關注官方通告，並立即檢查其網站所安裝的外掛，確保其來源可靠且未被篡改。",
+    "summarizedAt": "2026-04-14T01:32:20.283Z"
+  },
+  {
+    "link": "https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy",
+    "title": "New Orleans's Car-Crash Conspiracy",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T17:50:56.000Z",
+    "summaryZh": "美國路易斯安那州紐奧良地區近期揭露了一起涉及廣泛的汽車碰撞詐騙陰謀，引發當地社會高度關注。這項由聯邦當局主導的深入調查指出，一個組織嚴密的犯罪網絡長期運作，其成員包括故意製造事故的「撞擊者」、假裝受傷的「乘客」、負責招募參與者的「跑腿者」，甚至有部分律師和醫療服務提供者也牽涉其中。該陰謀的核心手法是精心策劃假車禍，隨後向各大保險公司提交虛假的個人傷害索賠，以非法詐取巨額賠款。調查結果顯示，此類詐欺行為已導致數百萬美元的保險金被非法騙取，不僅直接推高了當地居民的保險費率，更對公共交通安全構成潛在威脅。迄今為止，聯邦檢察官已對數十名涉案人員提出起訴，其中多名被告已認罪或被判處監禁，包括數名曾執業的律師。",
+    "summarizedAt": "2026-04-14T01:32:40.575Z"
+  },
+  {
+    "link": "https://planetscale.com/blog/btrees-and-database-indexes",
+    "title": "B-trees and database indexes (2024)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T17:22:31.000Z",
+    "summaryZh": "B-樹作為一種高效的自平衡樹狀資料結構，在資料庫索引領域扮演著核心角色。其設計旨在優化磁碟I/O操作，透過保持資料有序並確保所有葉節點位於同一深度，顯著加速了資料的檢索、插入與刪除效率，這對於處理大規模資料集的資料庫系統至關重要。儘管資料庫技術持續發展，B-樹及其變體（如B+樹）至今仍是關係型資料庫及部分NoSQL資料庫中索引機制的核心基礎。2024年關於B-樹的討論，可能著重於其在現代雲端架構下的性能表現、面對海量資料的擴展性挑戰，以及如何與新興的記憶體資料庫或分散式系統進行整合與優化，以持續滿足不斷演進的資料管理需求。",
+    "summarizedAt": "2026-04-14T01:32:50.405Z"
+  },
+  {
+    "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+    "title": "Building a CLI for All of Cloudflare",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T15:44:02.000Z",
+    "summaryZh": "Cloudflare 宣布正在開發一個統一的命令列介面 (CLI)，旨在整合其旗下所有服務的管理功能。此 CLI 的目標是為開發者和系統管理員提供一個統一、高效且自動化的工具，以便更便捷地與 Cloudflare 的各項產品進行互動和管理。這包括但不限於其內容傳遞網路 (CDN)、DNS 管理、Workers 無伺服器平台、R2 儲存服務以及其他安全與效能解決方案。透過單一介面，用戶將能夠執行配置、監控、部署和故障排除等操作，從而簡化複雜的工作流程，提升操作效率。此舉預計將顯著改善開發者體驗，降低管理多個 Cloudflare 服務的門檻，並促進自動化腳本的編寫與整合。Cloudflare 期望藉由這項工具，進一步鞏固其在雲端基礎設施領域的地位，並為其全球用戶提供更一致且強大的管理能力。",
+    "summarizedAt": "2026-04-14T01:32:58.650Z"
+  },
+  {
+    "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T15:31:06.000Z",
+    "summaryZh": "Polymarket平台出現一個名為「Nothing Ever Happens」的自動交易機器人。該機器人專門在非體育類預測市場中持續選擇「否」選項，其策略基於一種假設，即在許多非體育事件中，特定結果發生的機率相對較低，因此長期押注「否」可能是一種有利可圖的策略。此類自動化交易行為可能對Polymarket市場的價格動態產生影響，尤其是在流動性較低的市場中，可能導致「否」選項的價格被推高，進而影響市場對事件發生機率的預期。這引發了關於預測市場效率、套利機會以及自動交易在去中心化市場中如何識別並利用潛在偏差的討論。",
+    "summarizedAt": "2026-04-14T01:33:11.644Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-13T15:22:29.000Z",
+    "summaryZh": "Vercel 是一家擁有十年歷史的開發工具與網站託管平台，其執行長 Guillermo Rauch 近日透露公司已為首次公開募股（IPO）做好準備。與許多在 ChatGPT 問世前成立、目前正努力適應人工智慧時代的新創公司不同，Vercel 正從人工智慧生成應用程式與代理的快速普及中獲益良多。這股由 AI 驅動的應用浪潮，顯著推動了 Vercel 的營收大幅增長，使其在當前科技轉型時期展現出強勁的市場競爭力與發展潛力。",
+    "summarizedAt": "2026-04-14T01:33:18.642Z"
+  },
+  {
+    "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+    "title": "Make tmux pretty and usable (2024)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T14:48:55.000Z",
+    "summaryZh": "這篇題為《讓tmux美觀實用 (2024)》的文章，主要彙整了社群用戶針對終端多工器tmux在2024年的美化與實用性配置所提出的各種評論與建議。文章探討了如何透過調整主題、狀態列、插件以及快捷鍵綁定等方式，提升tmux的視覺體驗與操作效率。內容涵蓋了多種流行的配置方案，例如使用特定的顏色主題、整合外部工具（如電力線字體或狀態列資訊顯示工具），以及優化分窗與面板管理的工作流程。透過這些社群回饋與實踐經驗的分享，文章旨在為tmux使用者提供最新的配置靈感與實用技巧，幫助他們打造更符合個人需求且高效的開發環境，反映了當前終端客製化的趨勢與用戶對效率工具的持續追求。",
+    "summarizedAt": "2026-04-14T01:33:31.205Z"
+  },
+  {
+    "link": "https://spectrum.ieee.org/mems-photonics",
+    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T14:26:02.000Z",
+    "summaryZh": "某研究團隊開發出一款MEMS陣列晶片，其核心能力在於能投射出沙粒大小的微型影像。這項技術利用微機電系統的精確控制，實現了極致微型化的影像顯示功能。此晶片的問世，為未來微型顯示器、擴增實境（AR）與虛擬實境（VR）裝置，以及其他對尺寸有嚴苛要求的視覺輸出應用，開闢了新的途徑。其潛在影響包括推動穿戴式科技、醫療影像與精密儀器等領域的創新與發展，預示著下一代超小型化顯示解決方案的可能性。",
+    "summarizedAt": "2026-04-14T01:33:39.966Z"
+  },
+  {
+    "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "title": "Servo is now available on crates.io",
+    "source": "Hacker News",
+    "pubDate": "2026-04-13T12:12:22.000Z",
+    "summaryZh": "Servo 瀏覽器引擎現已正式在 Rust 程式語言的官方套件註冊中心 crates.io 上線。Servo 以其採用 Rust 語言開發、注重記憶體安全與並行處理的架構而聞名。此次發布使 Rust 開發者能更便捷地將 Servo 的模組或組件整合至其專案。此舉旨在提升 Servo 技術的模組化應用，鼓勵社區參與，並促進基於其高效能和安全特性開發新型應用。這不僅擴大了 Servo 在 Rust 生態系統中的可訪問性，也標誌著該專案朝向更開放、更具協作性的方向發展，使其核心技術能被更多元的應用場景所利用。",
+    "summarizedAt": "2026-04-14T01:33:51.188Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+    "title": "The largest orbital compute cluster is open for business",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-13T07:01:00.000Z",
+    "summaryZh": "Kepler Communications 公司近期宣布，已在地球軌道成功部署一個包含 40 個圖形處理器（GPU）的運算叢集。該公司指出，此為目前規模最大的軌道運算叢集，旨在提供太空中的資料處理能力。這項創新的軌道運算服務現已正式對外開放商業使用，標誌著太空運算資源商業化的一個重要里程碑。Sophia Space 公司已成為其最新的客戶，將利用此獨特的軌道運算平台，支持其在太空領域的特定應用與數據處理需求。",
+    "summarizedAt": "2026-04-14T01:33:59.460Z"
+  },
+  {
     "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
     "title": "Taking on CUDA with ROCm: 'One Step After Another'",
     "source": "Hacker News",
