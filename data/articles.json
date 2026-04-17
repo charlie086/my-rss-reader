@@ -1,5 +1,333 @@
 [
   {
+    "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+    "source": "Hacker News",
+    "pubDate": "2026-04-17T00:37:47.000Z",
+    "summaryZh": "一項在Hacker News上發布的技術展示，介紹了一套結合傳統電子工程與人工智慧的電路驗證流程。該流程首先透過SPICE軟體進行電路模擬，隨後將模擬結果輸出至示波器進行視覺化或測量，以獲取實際或模擬的波形數據。其核心創新點在於，最終的驗證環節利用了由Claude大型語言模型輔助生成或分析的程式碼，對比模擬與預期結果，從而確認電路設計的正確性。此項目旨在探索如何將AI模型有效整合至電路設計與測試流程中，以期提升驗證工作的效率與準確性，並為工程師在探索AI輔助設計與驗證方面提供了新的思路與實踐案例。",
+    "summarizedAt": "2026-04-17T01:29:56.863Z"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/clyrd818gd2o",
+    "title": "Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T23:29:07.000Z",
+    "summaryZh": "巴基斯坦一間醫院被揭露重複使用針筒，而該醫院正被指為當地一宗兒童愛滋病疫情的核心。此一發現引發了嚴重的公共衛生疑慮，因為重複使用醫療器材，特別是針筒，是傳播血液傳染疾病如愛滋病毒的主要途徑之一。這項指控凸顯了醫療機構在衛生標準和感染控制方面可能存在的嚴重漏洞，直接威脅到病患，尤其是兒童的生命健康。當局預計將對此事件展開深入調查，以釐清責任並採取緊急措施，包括確保所有醫療機構嚴格遵守一次性使用針筒的規定，並加強對醫療廢棄物處理的監管，以遏止疫情進一步擴散。同時，相關部門也需著手對受影響的兒童及其家庭提供必要的醫療支援與心理輔導，並全面審視全國範圍內的醫療衛生規範與執行情況，以防類似事件再次發生，保障民眾的醫療安全。",
+    "summarizedAt": "2026-04-17T01:30:07.013Z"
+  },
+  {
+    "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
+    "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T23:17:47.000Z",
+    "summaryZh": "一篇科技新聞稿指出，英國作家喬治·歐威爾的經典反烏托邦小說《一九八四》中描繪的某些社會現象，與當前人工智慧（AI）技術發展所帶來的「AI劣質內容」（AI Slop）現象存在顯著的預見性或相似之處。所謂「AI劣質內容」，通常指由生成式AI模型大量產出、但品質低下、重複性高、缺乏原創性、甚至可能包含不準確或誤導性資訊的文本、圖像或其他形式的內容。該新聞稿認為，歐威爾在書中對真理部（Ministry of Truth）篡改歷史、簡化語言（Newspeak）以控制思想的描寫，與AI在數位環境中大規模生成和傳播低品質、同質化內容，進而可能侵蝕資訊真實性、影響公眾認知及批判性思維的能力，形成了令人不安的呼應。這種由AI驅動的內容氾濫，不僅對資訊生態系統構成挑戰，也引發了關於內容原創性、作者權威性以及人類與機器創作界限的深刻討論。",
+    "summarizedAt": "2026-04-17T01:30:17.257Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+    "title": "Everything we like is a psyop",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T23:15:33.000Z",
+    "summaryZh": "很抱歉，您只提供了文章標題「Everything we like is a psyop」和「摘要：Comments」，但沒有提供實際的英文新聞稿內容。我無法在沒有原文的情況下，為您總結其核心事實、關鍵主體、影響或後續。請您提供完整的英文新聞稿內容，我將樂意為您撰寫一份客觀冷靜、符合字數要求的中文摘要。",
+    "summarizedAt": "2026-04-17T01:30:19.711Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T22:55:30.000Z",
+    "summaryZh": "成立三年的新創公司Factory，近期估值已達到15億美元，主要業務為企業客戶提供人工智慧編碼解決方案。該公司成功完成了一輪由Khosla Ventures領投的1.5億美元融資。Factory的AI編碼技術旨在提升企業級軟體開發的效率，透過自動化重複性編碼任務，協助大型組織加速創新並優化開發流程。此次高額估值與大規模融資，不僅彰顯了投資者對其技術潛力及市場前景的強烈信心，也反映出市場對能夠簡化複雜技術流程的AI工具日益增長的需求。這筆資金預計將用於加速產品研發、擴大市場份額，並進一步鞏固其在競爭激烈的人工智慧軟體領域的地位。",
+    "summarizedAt": "2026-04-17T01:30:26.815Z"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+    "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T22:08:53.000Z",
+    "summaryZh": "加州總檢察長辦公室近日聲稱，新解封的法庭文件揭示了電商巨頭亞馬遜涉嫌實施價格操縱策略。這些文件據稱顯示，亞馬遜透過其市場規則，阻止第三方賣家在其他零售平台以更低價格銷售商品。若賣家違反此規定，亞馬遜將對其施加懲罰，包括降低商品在亞馬遜平台上的可見度，甚至移除其銷售權限。此舉旨在確保亞馬遜能維持其在線上零售市場的價格主導地位，並迫使賣家在亞馬遜平台上的定價與其他平台保持一致或更高。總檢察長辦公室主張，這種行為實質上消除了市場競爭，導致消費者無法享受到更低的商品價格。這項指控是加州針對亞馬遜反壟斷調查的一部分，旨在評估其商業行為是否違反了競爭法規。隨著更多相關證據的公開，此案預計將對亞馬遜未來的商業模式和其在美國的法律地位產生深遠影響。",
+    "summarizedAt": "2026-04-17T01:30:35.623Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T21:58:08.000Z",
+    "summaryZh": "科技公司 Luma 近日宣布成立一個名為 Wonder Project 的全新人工智慧驅動製作工作室。該工作室將專注於開發和製作信仰相關的內容，旨在利用先進的AI技術革新此類影視作品的創作流程。作為其首部作品，Wonder Project 將推出一部關於聖經人物摩西的影片，並已確認由曾獲奧斯卡金像獎殊榮的演員班·金斯利擔任主演。這部備受期待的影片預計於今年春季透過 Prime Video 平台向全球觀眾發布，標誌著 Luma 在結合AI技術與特定內容領域製作上的新嘗試。",
+    "summarizedAt": "2026-04-17T01:30:47.014Z"
+  },
+  {
+    "link": "https://github.com/gainsec/autoprober",
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T21:56:37.000Z",
+    "summaryZh": "一名個人創作者運用日常材料如膠帶、舊攝影機，並結合數控機床技術，成功打造出一款由人工智慧驅動的硬體操作機械臂。該裝置旨在利用AI技術，實現對實體硬體的自動化探測與操作，尤其適用於硬體逆向工程或安全分析等領域。這項創新不僅突顯了個人開發者在資源有限下的高度創造力與工程實踐能力，更展現了將低成本材料與先進AI技術巧妙結合的可能性，為未來相關領域的自動化工具開發提供了新的啟發與應用潛力。",
+    "summarizedAt": "2026-04-17T01:30:58.880Z"
+  },
+  {
+    "link": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+    "title": "A Better R Programming Experience Thanks to Tree-sitter",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T21:14:02.000Z",
+    "summaryZh": "Tree-sitter 技術正被應用於提升 R 程式語言的開發體驗。此舉旨在透過其高效且精確的語法解析能力，改善 R 語言在整合開發環境（IDE）中的表現。Tree-sitter 能夠生成精確的抽象語法樹（AST），這對於實現更智能的語法高亮、錯誤檢查、程式碼折疊及自動補全等功能至關重要。透過導入這項技術，R 開發者預期將獲得更流暢、更穩定且反應更迅速的編程工作流程。這不僅有助於提升 R 語言工具鏈的整體性能，也將顯著優化使用者在處理複雜 R 專案時的效率與便利性，進一步鞏固 R 在數據科學領域的應用基礎。",
+    "summarizedAt": "2026-04-17T01:31:09.217Z"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47799454",
+    "title": "Join Akkari's Founding Team (YC P26) as an Engineer",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T21:00:33.000Z",
+    "summaryZh": "新創公司 Akkari，作為 Y Combinator P26 期校友，目前正積極招募工程師加入其創始團隊。此舉旨在強化其核心技術開發能力，為公司未來的產品或服務奠定堅實基礎。作為一家獲得知名創業加速器支持的企業，Akkari 的招募行動預示著其正處於關鍵的成長階段，尋求具備創新精神與技術實力的專業人才，共同參與從零到一的建設過程。加入創始團隊的工程師將有機會深度參與公司的戰略規劃、技術架構設計及早期產品開發，對公司的發展方向與文化塑造產生直接且深遠的影響。這對於渴望在新創環境中發揮關鍵作用、並與公司共同成長的工程師而言，提供了一個獨特的發展平台。",
+    "summarizedAt": "2026-04-17T01:31:25.359Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "title": "Upscale AI in talks to raise at $2B valuation, says report",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T20:41:13.000Z",
+    "summaryZh": "據報導，人工智慧基礎設施公司Upscale AI目前正與投資方進行洽談，尋求完成其第三輪融資。該公司自成立至今僅七個月，若此次融資成功，其估值預計將達到20億美元。此舉不僅凸顯了市場對其AI基礎設施解決方案的強勁需求與高度認可，也反映出AI領域新創企業在短時間內實現快速成長的趨勢。這筆潛在的資金注入將有助於Upscale AI進一步擴展業務、加速技術研發，並鞏固其在競爭激烈的人工智慧市場中的地位。",
+    "summarizedAt": "2026-04-17T01:31:57.846Z"
+  },
+  {
+    "link": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
+    "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T20:31:52.000Z",
+    "summaryZh": "一篇針對當代創業生態的評論指出，過去一段時間內廣受追捧的「被動收入」概念，實際上已成為許多新一代企業家面臨的重大陷阱。該文章深入分析了此一模式如何吸引大量懷抱創業夢想的個體，承諾無需持續投入即可獲得收益，卻在實踐中暴露出其固有的誤導性與風險。評論認為，過度追求被動收入導致創業者對商業運作產生不切實際的期待，分散了他們對核心產品開發、市場拓展及客戶關係維護等關鍵領域的專注力。許多企業家在嘗試建立被動收入流的過程中，投入了大量時間、資金與精力，最終卻未能達到預期效果，甚至面臨財務困境或事業停滯，導致資源錯配與創業熱情的消磨。此現象對整個創業世代產生了深遠影響，促使業界反思如何更務實地引導新進企業家，強調任何成功的商業模式仍需持續的策略規劃、積極管理與創新，而非僅依賴初期設定後的自動運轉。",
+    "summarizedAt": "2026-04-17T01:32:10.675Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T20:26:44.000Z",
+    "summaryZh": "機器人新創公司Physical Intelligence近期宣布，其開發出一款名為π0.7的新型機器人腦。該公司聲稱，此款機器人腦具備自行理解並執行未經明確訓練任務的能力，標誌著在機器人技術領域的一項進展。Physical Intelligence將π0.7的推出，視為朝向實現通用型機器人腦這一業界長期追求的目標，邁出了早期但具實質意義的一步。這項發展旨在突破傳統機器人僅能執行預設指令的限制，使其能更自主地適應新環境與新任務，進而提升機器人在多樣化實際應用場景中的靈活性與效率，推動智慧自動化技術的發展。",
+    "summarizedAt": "2026-04-17T01:32:17.684Z"
+  },
+  {
+    "link": "https://clojure.org/about/documentary",
+    "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T19:32:18.000Z",
+    "summaryZh": "Clojure 程式語言的官方紀錄片頁面已正式發布。該頁面匯集了紀錄片影片本身，並輔以詳細的節目筆記（shownotes）及相關連結。這部官方紀錄片由 Clojure 核心團隊或其相關機構策劃製作，旨在全面回顧 Clojure 自誕生以來的發展軌跡，深入探討其獨特的設計哲學、技術演進及其在軟體開發領域所產生的深遠影響。此舉為 Clojure 社群提供了一個官方且全面的資源，用以了解該語言的歷史與未來方向。其發布不僅有助於新用戶入門，也為現有開發者提供了寶貴的參考資料，進一步鞏固了 Clojure 在函數式程式設計領域的地位。",
+    "summarizedAt": "2026-04-17T01:32:28.767Z"
+  },
+  {
+    "link": "https://openai.com/index/introducing-gpt-rosalind/",
+    "title": "GPT‑Rosalind for life sciences research",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T19:24:50.000Z",
+    "summaryZh": "一款名為GPT-Rosalind的新型人工智慧模型已發布，該模型專為生命科學研究領域設計，旨在利用大型語言模型（LLM）的強大能力，協助科學家處理複雜的生物數據與文獻。GPT-Rosalind的命名顯然致敬了DNA結構發現者之一羅莎琳德·富蘭克林，暗示其在生物學領域的專業定位。預期該模型能夠在諸如基因組分析、蛋白質結構預測、藥物發現、疾病機制研究以及海量科研文獻的歸納與洞察生成等方面提供支持。此類專用AI工具的推出，通常由頂尖研究機構或科技公司與生物醫學領域專家合作開發，旨在加速科研進程，提升研究效率。其潛在影響包括縮短實驗週期、降低研究成本，並可能催生新的科學發現。未來，GPT-Rosalind有望成為生命科學研究者不可或缺的輔助工具，推動該領域的創新與發展。",
+    "summarizedAt": "2026-04-17T01:32:37.347Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T19:18:41.000Z",
+    "summaryZh": "OpenAI近期宣布對其代理編碼工具Codex進行了重大升級。此次強化賦予Codex多項嶄新功能與能力，使其能夠更深入地整合並掌握用戶的桌面操作權限。這項進展不僅提升了Codex在自動化編程和代碼生成方面的效率，也擴展了其在實際應用環境中的潛力。業界普遍認為，OpenAI此舉旨在鞏固其在人工智慧編碼領域的領先地位，並直接回應來自Anthropic等主要競爭對手的挑戰，預計將對未來的開發者工具生態系統產生影響。",
+    "summarizedAt": "2026-04-17T01:32:49.576Z"
+  },
+  {
+    "link": "https://news.play.date/news/duke-playdate-education/",
+    "title": "Playdate’s handheld changed how Duke University teaches game design",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T19:18:31.000Z",
+    "summaryZh": "Panic公司推出的Playdate掌上遊戲機，正在杜克大學的遊戲設計課程中扮演關鍵角色，改變了該校教授遊戲設計的方式。這款設備以其獨特的搖桿控制器、簡潔的黑白螢幕以及對獨立開發者友好的生態系統而聞名。杜克大學的講師和教授們將Playdate整合到課程中，鼓勵學生在有限的硬體條件下進行創意發想與遊戲開發。學生們被要求利用Playdate的特殊輸入方式和視覺限制，設計並實現原創遊戲概念。這種教學方法旨在培養學生在資源受限環境下的創新思維、解決問題的能力，並促使他們更深入地專注於遊戲的核心機制與玩法設計，而非過度依賴複雜的圖形或特效。透過Playdate平台，學生能夠快速迭代原型，並從實際的硬體限制中學習，這與傳統上使用通用開發工具的教學模式形成對比。",
+    "summarizedAt": "2026-04-17T01:32:58.276Z"
+  },
+  {
+    "link": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+    "title": "Android CLI: Build Android apps 3x faster using any agent",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T18:39:59.000Z",
+    "summaryZh": "一個名為「Android CLI」的新命令列介面工具近期被推出，旨在顯著加速Android應用程式的開發流程。該工具的核心主張是能將應用構建速度提升三倍，並強調其能與「任何代理」協同工作，這可能意味著它能與多種自動化腳本、開發工具或AI輔助代理無縫整合。此工具的目標是簡化開發者的工作流程，提高效率，減少應用程式從概念到部署所需的時間。這項進展預計將對Android開發社群產生積極影響，尤其是在追求快速迭代和高效開發的環境中。",
+    "summarizedAt": "2026-04-17T01:33:06.427Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+    "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T18:28:42.000Z",
+    "summaryZh": "Anthropic 的首席產品長 (CPO) 已辭去 Figma 董事會職務。此舉發生在有報導指出他將推出一款與 Figma 競爭的產品之後，該產品預計為設計工具。他的離職以及任何即將推出的設計工具，被市場視為投資者擔憂「SaaS 災難」的又一例證。所謂的「SaaS 災難」是指大型人工智慧實驗室將主導傳統軟體業務的論點。這一論點今年以來已多次對公開市場造成影響。",
+    "summarizedAt": "2026-04-17T01:33:13.918Z"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T17:37:20.000Z",
+    "summaryZh": "有評論指出，通義千問（Qwen）系列中的Qwen3.6-35B-A3B模型，在個人筆記型電腦上運行時，於圖像生成任務中，其繪製的鵜鶘圖像品質優於Claude Opus 4.7。這項觀察表明，該模型在本地硬體環境下，展現出較強的圖像生成能力。此比較突顯了不同大型語言模型在特定圖像生成任務上的表現差異，尤其是在無需依賴雲端運算資源的本地部署情境下，其性能表現值得關注。",
+    "summarizedAt": "2026-04-17T01:33:22.813Z"
+  },
+  {
+    "link": "https://openai.com/index/codex-for-almost-everything/",
+    "title": "Codex for almost everything",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T17:12:19.000Z",
+    "summaryZh": "針對題為「Codex for almost everything」的科技新聞稿，由於其內文資訊缺失，僅提供「Comments」作為摘要提示，本編輯無法客觀地歸納其核心事實、關鍵主體、具體主張或潛在影響。一份專業且符合要求的摘要，必須依據完整的新聞稿內容，以確保所呈現資訊的準確性與完整性，避免任何主觀臆測或不實陳述。為此，請提供完整的新聞稿內容，以便進行精確的總結。",
+    "summarizedAt": "2026-04-17T01:33:34.389Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+    "title": "Google now lets you explore the web side-by-side with AI Mode",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T17:00:00.000Z",
+    "summaryZh": "Google Chrome 桌面版的人工智慧模式（AI Mode）近期獲得功能更新。現在，當使用者在 Chrome 瀏覽器中啟用人工智慧模式時，點擊任何網頁連結，該網頁內容將會以並排顯示的方式呈現，與人工智慧模式介面同時存在於螢幕上。這項改進旨在優化使用者的瀏覽體驗，允許他們在不離開 AI 輔助環境的情況下，直接查閱相關網頁資訊。透過這種並行顯示方式，使用者可以更便捷地對比 AI 模式提供的摘要或建議與原始網頁內容，從而提升資訊檢索與理解的效率。此更新體現了 Google 將生成式 AI 功能更深度整合至核心產品的策略。",
+    "summarizedAt": "2026-04-17T01:33:41.426Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+    "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T16:15:00.000Z",
+    "summaryZh": "InsightFinder 公司近期宣布完成 1500 萬美元的融資，旨在協助企業解決人工智慧代理（AI agents）在運作中可能出現的問題。該公司執行長 Helen Gu 指出，當前科技產業所面臨的核心挑戰，已不僅限於監控與診斷單一 AI 模型所產生的錯誤。更深層的問題在於，隨著 AI 技術日益整合至企業的整體技術堆疊中，如何有效地診斷並確保整個系統架構的穩定與正確運作，成為關鍵。這項融資將支持 InsightFinder 進一步開發其解決方案，以應對 AI 時代下複雜的系統監控與故障排除需求，確保企業能夠更可靠地部署和管理其 AI 驅動的應用。",
+    "summarizedAt": "2026-04-17T01:33:47.484Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+    "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T16:14:03.000Z",
+    "summaryZh": "1. **AI流量激增：** Adobe報告指出，2024年第一季度，美國零售網站的AI流量（即由AI驅動的訪客流量）顯著增長了393%。 2. **月度增幅驚人：** 僅在三月份，AI流量就錄得了269%的顯著增幅，顯示其增長勢頭強勁。 3. **提升轉換率與收入：** 這些由AI引導的訪客，其轉換率和為零售商帶來的收入均優於非AI引導的購物者。 4. **對零售業的影響：** 這項數據表明，AI流量正成為推動美國零售商營收增長的重要因素，預示著AI在電子商務領域的影響力持續擴大。",
+    "summarizedAt": "2026-04-17T01:34:19.248Z"
+  },
+  {
+    "link": "https://github.com/GRVYDEV/marky",
+    "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T16:08:05.000Z",
+    "summaryZh": "Hacker News近期展示了一款名為Marky的全新工具，其定位為一款專為代理式編碼（agentic coding）環境設計的輕量級Markdown瀏覽器。這款工具的核心目標是為從事自動化或AI輔助編碼的開發者，提供一個高效且資源佔用極低的解決方案，以便快速瀏覽和理解Markdown格式的文檔內容。在當前日益複雜的代理式編碼工作流程中，開發者或AI代理本身經常需要生成或查閱大量的文檔、報告、代碼註釋或任務描述，這些內容通常以Markdown格式呈現。Marky的設計旨在簡化這一信息獲取過程，確保開發者能夠以最小的延遲和系統負擔，迅速獲取所需上下文信息，從而提升整體開發效率和決策速度。其輕量化特性使其能夠無縫整合進各種開發工具鏈和集成開發環境中，避免對現有工作流造成額外負載。",
+    "summarizedAt": "2026-04-17T01:34:33.442Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+    "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T16:00:00.000Z",
+    "summaryZh": "Roblox 近期宣布，其人工智慧助理將整合全新的「代理式」工具。這些工具的核心目標是全面支援創作者，涵蓋遊戲開發的完整生命週期。具體而言，新功能將協助用戶從最初的遊戲概念規劃、實際的建構與程式碼撰寫，乃至最終的測試與優化階段。此舉旨在顯著提升平台上的開發效率，簡化複雜的創作流程，並降低遊戲製作的技術門檻。Roblox 期望透過導入這些進階的AI輔助功能，進一步賦能其龐大的創作者社群，加速創新內容的產出，並豐富用戶體驗。",
+    "summarizedAt": "2026-04-17T01:34:39.054Z"
+  },
+  {
+    "link": "https://www.zatanna.ai/kampala",
+    "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T15:19:54.000Z",
+    "summaryZh": "Kampala 是一家隸屬於 Y Combinator W26 批次的新創公司，其核心業務是將現有應用程式反向工程為可程式化的應用程式介面（API）。此服務旨在解決許多應用程式缺乏官方公開 API 的問題，使開發者能夠透過標準化的介面，存取並利用這些應用程式的數據與功能。透過反向工程技術，Kampala 試圖為第三方開發者提供一種途徑，以整合、自動化或基於現有應用程式構建新的服務，即使原應用程式並未提供官方的開發者工具包。這項創新對於需要跨平台整合、數據提取或希望在既有生態系統上疊加新功能的企業與開發者而言，具有潛在價值。然而，此類技術的應用也伴隨著對應用程式服務條款、數據存取權限以及反向工程介面穩定性的考量。",
+    "summarizedAt": "2026-04-17T01:34:49.336Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+    "title": "Google is now targeting bad ads over bad actors",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T15:00:00.000Z",
+    "summaryZh": "Google 於 2025 年共封鎖了 83 億則不良廣告。這項數據反映出該公司在廣告審核策略上的一項顯著轉變，即從過去主要針對「不良行為者」（廣告主）的處理方式，轉為更側重於直接打擊「不良廣告」本身。儘管被封鎖的廣告數量龐大，Google 卻暫停了相對較少的廣告主帳戶。此策略調整可能意味著 Google 的審核機制變得更加精細化，旨在精準移除違規內容，而非一概而論地停用整個廣告帳戶，從而為廣告主提供修正問題並繼續營運的機會。這項措施旨在更有效地維護廣告生態系統的健康與透明度。",
+    "summarizedAt": "2026-04-17T01:34:56.023Z"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-opus-4-7",
+    "title": "Claude Opus 4.7",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T14:23:50.000Z",
+    "summaryZh": "Anthropic 公司近日發布了其旗艦人工智慧模型 Claude Opus 的最新版本 4.7。此次更新主要聚焦於提升模型的複雜推理能力、程式碼生成效率、多語言理解及視覺資訊處理性能。內部測試結果顯示，Claude Opus 4.7 在處理長篇幅文本、執行多步驟指令及提供精確分析方面均展現出顯著改進。Anthropic 強調，新版本旨在為企業用戶及開發者提供更強大可靠的AI工具，以支持更廣泛的應用場景，包括進階內容創作、複雜數據分析、智能客服自動化及專業程式開發輔助等。此次升級預計將進一步強化 Anthropic 在生成式AI市場中的競爭地位，並為其用戶帶來更高效、創新的AI解決方案。公司同時重申其對AI安全與負責任開發的承諾。",
+    "summarizedAt": "2026-04-17T01:35:07.420Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
+    "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T14:14:29.000Z",
+    "summaryZh": "人工智慧公司Runway的執行長近日指出，AI技術有望徹底改變好萊塢的電影製作模式。他預期，未來製片廠將能運用AI，以過去製作一部耗資一億美元大片的預算，製作出多達數十部甚至五十部電影。這項技術的導入，將大幅降低電影製作的門檻與成本，使更多創意內容得以實現。Runway執行長認為，透過增加電影的產量，製片公司將能顯著提高推出賣座作品的成功機率，因為在數量基礎上，更容易產生受市場歡迎的熱門影片。此一觀點預示著電影產業可能從追求單一高成本巨作，轉向多元化、高效率的內容生產策略。",
+    "summarizedAt": "2026-04-17T01:35:16.056Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+    "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T13:49:32.000Z",
+    "summaryZh": "Meta 公司宣布，由於記憶體供應短缺，將對其旗下的 Quest 3 及 Quest 3S 系列虛擬實境頭戴裝置進行價格調整。自 4 月 19 日起，Meta Quest 3S 的 128GB 版本建議售價將上調 50 美元至 349.99 美元，而 256GB 版本也將同步上調 50 美元，新價格為 449.99 美元。至於更高階的 Meta Quest 3，其價格將調漲 100 美元，達到 599.99 美元。此次價格上漲反映了當前全球電子元件供應鏈所面臨的挑戰，特別是關鍵記憶體組件的成本壓力。",
+    "summarizedAt": "2026-04-17T01:35:25.419Z"
+  },
+  {
+    "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T13:36:27.000Z",
+    "summaryZh": "阿里巴巴集團旗下通義千問團隊近日發布了新的大型語言模型Qwen3.6-35B-A3B。該模型的核心亮點在於其卓越的代理式編碼能力，這意味著它不僅能生成代碼，還具備規劃、執行、調試及迭代代碼的自主性，能像智能代理一樣處理複雜的編程任務。Qwen3.6-35B-A3B擁有350億參數，是通義千問系列模型的新成員。此次發布強調其現已全面開放給廣大開發者和研究人員使用，旨在降低AI輔助編程的門檻，加速軟件開發流程。此舉預計將進一步推動人工智能在軟件工程領域的應用與創新，為開發者提供更高效、智能的編碼解決方案。",
+    "summarizedAt": "2026-04-17T01:35:33.629Z"
+  },
+  {
+    "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+    "title": "The future of everything is lies, I guess: Where do we go from here?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T13:32:13.000Z",
+    "summaryZh": "您提供的輸入僅包含英文標題「The future of everything is lies, I guess: Where do we go from here?」以及內容提示「Comments」，並未附帶實際的新聞稿正文。因此，本編輯無法依據指令，客觀冷靜地總結其核心事實、關鍵主體（公司／機構／產品）與影響或後續。一份符合要求的科技新聞摘要，需從具體的文本內容中提煉出明確的資訊，例如技術發布、研究成果、市場動態或企業策略等。僅憑一個帶有主觀判斷和疑問語氣的標題，無法推斷出任何可供客觀陳述的具體事件或數據。若要產出約180至250字的完整摘要，並確保其語意連貫且自然收尾，本編輯需要獲取新聞稿的完整內容，方能精準捕捉其主要論點、相關實體及其潛在意義，並以中立的語氣呈現。目前資訊不足，無法完成指定任務。",
+    "summarizedAt": "2026-04-17T01:35:43.536Z"
+  },
+  {
+    "link": "https://blog.cloudflare.com/ai-platform/",
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T13:17:37.000Z",
+    "summaryZh": "Cloudflare近期推出了其AI平台，該平台的核心是一個專為AI代理程式設計的推理層。此舉旨在利用Cloudflare遍布全球的邊緣網路基礎設施，為開發者提供高效能、低延遲的AI模型運行環境。透過此推理層，開發者能夠將預訓練的AI模型部署至Cloudflare的全球網路邊緣節點，實現數據處理與模型推理的近距離執行。這種分散式架構有助於顯著降低延遲，提升AI應用程式的響應速度，特別是對於需要即時決策或處理大量邊緣數據的AI代理程式而言。Cloudflare此舉旨在降低AI推理的運算成本與複雜性，使更多開發者能夠在其平台上構建和部署具備智慧功能的應用。透過將AI能力推向網路邊緣，Cloudflare期望能加速AI技術的普及與創新，為下一代AI代理程式的發展提供堅實的基礎。",
+    "summarizedAt": "2026-04-17T01:35:53.085Z"
+  },
+  {
+    "link": "https://github.com/SeanFDZ/macmind",
+    "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T13:16:29.000Z",
+    "summaryZh": "一個名為 MacMind 的專案近日在 Hacker News 上展示，其核心是在 1989 年 Macintosh 電腦上，透過 HyperCard 環境實現的 Transformer 神經網路。其獨特之處在於，開發者巧妙利用 1980 年代末期 Macintosh 上的圖形化開發工具 HyperCard，將現代人工智慧中運算密集的 Transformer 模型，成功移植到一款處理能力與記憶體均極其有限的復古硬體平台。這項成就展現了開發者深厚的技術功底與創新思維，挑戰了人們對舊有硬體潛力的認知，證明了即使在數十年前的電腦上，透過精巧設計與優化，仍能探索並實現先進的 AI 概念。這為復古計算愛好者、AI 研究者及對軟硬體極限挑戰感興趣的社群提供了重要啟示，展現了 AI 技術在不同時代背景下的可實現性與發展潛力。",
+    "summarizedAt": "2026-04-17T01:36:27.136Z"
+  },
+  {
+    "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+    "title": "Artifacts: Versioned storage that speaks Git",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T13:02:03.000Z",
+    "summaryZh": "「Artifacts」是一款專為數位資產設計的版本控制儲存解決方案。其核心功能為提供版本控制儲存服務，並以「理解並運用 Git 協定」為其獨特之處。這讓用戶能以熟悉的 Git 指令與工作流程，管理機器學習模型、資料集、配置檔案等非程式碼數位資產。此舉旨在將 Git 強大的版本控制與協作能力，擴展至非程式碼領域。透過與 Git 生態系統無縫整合的介面，Artifacts 期望簡化開發者與資料科學家等專業人士的工作流程，提升團隊處理複雜專案的效率與資料一致性，確保所有變更皆可被清晰追溯與管理。",
+    "summarizedAt": "2026-04-17T01:36:38.944Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+    "title": "Canva’s AI assistant can now call various tools to make designs for you",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T13:00:00.000Z",
+    "summaryZh": "Canva 近期發布了其人工智慧助理的最新版本，此更新賦予了該助理透過文字提示為用戶生成可編輯設計圖稿的能力。新功能允許用戶運用自然語言指令，指示 AI 助理自動調用平台內的多種設計工具與資源，從而實現設計流程的自動化。這項進展旨在大幅簡化設計創作過程，即使是不具備專業設計背景的用戶，也能夠輕鬆地根據文字描述產出符合需求的視覺內容，並且這些設計成果仍可供進一步修改與調整。Canva 期望透過此次 AI 助理的升級，進一步提升其平台的易用性與設計效率，拓展其在個人創意表達及商業應用領域的潛力。",
+    "summarizedAt": "2026-04-17T01:36:45.761Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+    "title": "This simulation startup wants to be the Cursor for physical AI",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T12:30:00.000Z",
+    "summaryZh": "新創公司Antioch近期宣布完成850萬美元的種子輪募資，旨在開發一套專為新一代機器人製造商設計的模擬工具。該公司的願景是為實體AI領域提供如同程式碼編輯器Cursor之於軟體開發般的基礎工具，以加速機器人技術的創新與普及。這筆資金將用於推動其模擬平台的研發，期望能幫助工程師更有效率地設計、測試與部署複雜的機器人系統，進而降低開發門檻，並擴展實體AI的應用範圍。此舉預計將對未來機器人技術的發展產生重要影響。",
+    "summarizedAt": "2026-04-17T01:36:53.006Z"
+  },
+  {
+    "link": "https://antirez.com/news/163",
+    "title": "AI cybersecurity is not proof of work",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T10:48:00.000Z",
+    "summaryZh": "近期有業界專家或研究機構指出，人工智慧（AI）在網路安全領域的應用，其本質與區塊鏈技術中常見的「工作量證明」（Proof of Work, PoW）機制存在根本性差異。此觀點強調，AI資安系統主要依賴機器學習、深度學習及行為分析等技術，旨在透過模式識別、異常偵測與預測性分析來識別並抵禦威脅。這與工作量證明透過消耗計算資源來驗證交易、防止雙重支付或阻擋惡意行為的邏輯截然不同。提出此論點的目的，在於釐清業界對AI資安技術的認知，避免將其與其他分散式帳本技術的驗證機制混為一談。專家們認為，精確理解AI在網路安全中的獨特價值與運作原理，對於有效開發、部署相關解決方案至關重要，並能引導未來研究方向，專注於AI在威脅情報、自動化防禦及響應等方面的潛力，而非僅限於資源消耗型的驗證模式。",
+    "summarizedAt": "2026-04-17T01:37:02.533Z"
+  },
+  {
+    "link": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+    "title": "Codex Hacked a Samsung TV",
+    "source": "Hacker News",
+    "pubDate": "2026-04-16T10:44:45.000Z",
+    "summaryZh": "根據提供的標題「Codex Hacked a Samsung TV」，核心事實指出名為Codex的實體成功入侵了一台三星電視。然而，由於缺乏新聞稿的具體內容，目前無法詳細說明此次安全漏洞的技術細節，例如Codex所採用的具體攻擊手法、受影響的三星電視型號、漏洞的嚴重程度，以及事件發生的確切時間點。此外，關於此次入侵可能造成的影響，如用戶數據是否洩露、設備功能是否受損，以及三星公司對此事件的官方回應、其是否已發布修補程式或採取了哪些後續安全強化措施，均未在現有資訊中提及。因此，儘管已知有安全事件發生，但其全面影響與後續發展仍待進一步資訊揭露。",
+    "summarizedAt": "2026-04-17T01:37:12.752Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+    "title": "DeepL, known for text translation, now wants to translate your voice",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-16T08:00:00.000Z",
+    "summaryZh": "DeepL，一家以其文字翻譯技術聞名的公司，現正將其業務範圍擴展至語音翻譯領域。該公司表示，其開發的技術具備應用於即時語音翻譯的潛力，特別是能與Zoom和Microsoft Teams等主流視訊會議工具整合，以實現會議中的即時翻譯功能，旨在提升跨語言溝通的效率。",
+    "summarizedAt": "2026-04-17T01:37:42.784Z"
+  },
+  {
     "link": "https://zenodo.org/records/19600206",
     "title": "The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks",
     "source": "Hacker News",
