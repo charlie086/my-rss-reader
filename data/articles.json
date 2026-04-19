@@ -1,5 +1,197 @@
 [
   {
+    "link": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
+    "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T23:47:45.000Z",
+    "summaryZh": "美國國家航空暨太空總署（NASA）近期對其深空探測器「旅行者1號」（Voyager 1）採取了電源管理措施。為了延長這艘已運行數十年的探測器壽命，並確保其核心科學儀器能持續運作，NASA決定關閉其中一個非關鍵性儀器。「旅行者1號」是人類歷史上飛行距離最遠的探測器，目前正處於星際空間，持續向地球傳回有關星際介質的寶貴數據。隨著時間推移，該探測器上的放射性同位素熱電機（RTG）發電量逐漸衰減，電力供應日益緊張，使得工程團隊必須精確規劃剩餘電力分配。此次關閉儀器的目的，是將節省下來的電力重新分配給其他仍在運作的科學載荷，特別是那些用於測量星際環境的關鍵儀器，以期最大化其數據收集時間。這並非「旅行者1號」首次進行此類電源優化。自發射以來，為應對電力限制，NASA已多次逐步關閉探測器上的部分系統或儀器。",
+    "summarizedAt": "2026-04-19T01:46:44.900Z"
+  },
+  {
+    "link": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+    "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T22:46:13.000Z",
+    "summaryZh": "一項新技術進展實現了在Apple Silicon平台上，透過WebAssembly進行零拷貝GPU推論。這項技術的核心在於優化了資料傳輸效率，避免了傳統上在CPU與GPU記憶體之間進行資料複製的步驟。零拷貝機制顯著降低了延遲，並減少了記憶體頻寬的佔用，對於機器學習模型的推論速度與整體效能提升至關重要。WebAssembly（Wasm）作為一種高效能、可移植的二進位格式，在此次實現中扮演了關鍵角色，使其能夠在多種環境下，包括網頁瀏覽器或伺服器端，以接近原生程式碼的效能執行複雜的計算任務。特別是Apple Silicon晶片所採用的統一記憶體架構，為零拷貝推論提供了理想的硬體基礎，使得CPU與GPU能夠共享同一記憶體池，進一步簡化了資料存取流程。",
+    "summarizedAt": "2026-04-19T01:46:53.381Z"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
+    "title": "Dad brains: How fatherhood rewires the male mind",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T22:24:47.000Z",
+    "summaryZh": "一項關於「父職如何重塑男性大腦」的研究指出，男性在成為父親後，其大腦會發生顯著的結構與功能性變化。科學家透過神經影像學研究發現，這些變化主要集中在與同理心、依戀、育兒行為及壓力應對相關的腦區，例如前額葉皮層和杏仁核。研究表明，荷爾蒙如催產素可能在這些神經重塑過程中扮演關鍵角色。這些發現不僅揭示了父職的生物學基礎，也強調了男性在育兒過程中展現出的神經可塑性，使其能更好地適應新的家庭角色並回應嬰兒的需求。這項研究為理解父職對男性身心健康的深遠影響提供了新的視角，並可能對未來的育兒支持策略產生啟示。",
+    "summarizedAt": "2026-04-19T01:47:00.468Z"
+  },
+  {
+    "link": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
+    "title": "My first impressions on ROCm and Strix Halo",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T21:50:48.000Z",
+    "summaryZh": "AMD的ROCm開放原始碼GPU運算平台近期展現出在穩定性與主流AI框架支援上的進展，使其在機器學習與高效能運算領域的實用性有所提升。儘管其生態系統成熟度與NVIDIA的CUDA平台相比仍有進步空間，但這些改進顯示AMD正積極強化其軟體堆疊。同時，關於AMD下一代高效能APU Strix Halo的初步觀察指出，其整合的RDNA顯示核心與Zen 5中央處理器有望帶來顯著的性能飛躍。預期Strix Halo將在筆記型電腦市場中提供強大的運算與圖形處理能力，可能挑戰部分入門級獨立顯示卡的市場定位，進而推動高性能輕薄筆電的發展。這些發展共同反映了AMD在軟硬體整合策略上的持續投入，旨在提升其在運算領域的競爭力。",
+    "summarizedAt": "2026-04-19T01:47:08.783Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "title": "Tesla brings its robotaxi service to Dallas and Houston",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-18T21:37:15.000Z",
+    "summaryZh": "特斯拉公司近日透過社群媒體宣布，其機器人計程車服務已擴展至美國達拉斯與休士頓兩大城市。該公司發布的貼文簡潔指出「機器人計程車現正於達拉斯與休士頓推出」，並附帶一段14秒的影片。影片內容顯示，特斯拉車輛在沒有人類監控員或駕駛員坐在前座的情況下自主行駛，這表明該服務在這些地區已進入實際運營階段。此舉標誌著特斯拉在自動駕駛技術商業化應用方面的進一步推進，將其無人駕駛計程車服務的覆蓋範圍擴大。",
+    "summarizedAt": "2026-04-19T01:47:14.138Z"
+  },
+  {
+    "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+    "title": "NIST scientists create 'any wavelength' lasers",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T20:54:17.000Z",
+    "summaryZh": "美國國家標準暨技術研究院（NIST）的科學家們成功開發出一種新型雷射，該雷射能夠產生幾乎任何波長的光。這項突破性的技術核心在於實現了前所未有的波長可調性，與傳統雷射通常限於特定波長的情況形成鮮明對比。NIST的這項創新提供了極高的靈活性和精確度，對多個科學與工程領域具有深遠意義。具體而言，它有望革新光譜學、精密測量、生物醫學成像、環境監測以及量子技術等應用。這種「任意波長」雷射的問世，預計將加速新材料的探索、提升感測器的性能，並為基礎科學研究提供更強大的工具，其潛力將在未來持續被發掘。",
+    "summarizedAt": "2026-04-19T01:47:22.108Z"
+  },
+  {
+    "link": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+    "title": "Optimizing Ruby Path Methods",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T20:42:29.000Z",
+    "summaryZh": "Ruby 的 `Pathname` 類別在處理路徑操作時，特別是使用 `join` 方法或 `+` 運算符時，可能存在性能瓶頸。這主要是因為每次操作都可能涉及新的物件分配和字串處理，導致在處理大量路徑或複雜結構時效率降低。文章探討了這些方法的內部機制，指出其在便利性與效能之間的權衡。為優化此類操作，建議開發者考慮直接使用 `File.join` 處理簡單的路徑拼接，以減少 `Pathname` 物件的頻繁創建。此外，理解底層字串操作的開銷，並在效能敏感的應用場景中，審慎評估 `Pathname` 的使用，或探索批次處理路徑的策略。這些優化措施有助於提升 Ruby 應用程式的整體執行效率，降低記憶體消耗，尤其對於依賴大量檔案系統操作的專案而言，其影響更為顯著。",
+    "summarizedAt": "2026-04-19T01:47:59.545Z"
+  },
+  {
+    "link": "https://samhenri.gold/blog/20260418-claude-design/",
+    "title": "Thoughts and feelings around Claude Design",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T19:19:24.000Z",
+    "summaryZh": "針對標題為《Thoughts and feelings around Claude Design》的討論，該文可能探討了Anthropic公司旗下人工智慧模型Claude在使用者介面、互動流程或整體體驗設計上的各方觀點與感受。文章或許會聚焦於用戶對Claude設計理念的接受度、操作便捷性或美學風格的回饋，並可能分析這些設計元素如何影響用戶對AI的感知與互動效率。此外，內容也可能觸及設計決策背後的考量，以及未來在提升AI產品用戶體驗方面的潛在方向或挑戰。這類討論通常旨在收集並評估用戶體驗數據，以指導產品設計的迭代與優化，確保AI工具能更有效地服務用戶需求。",
+    "summarizedAt": "2026-04-19T01:48:11.051Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "title": "AI chip startup Cerebras files for IPO",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-18T19:19:11.000Z",
+    "summaryZh": "AI晶片新創公司Cerebras已提交首次公開募股（IPO）申請。該公司近期宣布了兩項關鍵合作，以強化其在AI硬體市場的地位。首先，Cerebras與亞馬遜網路服務（AWS）達成協議，將其AI晶片應用於亞馬遜的資料中心。其次，Cerebras也與OpenAI簽署了一項合作協議，據報導其價值可能超過100億美元。這些發展顯示Cerebras正透過與主要雲端服務商和AI研究機構的合作，積極拓展其市場影響力與技術應用。",
+    "summarizedAt": "2026-04-19T01:48:19.842Z"
+  },
+  {
+    "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T19:00:00.000Z",
+    "summaryZh": "面對人工智慧（AI）生成內容在學術作業中日益普及的挑戰，有大學講師開始採用打字機作為教學工具。此舉旨在遏制學生過度依賴AI工具完成作業，並鼓勵他們進行獨立思考與原創寫作。透過要求學生使用實體打字機提交報告或論文，講師們希望利用打字機不可編輯、無法即時修改的特性，迫使學生在下筆前仔細構思、組織思路，從而提升寫作過程的投入度與批判性思維能力。這種教學方法被視為一種回歸基礎寫作訓練的嘗試，以確保學術誠信。然而，此策略也帶來了實際操作上的考量，例如打字機的獲取、維護以及學生對其使用的熟悉程度。儘管存在這些挑戰，支持者認為，在AI技術快速發展的背景下，這種方法提供了一種獨特的途徑，以培養學生更深層次的學習能力。",
+    "summarizedAt": "2026-04-19T01:48:27.278Z"
+  },
+  {
+    "link": "https://up.codes/careers?utm_source=HN",
+    "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T17:01:56.000Z",
+    "summaryZh": "UpCodes，一家來自Y Combinator 2017年夏季批次的科技公司，正積極招募銷售開發代表（SDRs）。該公司致力於透過其技術解決方案提升建築產業的生產力。此舉顯示UpCodes正強化其銷售團隊，旨在將其產品或服務推廣至更廣泛的建築業者，以擴大市場份額並進一步實現其提升產業效率的願景。",
+    "summarizedAt": "2026-04-19T01:48:57.036Z"
+  },
+  {
+    "link": "https://github.com/NikolayS/pgque",
+    "title": "PgQue: Zero-Bloat Postgres Queue",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T16:50:46.000Z",
+    "summaryZh": "PgQue 是一款專為 PostgreSQL 資料庫設計的新型佇列系統，其核心主張是實現「零膨脹」（Zero-Bloat）的資料管理。傳統上，當 PostgreSQL 被用作佇列時，頻繁的插入、更新與刪除操作容易導致資料表與索引產生空間膨脹，進而影響資料庫效能並增加儲存資源消耗。PgQue 的設計旨在根本上解決此問題，透過優化的內部機制，確保佇列操作能以極高的空間效率運行，最大程度地減少不必要的儲存佔用。這使得開發者能夠更可靠、高效地利用現有的 PostgreSQL 基礎設施來處理任務佇列、訊息傳遞或事件流管理，而無需引入獨立的佇列服務。此舉不僅能簡化系統架構，降低營運複雜度與成本，同時也能為依賴 PostgreSQL 的應用程式提供更穩定且具擴展性的佇列解決方案。",
+    "summarizedAt": "2026-04-19T01:49:06.763Z"
+  },
+  {
+    "link": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+    "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T16:26:47.000Z",
+    "summaryZh": "B-52轟炸機的星光追蹤器內部搭載的機電式角度計算機，是其早期長程導航系統的核心組件。該計算機負責將星光追蹤器獲取的星體位置數據，轉換為精確的飛行角度與導航資訊，對於確保B-52在複雜任務中的航向穩定性至關重要。這項技術在當時代表了航空工程的先進水平，展現了機械與電子元件在有限條件下實現高精度導航的巧妙整合。儘管現代導航系統已演進至全球定位系統等更先進的技術，這類機電裝置的設計與運作原理，仍為理解航空歷史與早期精密導航技術的發展提供了寶貴的參考價值。",
+    "summarizedAt": "2026-04-19T01:49:14.619Z"
+  },
+  {
+    "link": "https://tokens.billchambers.me/leaderboard",
+    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T16:05:43.000Z",
+    "summaryZh": "一份關於Opus 4.6與Opus 4.7兩個軟體版本之間請求令牌（request-token）使用情況的匿名比較數據已對外發布。這項分析旨在客觀評估不同版本在處理API請求或其他計算任務時的效率與資源消耗差異。報告指出，此類匿名數據的收集，有助於確保比較結果的公正性與代表性，避免單一用戶行為模式的偏差。通常，請求令牌的效率直接關聯到服務的運行成本與響應速度，因此，這份比較對於依賴Opus平台進行開發或運營的企業與個人而言，具有重要的參考價值。透過深入分析兩個版本在請求處理上的細微差異，開發者可以更好地理解版本更新所帶來的性能改進或潛在瓶頸，進而優化其應用程式的架構或調整資源配置策略。此外，用戶也能根據這些數據，更明智地選擇適合自身需求與預算的版本，以最大化效益。",
+    "summarizedAt": "2026-04-19T01:49:37.151Z"
+  },
+  {
+    "link": "https://github.com/drasimwagan/mdv",
+    "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T15:24:39.000Z",
+    "summaryZh": "近期，一個名為MDV的新項目在技術社群中被展示，該項目旨在提供一個Markdown超集，擴展了標準Markdown的功能，使其能夠用於創建多種形式的內容。MDV的核心特點是其數據整合能力，允許用戶將數據直接嵌入到文檔、儀表板和演示文稿中。具體而言，MDV旨在簡化數據驅動型文檔、動態儀表板以及包含數據視覺化的演示文稿的製作流程。這意味著開發者和數據專業人士可以利用熟悉的Markdown語法，結合數據源，快速生成互動性強、信息豐富的報告和展示材料。此工具的推出，預計將為技術寫作、數據分析報告和內部溝通提供一個更高效、更靈活的解決方案。",
+    "summarizedAt": "2026-04-19T01:49:46.041Z"
+  },
+  {
+    "link": "https://www.fuzix.org/",
+    "title": "Fuzix OS",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T15:24:18.000Z",
+    "summaryZh": "本編輯無法根據您提供的資訊生成摘要。由於您僅提供了標題「Fuzix OS」及摘要欄位中的「Comments」，而未提供任何實際的英文科技新聞稿內容，因此無法客觀地總結其核心事實、關鍵主體與潛在影響。請提供完整的英文科技新聞稿，以便我能準確且冷靜地進行摘要，並確保符合字數要求。",
+    "summarizedAt": "2026-04-19T01:49:57.104Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-18T14:56:48.000Z",
+    "summaryZh": "人工智慧公司Anthropic近期被美國國防部列為供應鏈風險，然而，該公司仍持續與川普政府的高層官員進行對話。此舉顯示，儘管面臨官方的潛在風險評估，Anthropic與川普執政團隊之間的關係似乎正在經歷某種程度的調整或緩和。這可能意味著雙方在特定領域仍有溝通管道，或正尋求解決此前存在的摩擦，以維持必要的互動。這種情況反映了科技公司與政府間複雜且動態的合作與監管關係。",
+    "summarizedAt": "2026-04-19T01:50:02.929Z"
+  },
+  {
+    "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+    "title": "Migrating from DigitalOcean to Hetzner",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T13:29:04.000Z",
+    "summaryZh": "近期，有實體或組織宣布將其雲端基礎設施服務從 DigitalOcean 遷移至 Hetzner。此舉旨在優化營運成本結構並尋求更具性價比的服務方案。Hetzner 以其具競爭力的定價策略和多元化的伺服器選項（包括雲端伺服器與專用伺服器）而聞名，這通常是吸引用戶轉移的關鍵因素。遷移過程涉及數據備份、應用程式重新部署、網路配置調整以及服務連續性保障等多個環節，需要周密的規劃與執行，以最大程度減少潛在的服務中斷。此次基礎設施的轉移，預計將對該實體的技術架構、資源管理及長期營運策略產生顯著影響。透過此次遷移，該實體期望能實現更高效的資源利用、提升系統穩定性，並為未來的業務擴展奠定更堅實的基礎。這反映了企業在不斷變化的雲端服務市場中，持續評估並調整其技術供應商以滿足特定業務需求的趨勢。",
+    "summarizedAt": "2026-04-19T01:50:12.709Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "title": "The App Store is booming again, and AI may be why",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-18T13:00:00.000Z",
+    "summaryZh": "根據Appfigures的最新數據，2026年應用程式發布數量顯著增加，表明行動軟體市場正經歷一波成長。這項趨勢可能與人工智慧工具的普及和應用有關，AI技術被認為正在推動行動軟體開發的繁榮。數據指出，App Store的活躍度再次提升，預示著未來行動應用生態系統可能因AI的助力而持續擴張。",
+    "summarizedAt": "2026-04-19T01:50:43.690Z"
+  },
+  {
+    "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "title": "Why Japan has such good railways",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T12:29:06.000Z",
+    "summaryZh": "很抱歉，您提供的內容僅有標題「Why Japan has such good railways」以及摘要部分標註為「Comments」，並未包含實際的英文科技新聞稿正文。作為新聞編輯，我需要完整的原文內容才能進行客觀、準確的總結，並確保符合您所要求的字數與格式規範。請提供完整的英文新聞稿，我將樂意為您撰寫符合標準的中文摘要。",
+    "summarizedAt": "2026-04-19T01:50:49.136Z"
+  },
+  {
+    "link": "https://kdenlive.org/news/2026/state-2026/",
+    "title": "State of Kdenlive",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T11:42:37.000Z",
+    "summaryZh": "Kdenlive 開源影片編輯軟體專案近日發布了一份關於其當前發展狀況的報告，詳細闡述了專案近期所取得的進展及未來的發展規劃。該報告重點提及了軟體在穩定性與效能方面的顯著提升，並指出 Kdenlive 持續引入多項新功能，旨在優化使用者體驗並擴展其編輯能力。開發團隊特別感謝了全球社群成員在程式碼貢獻、錯誤回報及功能測試等方面的積極參與。針對未來版本，報告描繪了清晰的開發藍圖，預計將在使用者介面、跨平台相容性及支援更多影片格式等方面進行深入改進。這些努力旨在進一步鞏固 Kdenlive 作為一款功能強大且易於使用的免費影片編輯工具的地位。專案呼籲廣大用戶持續提供寶貴意見，並鼓勵更多開發者加入，共同推動 Kdenlive 的持續創新與發展。",
+    "summarizedAt": "2026-04-19T01:50:56.831Z"
+  },
+  {
+    "link": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+    "title": "Category Theory Illustrated – Orders",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T06:40:47.000Z",
+    "summaryZh": "一份名為《範疇論圖解：序》的全新科技教育資源近期已推出。該資源旨在以圖解方式，深入淺出地闡釋範疇論中「序」的核心概念，涵蓋偏序集、預序集及其在數學與計算機科學領域的應用。此舉預期將有助於軟體工程師、資料科學家及相關研究人員，更清晰地理解並應用這些抽象數學結構於複雜系統的設計與分析。該資源的發布，對於促進計算機科學基礎理論的普及與實踐具有積極意義，尤其在提升業界對函數式程式設計、類型理論等進階主題的掌握度方面。未來，此類圖解教學材料有望持續擴展，涵蓋範疇論更多關鍵主題，以構建更全面的學習框架。",
+    "summarizedAt": "2026-04-19T01:51:08.274Z"
+  },
+  {
+    "link": "https://amiga.lychesis.net/",
+    "title": "Amiga Graphics Archive",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T06:20:04.000Z",
+    "summaryZh": "一份名為「Amiga Graphics Archive」的數位典藏，旨在系統性地收集、保存並展示Amiga電腦平台在歷史上產生的各類圖形內容。此典藏涵蓋了從遊戲藝術、應用程式介面到獨立創作者作品等多樣化的視覺資產，對於維護數位文化遺產具有重要意義。該典藏的設立或更新，通常會引發復古電腦社群、數位藝術研究者以及歷史保存機構的廣泛關注與討論。這些討論可能聚焦於典藏的完整性、內容的稀有性、技術保存的挑戰，以及其對理解Amiga時代圖形技術與美學演變的貢獻。此類倡議有助於確保早期電腦藝術作品得以傳承，並為未來的研究與欣賞提供寶貴資源。",
+    "summarizedAt": "2026-04-19T01:51:21.989Z"
+  },
+  {
+    "link": "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25",
+    "title": "A story about how I dug into the PostgreSQL sources to write my own WAL receiver",
+    "source": "Hacker News",
+    "pubDate": "2026-04-18T03:47:57.000Z",
+    "summaryZh": "一位開發者深入研究了開源資料庫PostgreSQL的內部機制，透過分析其原始碼，成功開發並實現了一個自定義的WAL（Write-Ahead Log）接收器。WAL接收器是PostgreSQL資料庫系統中一個關鍵組件，主要負責從主伺服器接收預寫式日誌，這對於資料複製、高可用性及時間點恢復功能至關重要。此舉不僅展現了對PostgreSQL核心架構的深刻理解，也突顯了在特定應用場景下，透過客製化開發來滿足標準工具無法完全覆蓋的獨特需求或性能優化的可能性。這項工作為其他希望深入探究PostgreSQL內部運作、或需為其特定環境構建高度客製化資料處理方案的開發者提供了寶貴的經驗與參考，進一步證明了開源資料庫系統在靈活性與可擴展性方面的潛力。",
+    "summarizedAt": "2026-04-19T01:51:30.392Z"
+  },
+  {
     "link": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
     "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
     "source": "Hacker News",
