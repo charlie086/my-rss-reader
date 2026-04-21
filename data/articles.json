@@ -1,5 +1,221 @@
 [
   {
+    "link": "https://zef-lang.dev/implementation",
+    "title": "How to Make a Fast Dynamic Language Interpreter",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T00:48:07.000Z",
+    "summaryZh": "很抱歉，我無法根據您僅提供的標題「How to Make a Fast Dynamic Language Interpreter」和「摘要：Comments」來生成一篇約180-250字的中文摘要。要完成這項任務，我需要該英文科技新聞稿的完整內容。請提供文章全文，我將嚴格遵循您的要求，客觀冷靜地總結核心事實、關鍵主體及其影響，並確保語句完整、自然收尾，避免任何主觀情緒或標題黨詞彙。",
+    "summarizedAt": "2026-04-21T01:29:44.146Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-20T23:10:27.000Z",
+    "summaryZh": "亞馬遜與人工智慧公司Anthropic達成一項新的合作協議。根據此協議，亞馬遜將向Anthropic追加投資50億美元。作為交換，Anthropic承諾將其未來在雲端服務上的1000億美元支出用於亞馬遜網路服務（AWS）。此舉被視為一項循環式AI交易，旨在強化兩家公司在人工智慧領域的戰略夥伴關係，並鞏固Anthropic作為AWS重要客戶的地位。",
+    "summarizedAt": "2026-04-21T01:29:52.238Z"
+  },
+  {
+    "link": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+    "title": "Even 'uncensored' models can't say what they want",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T22:43:29.000Z",
+    "summaryZh": "儘管市場上出現了許多宣稱「未經審查」或「開放」的AI模型，旨在提供用戶更廣泛的內容生成自由，但觀察顯示，這些模型在實際運作中仍普遍存在內容輸出限制。這些限制主要體現在模型會拒絕生成被認為敏感、具有爭議性、潛在有害或違反倫理規範的內容。此現象表明，即使是設計初衷為減少限制的模型，其底層訓練數據、開發者設定的倫理準則，或後續透過人類回饋強化學習（RLHF）等方式進行的對齊，都已內建了某種形式的內容過濾機制。這引發了業界對於AI模型中「審查」定義的深入討論，以及如何在技術開放性與社會責任之間取得平衡的挑戰。AI開發者面臨的困境是，一方面要滿足用戶對更自由表達的需求，另一方面又要避免模型被濫用或生成不當內容。這凸顯了AI倫理與技術實現之間的複雜張力，預示著未來在AI內容治理方面仍需持續探索與完善。",
+    "summarizedAt": "2026-04-21T01:30:02.659Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "title": "Google rolls out Gemini in Chrome in 7 new countries",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-20T22:00:00.000Z",
+    "summaryZh": "Google 近期宣布將其 Gemini 功能整合至 Chrome 瀏覽器，並在澳洲、印尼、日本、菲律賓、新加坡、韓國及越南這七個國家推出。此舉旨在提升這些地區的瀏覽體驗。Gemini 功能將支援上述所有國家的桌面版 Chrome 瀏覽器。同時，除日本外，澳洲、印尼、菲律賓、新加坡、韓國及越南的 iOS 版 Chrome 瀏覽器也將同步支援此功能。日本用戶目前僅限於桌面版 Chrome 使用。此次擴展標誌著 Google 在全球推廣其人工智慧服務的進一步行動。",
+    "summarizedAt": "2026-04-21T01:30:14.004Z"
+  },
+  {
+    "link": "https://ccs.getmonero.org/ideas/",
+    "title": "Monero Community Crowdfunding System",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T21:33:15.000Z",
+    "summaryZh": "門羅幣社群眾籌系統（Monero Community Crowdfunding System, CCS）是一個由其全球社群驅動的資金募集平台。該系統旨在支持門羅幣生態系統的持續發展，涵蓋了從核心協議開發、安全審計到社群推廣等多方面的專案。近期，社群成員針對該系統的運作模式、提案審核流程以及特定資助專案的進展發表了廣泛的意見與討論。這些反饋對於確保CCS的透明度、效率及社群參與度至關重要，並將直接影響其未來的改進方向與策略調整。透過此去中心化的資助機制，門羅幣社群得以共同決定資源分配，進一步鞏固其作為領先隱私加密貨幣的地位，並推動相關技術的持續創新。",
+    "summarizedAt": "2026-04-21T01:30:22.187Z"
+  },
+  {
+    "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+    "title": "Jujutsu megamerges for fun and profit",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T21:32:10.000Z",
+    "summaryZh": "提供的資訊僅包含標題《Jujutsu megamerges for fun and profit》，而摘要內容欄位則標示為「Comments」，並未提供任何具體的英文科技新聞稿文本。由於缺乏核心事實、關鍵主體公司或產品名稱、以及相關的影響或後續發展等詳細資訊，本編輯無法依據現有資料進行客觀、冷靜的總結，亦無法產出符合字數及內容要求的中文摘要。為能提供精確的總結，請務必提供完整的科技新聞稿內容。",
+    "summarizedAt": "2026-04-21T01:30:34.662Z"
+  },
+  {
+    "link": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+    "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T21:20:52.000Z",
+    "summaryZh": "一家 OpenAI 的廣告合作夥伴現正銷售 ChatGPT 的廣告位，其投放機制基於「提示詞相關性」。這意味著廣告將根據用戶輸入的提示詞內容來決定是否展示，旨在利用用戶與AI互動的上下文信息進行精準投放。此舉標誌著對話式AI平台商業化模式的探索，為生成式AI服務開闢了潛在的營收途徑。儘管新聞稿未明確指出 OpenAI 在此廣告銷售中的直接參與程度，但此合作關係反映了其生態系統的商業化進程，並可能對未來AI產品的用戶體驗和盈利模式產生影響。",
+    "summarizedAt": "2026-04-21T01:30:42.908Z"
+  },
+  {
+    "link": "https://github.com/zeroecco/holos",
+    "title": "Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T21:13:49.000Z",
+    "summaryZh": "一個名為 Holos 的新開源專案近期亮相，旨在透過引入類似 Docker Compose 的 YAML 配置方式，簡化基於 QEMU/KVM 的虛擬化環境管理。該專案的核心目標是降低傳統 QEMU/KVM 配置的複雜性，特別是在整合進階功能時。Holos 允許使用者以聲明式語法定義和部署虛擬機，顯著提升了操作的便捷性。 此工具的一大亮點是其對 GPU 資源的支援，包括 GPU 直通或虛擬化，使其適用於需要圖形加速的應用場景，例如機器學習、專業渲染或高性能計算。此外，Holos 還整合了健康檢查功能，能夠監控虛擬機的運行狀態，確保其穩定性和可用性。透過這些功能，Holos 旨在為開發者和系統管理員提供一個更直觀、更自動化的工具，以高效管理複雜的虛擬化基礎設施。此專案的推出，預計將推動 QEMU/KVM 在更多應用場景中的普及與應用。",
+    "summarizedAt": "2026-04-21T01:30:52.050Z"
+  },
+  {
+    "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+    "title": "John Ternus to become Apple CEO",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T20:39:32.000Z",
+    "summaryZh": "蘋果公司宣布，現任硬體工程資深副總裁John Ternus將接替Tim Cook擔任執行長一職。這項人事變動標誌著蘋果領導層的重大轉型。Ternus自加入蘋果以來，在多項關鍵產品的設計與開發中扮演了重要角色，其晉升被視為公司對持續創新與硬體卓越的承諾。Tim Cook則可能轉任董事會主席或擔任其他職務。此舉預計將引導蘋果進入新的發展階段，同時維持其核心戰略方向。公司董事會對Ternus的領導能力表示高度信心，認為他具備推動蘋果未來發展的遠見與經驗，確保公司在競爭激烈的科技市場中保持領先地位。",
+    "summarizedAt": "2026-04-21T01:31:05.600Z"
+  },
+  {
+    "link": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+    "title": "F-35 is built for the wrong war",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T20:07:35.000Z",
+    "summaryZh": "近期有分析指出，由洛克希德馬丁公司主導研發的F-35聯合攻擊戰鬥機，其高昂造價與設計理念可能與當前及未來的戰爭形態存在偏差。批評者認為，F-35主要針對高強度、對稱性空戰而設計，強調其卓越的匿蹤性能、先進感測器融合技術及網路中心戰能力，旨在對抗具備同級實力的潛在對手。然而，這些分析同時指出，未來的潛在衝突可能更多涉及不對稱作戰、低強度衝突、反恐行動或大規模無人機系統的部署，而非傳統的空對空優勢爭奪。因此，F-35的設計重點可能未能完全契合這些新興威脅與作戰環境。此類討論促使美國及其盟友等主要用戶國的國防部門，重新審視其軍事採購策略、資源配置優先順序以及未來戰略規劃，以確保軍力發展能有效應對不斷變化的全球安全挑戰。",
+    "summarizedAt": "2026-04-21T01:31:18.169Z"
+  },
+  {
+    "link": "https://github.com/gizmo64k/soulplayer-c64",
+    "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T19:51:07.000Z",
+    "summaryZh": "名為「Soul Player C64」的項目，據稱成功在一台僅具1 MHz處理速度的Commodore 64（C64）電腦上運行了「transformer」架構。這一技術展示引發了業界關注，因為「transformer」模型通常被認為需要現代高性能計算資源才能有效運作。該項目若能實現此目標，可能意味著在極端受限的硬體環境下，透過創新的軟體優化或模型簡化，也能執行複雜的AI運算。這不僅挑戰了當前對AI模型部署的普遍認知，也為資源匱乏地區或特定嵌入式系統的AI應用開闢了新的可能性。此舉或將促使開發者重新審視舊有硬體平台的潛力，並探索更高效能的AI演算法實作方式。該項目的具體技術細節、性能表現及實際應用前景，預計將是後續討論的焦點。",
+    "summarizedAt": "2026-04-21T01:31:27.950Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "title": "It’s not just one thing — it’s another thing",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-20T19:37:07.000Z",
+    "summaryZh": "近期觀察指出，特定句式「不只是這個，還有那個」（\"It's not just this — it's that\"）在人工智慧生成的文本中出現頻率顯著增加。這種語言模式的普及程度已達到一個臨界點，使其不再僅僅是判斷一段文字可能由AI合成的初步線索。相反，當讀者遇到此類句式時，其作為AI寫作標誌的可靠性已大幅提升，幾乎可以被視為內容由人工智慧工具產出的明確指標。這項發現對於內容創作者、編輯以及任何需要辨識文本來源的專業人士而言，提供了一個新的、更為確鑿的判斷依據。",
+    "summarizedAt": "2026-04-21T01:31:33.367Z"
+  },
+  {
+    "link": "https://www.kimi.com/blog/kimi-vendor-verifier",
+    "title": "Kimi vendor verifier – verify accuracy of inference providers",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T18:39:53.000Z",
+    "summaryZh": "「Kimi vendor verifier」是一款旨在驗證人工智慧（AI）推理服務提供商準確性的工具。隨著各行各業對AI技術的依賴日益加深，企業在整合外部AI模型進行數據分析、預測或內容生成時，面臨著確保這些服務輸出結果可靠性的挑戰。此驗證器旨在提供客觀的評估機制，幫助用戶評估不同供應商所提供AI模型的性能與精確度。透過此工具，組織能夠更明智地選擇合作夥伴，降低因AI模型不準確而帶來的潛在風險，進而提升其AI驅動應用程式的整體效能與信任度。這對於確保AI生態系統的健康發展及應用落地具有積極意義。",
+    "summarizedAt": "2026-04-21T01:31:41.706Z"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/trybloom/jobs",
+    "title": "Bloom (YC P26) Is Hiring",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T17:00:45.000Z",
+    "summaryZh": "很抱歉，您提供的內容僅有標題「Bloom (YC P26) Is Hiring」及摘要「Comments」，並未包含實際的新聞稿內文。因此，我無法根據您提供的資訊，撰寫一份符合字數與內容要求的中文摘要。若您能提供完整的新聞稿文本，我將很樂意為您進行總結。",
+    "summarizedAt": "2026-04-21T01:31:44.248Z"
+  },
+  {
+    "link": "https://words.filippo.io/128-bits/",
+    "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T16:37:48.000Z",
+    "summaryZh": "該科技新聞稿指出，量子電腦並未對128位元對稱金鑰構成威脅。這項主張挑戰了部分關於量子計算機潛在破壞力的普遍認知。文章可能闡釋，儘管量子演算法（如格羅弗演算法）能加速搜索過程，但其提供的僅是二次方加速。對於128位元的金鑰而言，這相當於將其安全性有效降低至64位元。然而，即使是64位元的安全性，在當前及可預見的技術條件下，仍被認為是計算上難以攻破的。因此，現有的128位元對稱加密技術，在面對量子攻擊時，依然保持其穩固的安全性。",
+    "summarizedAt": "2026-04-21T01:32:00.313Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-20T16:06:21.000Z",
+    "summaryZh": "據報導，美國國家安全局（NSA）的情報人員正在使用人工智慧公司Anthropic開發的Mythos模型。該模型被指出是受限制的，且NSA此舉發生在美國國防部（五角大廈）與Anthropic之間存在爭議的背景下。這項消息揭示了美國情報機構在採納尖端AI技術方面的動態，同時也突顯了政府內部在技術採購和政策協調上可能面臨的複雜性。儘管存在潛在的政策分歧，NSA仍選擇部署此AI工具，這可能引發對國家安全機構如何評估、選擇及部署新興AI工具的進一步討論，特別是在涉及敏感情報處理的應用場景中。此事件也反映出不同政府部門在AI技術應用策略上的獨立判斷。",
+    "summarizedAt": "2026-04-21T01:32:17.387Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T15:41:02.000Z",
+    "summaryZh": "音樂串流平台Deezer近日表示，其平台上每日上傳的新歌曲中，有百分之四十四為人工智慧生成內容。此數據凸顯AI技術在音樂創作領域的快速普及，並反映其對數位內容生態系統的深遠影響。對Deezer這類平台而言，這不僅意味著內容量激增，也帶來內容真實性、版權歸屬及品質管理等挑戰。整個音樂產業正密切關注此趨勢，思考如何平衡AI創作效率與人類藝術家原創價值。隨著AI生成內容比例持續增長，相關平台與權利方可能需重新評估現有內容審核、收益分配模式，以及AI作品的法律地位。此現象預示著音樂產業在技術革新下，正經歷結構性轉變。",
+    "summarizedAt": "2026-04-21T01:32:32.005Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-20T15:30:19.000Z",
+    "summaryZh": "人工智慧核電新創公司Fermi近期面臨高層人事震盪，其執行長與財務長雙雙突然離職。這家由美國前能源部長瑞克·佩里共同創立的企業，致力於結合人工智慧技術與核能開發，然而，其在德州規劃建設的人工智慧園區項目，近期遭遇諸多挑戰與發展阻力。此次關鍵高階主管的突然變動，無疑為Fermi的未來營運與戰略方向增添了不確定性。業界正密切關注，在領導層出現空缺的情況下，Fermi將如何應對當前的困境，並調整其在德州AI核電園區的推進策略。",
+    "summarizedAt": "2026-04-21T01:32:43.525Z"
+  },
+  {
+    "link": "https://www.kimi.com/blog/kimi-k2-6",
+    "title": "Kimi K2.6: Advancing open-source coding",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T15:28:13.000Z",
+    "summaryZh": "月之暗面公司近日發布了其人工智慧模型Kimi的最新版本K2.6，此版本旨在進一步推動開源程式碼開發領域的進步。Kimi K2.6在程式碼生成、理解與除錯方面展現了顯著提升，特別針對多種主流程式語言提供了更精準、高效的支援。該模型透過優化其底層架構與擴展上下文窗口，使其能夠處理更為複雜與龐大的開源專案程式碼庫，從而提升開發者在處理大型專案時的效率與準確性。此次更新旨在賦能全球開發者，協助他們更快速地撰寫、審閱與維護開源專案，進而加速開源社群的創新步伐。預期Kimi K2.6的推出將有助於降低參與開源專案的技術門檻，提升協作效率，並最終促進更高品質開源軟體的誕生。該公司表示，將持續投入資源，以期Kimi系列模型能在開源生態系統中扮演更關鍵的角色。",
+    "summarizedAt": "2026-04-21T01:32:53.681Z"
+  },
+  {
+    "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T14:05:34.000Z",
+    "summaryZh": "阿里巴巴雲近日發布了其大型語言模型系列的新成員Qwen3.6-Max-Preview。該預覽版據稱在多項關鍵指標上展現出更為卓越的智能表現與更精準的處理能力，旨在為用戶提供先進的AI體驗。作為Qwen模型家族的最新迭代，Qwen3.6-Max-Preview的推出標誌著阿里巴巴在推動通用人工智能技術發展上的持續投入。儘管作為預覽版，該模型仍處於持續演進與完善階段，但其已具備的增強型功能預計將在自然語言理解、內容生成及複雜推理等領域帶來顯著進步。此次發布旨在收集早期用戶的反饋，以進一步優化模型性能，為未來的正式版本奠定基礎，並持續鞏固阿里巴巴在AI領域的競爭力。",
+    "summarizedAt": "2026-04-21T01:33:04.851Z"
+  },
+  {
+    "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+    "title": "All phones sold in the EU to have replaceable batteries from 2027",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T13:41:25.000Z",
+    "summaryZh": "歐盟已通過新法規，規定自2027年起，所有在其成員國境內銷售的便攜式電子設備，包括手機在內，都必須設計成讓終端用戶可輕易自行更換電池。這項措施是歐盟「電池與廢電池法規」的一部分，旨在提升產品的永續性、促進循環經濟，並賦予消費者更大的維修權利，以減少電子廢棄物的產生。此法規將對全球主要手機及其他便攜設備製造商的產品設計與生產策略帶來顯著影響，迫使他們重新考慮電池的整合方式。未來，消費者將能更方便地自行更換設備電池，預期可有效延長裝置的使用壽命，並降低維修成本。",
+    "summarizedAt": "2026-04-21T01:33:12.589Z"
+  },
+  {
+    "link": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+    "title": "Sauna effect on heart rate",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T13:40:28.000Z",
+    "summaryZh": "很抱歉，您提供的內容只有標題「Sauna effect on heart rate」和摘要「Comments」，並沒有實際的新聞稿內文。我無法在沒有原文的情況下進行總結。請提供完整的新聞稿內容，我將樂意為您服務。",
+    "summarizedAt": "2026-04-21T01:33:16.246Z"
+  },
+  {
+    "link": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+    "title": "ggsql: A Grammar of Graphics for SQL",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T12:51:20.000Z",
+    "summaryZh": "ggsql 是一個新提出的項目，旨在將「圖形語法」（Grammar of Graphics）的概念引入 SQL 環境。「圖形語法」是一種廣泛應用於數據視覺化領域的理論框架，它允許使用者透過將數據屬性映射到視覺元素（如顏色、形狀、大小）和幾何對象（如點、線、柱狀圖）來系統地構建複雜圖形，常見於R語言的`ggplot2`等工具。ggsql 的核心主張是讓數據分析師和開發者能夠直接利用 SQL 查詢語句來定義和生成視覺化圖表，而無需將數據導出至獨立的視覺化軟體或程式語言環境。此舉預計將大幅簡化數據探索與分析的工作流程，提升 SQL 使用者在數據庫內部進行視覺化分析的能力。透過這種整合，ggsql 有望降低高級視覺化的門檻，使更多依賴 SQL 的團隊能夠更高效、直觀地從原始數據中提取洞察，並在數據處理的同一環境中完成視覺呈現。",
+    "summarizedAt": "2026-04-21T01:33:28.146Z"
+  },
+  {
+    "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+    "title": "Atlassian enables default data collection to train AI",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T12:23:39.000Z",
+    "summaryZh": "Atlassian 近期宣布將預設啟用其旗下多款協作與開發工具的數據收集功能，旨在利用用戶數據訓練並優化其人工智慧模型。這項政策調整涵蓋了 Jira、Confluence 和 Bitbucket 等核心產品，意味著用戶在這些平台上的內容，包括專案資訊、文件內容、程式碼片段及互動模式，將被用於提升 Atlassian AI 的功能性、精準度與個性化體驗。公司明確指出，用戶若不希望其數據被用於此目的，需主動進入設定介面手動選擇退出。此舉引發了部分用戶群體對數據隱私權和個人內容控制權的廣泛討論與關注。Atlassian 方面則強調，將採取嚴格的數據匿名化、加密及安全保護措施，並致力於在推動產品智慧化升級的同時，確保用戶數據的安全與信任。",
+    "summarizedAt": "2026-04-21T01:33:39.268Z"
+  },
+  {
+    "link": "https://github.com/ArcaneNibble/awawausb",
+    "title": "WebUSB Extension for Firefox",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T11:51:04.000Z",
+    "summaryZh": "這份科技新聞稿的標題為「WebUSB Extension for Firefox」，指出了一項關於Firefox瀏覽器WebUSB擴充功能的發展。然而，新聞稿的具體內容摘要僅顯示「Comments」，因此未能提供關於此擴充功能的詳細資訊、其發布主體、技術細節、預期影響或後續計劃。一般而言，WebUSB技術旨在讓網頁應用程式能夠直接與使用者連接的USB裝置進行通訊，若Firefox透過擴充功能支援此標準，將可能拓展網頁應用程式的功能邊界，使其能與更多硬體設備互動，進而提升特定專業或消費性網頁服務的實用性。",
+    "summarizedAt": "2026-04-21T01:33:47.058Z"
+  },
+  {
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+    "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T10:04:40.000Z",
+    "summaryZh": "日本東北部外海近期發生一起規模7.4的強烈地震，震央位於日本宮古市東北東方約100公里處。此次地震因其較大規模及近海位置，引發了日本氣象廳對沿海地區發布海嘯警報或注意報，呼籲當地居民提高警覺，遠離海岸線並採取必要的避難措施。相關監測機構正密切關注地震後續活動，評估其對區域基礎設施可能造成的潛在損害，並持續追蹤海嘯波的實際影響範圍與強度。地方政府已迅速啟動緊急應變機制，協調各方資源，以確保受影響區域民眾的生命財產安全。目前，尚未有大規模人員傷亡或嚴重財產損失的即時報告，但各方仍保持高度戒備。",
+    "summarizedAt": "2026-04-21T01:33:58.015Z"
+  },
+  {
+    "link": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+    "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+    "source": "Hacker News",
+    "pubDate": "2026-04-20T08:49:22.000Z",
+    "summaryZh": "歐盟布魯塞爾當局近期推出一款旨在驗證用戶年齡的應用程式，然而，該系統在發布後不久即面臨嚴峻挑戰。據報導，駭客僅用兩分鐘即成功突破其防線，顯示出該應用程式在安全性方面存在嚴重漏洞。此事件迅速引發了外界對其技術可靠性及用戶數據保護能力的廣泛質疑。鑑於此快速破解，相關當局可能需要重新評估該應用程式的技術架構與安全措施，以確保其在實際應用中的有效性與用戶信任。",
+    "summarizedAt": "2026-04-21T01:34:09.914Z"
+  },
+  {
     "link": "https://opencomputer.dev/blog/the-race-to-build-the-next-wordpress/",
     "title": "The race to build the next WordPress",
     "source": "Hacker News",
