@@ -1,5 +1,245 @@
 [
   {
+    "link": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+    "title": "Drunk Post: Things I've Learned as a Senior Engineer",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T23:53:45.000Z",
+    "summaryZh": "您提供的內容僅包含標題「Drunk Post: Things I've Learned as a Senior Engineer」及摘要「Comments」，並未提供具體的英文科技新聞稿內文。因此，我無法根據現有資訊進行總結。請提供完整的文章內容以便我為您服務。",
+    "summarizedAt": "2026-04-22T01:28:19.184Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T23:45:21.000Z",
+    "summaryZh": "Meta公司宣布開發了一款新的內部工具，該工具旨在記錄員工的鍵盤輸入、滑鼠移動及點擊行為。這些日常操作數據將被轉化為可用於訓練其人工智慧模型的資料。此舉顯示Meta正積極利用其內部資源，透過收集員工在工作環境中的實際互動數據，以進一步提升其AI模型的學習能力與效能。這項策略旨在優化AI模型的訓練過程，使其能從真實的人機互動模式中學習，進而可能應用於未來產品的開發與改進。",
+    "summarizedAt": "2026-04-22T01:28:25.715Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T23:26:45.000Z",
+    "summaryZh": "一份報告指出，人工智慧公司Anthropic的獨家網路安全工具Mythos據稱遭到未經授權的團體存取。這項指控引發了外界對該公司專有技術安全性的關注。針對此類報導，Anthropic已向科技媒體TechCrunch證實，公司目前正對相關聲稱進行全面調查，以釐清事實真相。然而，Anthropic同時強調，截至目前為止，公司內部並未發現任何證據表明其核心系統已因此次事件而受到實際影響或入侵。此事件的後續發展及其對Anthropic技術安全聲譽的潛在影響，仍待進一步觀察。",
+    "summarizedAt": "2026-04-22T01:28:36.971Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T22:58:22.000Z",
+    "summaryZh": "據報導，太空探索技術公司（SpaceX）正與一家名為 Cursor 的新創公司展開合作。同時，SpaceX 擁有一項選擇權，可在未來以高達 600 億美元的價格收購這家新創公司。這項潛在的巨額收購選項，凸顯了 Cursor 在特定技術領域的潛力或戰略價值，儘管其具體業務性質或與 SpaceX 的合作細節尚未完全公開。對於 SpaceX 而言，此舉可能代表其在核心航太業務之外，尋求擴展技術能力或整合創新解決方案的策略布局。這項高額的收購選擇權，即使尚未執行，也已引起業界對兩家公司未來發展方向的廣泛關注。",
+    "summarizedAt": "2026-04-22T01:28:44.986Z"
+  },
+  {
+    "link": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
+    "title": "Claude Code Removed from $20-a-Month \"Pro\" Subscription for New Users",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T22:56:09.000Z",
+    "summaryZh": "人工智慧公司Anthropic已對其AI模型Claude的付費訂閱服務「Claude Pro」進行功能調整。此次變動主要影響新訂閱用戶，自即日起，這些用戶將不再享有透過Claude Pro服務生成程式碼的功能。儘管功能有所縮減，Claude Pro的月費仍維持在每月20美元。這意味著新加入的Pro訂閱者將無法利用Claude模型進行程式碼編寫、除錯或相關開發任務。目前尚不清楚此變動是否會追溯影響現有訂閱用戶，但對於期待利用Claude進行程式碼輔助的新用戶而言，這將是其服務體驗的一項重要變動。此舉可能反映Anthropic對其產品策略的重新定位，例如將程式碼生成功能劃分至更高階的企業解決方案，或旨在優化特定用戶群體的使用體驗。",
+    "summarizedAt": "2026-04-22T01:28:56.566Z"
+  },
+  {
+    "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "title": "Claude Code to be removed from Pro Tier?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T22:36:24.000Z",
+    "summaryZh": "近期有討論指出，人工智慧模型Claude的程式碼功能可能將從其專業版（Pro Tier）服務中移除。然而，目前並無官方聲明或具體細節證實此一傳聞。相關變動若發生，預計將影響訂閱專業版服務的用戶，但其具體影響範圍與時間點尚待官方進一步說明。",
+    "summarizedAt": "2026-04-22T01:29:04.398Z"
+  },
+  {
+    "link": "https://twitter.com/spacex/status/2046713419978453374",
+    "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T22:13:18.000Z",
+    "summaryZh": "美國太空探索技術公司（SpaceX）近日宣佈，已與一家名為 Cursor 的公司達成初步收購協議，預計交易金額高達 600 億美元。這項潛在的收購案，若最終完成，將是近年來科技領域內規模龐大的交易之一，顯示出 SpaceX 在其核心太空探索與衛星網路業務之外，可能正尋求新的戰略佈局或技術整合。然而，關於 Cursor 公司的具體業務範疇、此次收購的詳細目的，以及其對兩家公司未來發展的具體影響，目前 SpaceX 方面尚未對外公佈更多細節。市場正密切關注此交易的後續進展。",
+    "summarizedAt": "2026-04-22T01:29:14.340Z"
+  },
+  {
+    "link": "https://zindex.ai/",
+    "title": "Zindex – Diagram Infrastructure for Agents",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T20:27:37.000Z",
+    "summaryZh": "科技公司Zindex近日發布了一項名為「Zindex – 代理圖表基礎設施」的新產品。該基礎設施專為人工智慧代理（AI agents）設計，旨在提供一套標準化且高效的工具集，以協助這些代理更有效地處理、理解、生成及互動圖表。Zindex的核心主張是，透過賦予AI代理強大的視覺推理和圖表操作能力，將能顯著提升其在複雜系統設計、流程自動化、數據視覺化分析及決策支援等領域的應用潛力。此舉預期將解決當前AI代理在理解和利用非結構化視覺資訊方面的挑戰，進而推動更智慧、更自主的AI應用發展，為跨行業的創新提供堅實的技術支撐。",
+    "summarizedAt": "2026-04-22T01:29:22.860Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+    "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T20:23:24.000Z",
+    "summaryZh": "蘋果公司的高階職位被視為全球最具影響力且伴隨巨大權力的職務之一，同時也提供豐厚的報酬。約翰·特納斯（John Ternus）將接掌此一重要職位。儘管該職務擁有無可匹敵的影響力與經濟回報，但其性質也被形容為充滿潛在風險的「雷區」，暗示著在運營和管理上將面臨諸多複雜且嚴峻的挑戰。",
+    "summarizedAt": "2026-04-22T01:29:32.691Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T19:11:29.000Z",
+    "summaryZh": "AI研究實驗室NeoCognition近日宣布成功完成4000萬美元種子輪融資。這家由俄亥俄州立大學(OSU)研究員創立的新創公司，正致力於開發能夠像人類一樣進行學習的人工智慧代理。這些AI代理的設計目標是具備在任何特定領域中迅速掌握知識並成為專家的能力，從而突破現有AI模型的局限性。此次獲得的資金將主要用於加速NeoCognition的技術研發進程，並推動其創新的人工智慧學習模型從理論走向實際應用，預計將對未來AI系統的發展方向產生影響。",
+    "summarizedAt": "2026-04-22T01:29:40.325Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T19:00:00.000Z",
+    "summaryZh": "OpenAI 推出的最新圖像生成模型 ChatGPT Images 2.0，展現了其在圖像中生成文字的顯著能力。過去，AI 圖像模型在處理文字生成方面常面臨挑戰，但 Images 2.0 的表現令人驚訝地精準且自然。這項進展不僅提升了圖像生成模型的實用性，使其能更有效地整合文字信息，也反映出近年來人工智慧技術的快速演進與成熟。該模型在處理複雜文字細節上的優化，預示著未來 AI 在視覺內容創作領域將擁有更廣泛的應用潛力，並有望進一步模糊圖像與文字生成之間的界限。",
+    "summarizedAt": "2026-04-22T01:29:47.262Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T18:51:52.000Z",
+    "summaryZh": "本週，OpenAI執行長Sam Altman在一次播客節目中，公開批評其競爭對手Anthropic公司推出的新型網路安全模型Mythos。Altman指出，Anthropic在推廣該模型時，採用了「基於恐懼的行銷」策略，旨在使其產品聽起來比實際更具影響力或能力。他認為，這種行銷手法是利用人們對網路安全的擔憂，來誇大Mythos的實際效能。此番言論凸顯了人工智慧領域主要參與者之間在產品宣傳和技術評估上的分歧。",
+    "summarizedAt": "2026-04-22T01:29:54.930Z"
+  },
+  {
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "title": "ChatGPT Images 2.0",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T18:50:00.000Z",
+    "summaryZh": "很抱歉，您提供的輸入僅包含標題「ChatGPT Images 2.0」和「摘要：Comments」，並未提供實際的新聞稿內容。由於缺乏原文資訊，我無法根據您設定的字數和客觀冷靜的原則，對該科技新聞稿進行總結。請提供完整的新聞稿內容，以便我能為您生成摘要。",
+    "summarizedAt": "2026-04-22T01:30:00.933Z"
+  },
+  {
+    "link": "https://frame.work/laptop13pro",
+    "title": "Framework Laptop 13 Pro",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T18:00:34.000Z",
+    "summaryZh": "Framework公司近日發表新款Framework Laptop 13 Pro筆記型電腦，此機型延續品牌模組化設計，旨在提供更強大性能與高度可維修性。Framework Laptop 13 Pro預計將搭載最新一代處理器，並保留擴充卡槽、可更換記憶體、儲存及電池等部件，滿足專業用戶對效能與客製化的需求。該產品的推出，不僅強化了Framework在永續發展與延長產品生命週期方面的承諾，也為追求高性能及維修自由度的消費者提供新選擇，預計將推動筆記型電腦產業朝更開放、環保方向發展。",
+    "summarizedAt": "2026-04-22T01:30:22.297Z"
+  },
+  {
+    "link": "https://github.com/calcom/cal.diy",
+    "title": "Cal.diy: open-source community edition of cal.com",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T17:58:21.000Z",
+    "summaryZh": "Cal.diy 專案已正式推出，作為知名日程安排與會議預訂平台 cal.com 的開源社群版本。此舉旨在透過開放原始碼模式，鼓勵全球開發者社群積極參與其核心功能的開發、維護與改進，進而豐富平台生態。Cal.diy 的發布預計將大幅提升平台的透明度、靈活性與可擴展性，為用戶提供更廣泛的客製化選項和更強大的整合能力。這不僅為那些偏好開源解決方案的個人與組織提供了替代方案，也可能促進 cal.com 技術棧的更廣泛採用，並在開源軟體生態系統中建立一個更活躍、協作的開發環境。",
+    "summarizedAt": "2026-04-22T01:30:32.230Z"
+  },
+  {
+    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T17:40:39.000Z",
+    "summaryZh": "臉書母公司Meta計劃開始收集其員工在工作電腦上的滑鼠移動和鍵盤輸入數據。此舉旨在為其人工智慧（AI）模型的訓練提供更豐富的數據集，特別是針對大型語言模型（LLM）和生成式AI的開發。透過分析員工與軟體介面的互動模式、輸入習慣以及工作流程，Meta希望能夠提升AI系統對人類行為的理解，進而優化產品設計、提升用戶體驗，並可能用於識別工作效率瓶頸。然而，這項數據收集策略引發了外界對員工隱私權和數據安全性的廣泛關注，特別是關於個人工作習慣與行為模式可能被分析和利用的潛在影響。此舉也反映出科技巨頭在追求AI技術突破的同時，如何在數據利用與個人權益之間取得平衡，將是未來持續面臨的挑戰。",
+    "summarizedAt": "2026-04-22T01:30:42.114Z"
+  },
+  {
+    "link": "https://britannica11.org/",
+    "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T17:33:50.000Z",
+    "summaryZh": "Britannica11.org 網站近日正式上線，推出1911年版《大英百科全書》的全新結構化數位版本。此項目旨在將這部已進入公共領域的歷史巨著，透過現代數位技術進行重新編排與呈現，使其內容更易於導航、搜尋及進行內部交叉引用。該平台不僅提供清晰的文本顯示與優化的使用者介面，更著重於提升內容的可讀性與整體可訪問性，旨在讓學術研究者、學生以及廣大公眾能夠以前所未有的便捷方式，探索並利用這份珍貴的知識寶庫。Britannica11.org 的發布，預期將對數位人文研究、歷史文獻的保存與傳播產生深遠影響，為全球用戶提供一個可靠且易用的歷史知識資源。",
+    "summarizedAt": "2026-04-22T01:30:50.003Z"
+  },
+  {
+    "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T17:14:35.000Z",
+    "summaryZh": "Vercel近期遭遇了一起安全事件，該事件涉及OAuth攻擊，導致平台環境變數中的敏感資訊面臨暴露風險。據悉，攻擊者利用OAuth授權機制中的漏洞或弱點，獲取了未經授權的訪問權限。環境變數通常用於儲存API金鑰、資料庫憑證等關鍵配置數據，一旦被惡意存取，可能導致更廣泛的系統入侵或數據洩露。Vercel方面已確認此事件，並採取了相應的應對措施，包括通知受影響用戶、撤銷受損憑證及加強安全防禦。此次事件不僅對Vercel及其用戶構成影響，更凸顯了依賴第三方OAuth服務和在雲端平台環境中管理敏感配置的普遍性安全挑戰。業界應從中汲取教訓，重新審視OAuth實施的安全性，並強化對環境變數等關鍵數據的保護策略，以防範類似攻擊的再次發生。",
+    "summarizedAt": "2026-04-22T01:30:58.667Z"
+  },
+  {
+    "link": "https://github.com/Arc1011/KernelUNO",
+    "title": "Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T17:14:26.000Z",
+    "summaryZh": "一位開發者成功開發了一款微型類Unix作業系統，專為Arduino UNO平台設計。該系統具備命令列介面（shell）和檔案系統功能，並能在僅有2KB RAM的極端資源受限環境下穩定運行。此專案不僅展示了在低功耗微控制器上實現複雜軟體架構的可能性，也為嵌入式系統和物聯網設備的輕量化操作系統設計提供了新的思路與實踐範例。其成果對於探索資源極度受限硬體的潛力具有參考價值。",
+    "summarizedAt": "2026-04-22T01:31:05.458Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T17:11:01.000Z",
+    "summaryZh": "據報導，人工智慧公司 Clarifai 已刪除三百萬張由約會應用程式 OkCupid 提供、用於訓練其臉部辨識AI系統的照片。此項刪除行動發生在 Clarifai 與美國聯邦貿易委員會（FTC）達成和解之後。根據法庭文件揭露，Clarifai 早在 2014 年便曾向 OkCupid 請求分享用戶數據，以供其技術開發之用。當時，OkCupid 的多位高層主管亦是 Clarifai 的投資者。這些照片的移除，反映了在監管機構介入後，企業對數據使用規範的調整與回應。",
+    "summarizedAt": "2026-04-22T01:31:15.431Z"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+    "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T17:01:15.000Z",
+    "summaryZh": "Trellis AI，一家隸屬於 Y Combinator 2024 年冬季批次的新創公司，目前正積極招募工程師，以投入其核心技術的開發工作。該公司專注於構建具備自我改進能力的智慧代理（self-improving agents），旨在透過持續學習與優化，提升其執行任務的效率與精準度，代表了人工智慧領域的一個前沿方向。Trellis AI 期望透過引進頂尖工程人才，加速其在這一創新領域的研發進程，將理論概念轉化為實際應用。此舉不僅反映了該公司對未來 AI 技術發展的願景，也預示著其在推動自主學習系統方面的潛力。此次大規模招聘旨在擴充其技術團隊，為實現其構建下一代智慧代理的目標奠定堅實基礎。",
+    "summarizedAt": "2026-04-22T01:31:24.328Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T16:00:00.000Z",
+    "summaryZh": "AI Dungeon 開發商 Latitude 近期發布了其全新的 AI 原生平台 Voyage。該平台的核心目標是賦能玩家，使其能夠自行創建基於人工智慧的角色扮演遊戲（RPG）。Voyage 透過整合先進的 AI 技術，大幅簡化了傳統遊戲開發流程，讓不具備專業背景的用戶也能輕鬆構建遊戲世界、設計角色與故事情節。此舉預示著遊戲創作工具的民主化，有望對獨立遊戲開發社群產生積極影響，提供新的途徑實現創意，並推動 AI 在互動娛樂領域的應用。",
+    "summarizedAt": "2026-04-22T01:31:35.372Z"
+  },
+  {
+    "link": "https://www.brex.com/crabtrap",
+    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T15:29:16.000Z",
+    "summaryZh": "CrabTrap 是一個基於大型語言模型（LLM）判斷機制的HTTP代理，旨在提升生產環境中人工智慧代理（AI agents）的安全性。該系統的核心理念是利用LLM作為一個智能審查員，對代理的輸入和輸出進行實時監控與評估。其主要功能是防範各類安全威脅，包括惡意提示注入（prompt injection）、數據洩露、未經授權的操作以及其他潛在的濫用行為。作為一個代理層，CrabTrap能夠在代理與外部服務或用戶之間建立一道防線，在數據流經時進行安全策略的強制執行。這對於日益自主化和複雜化的AI代理至關重要，確保它們在實際部署中能夠按照預期行為運作，同時避免因惡意輸入或意外行為導致的風險。CrabTrap的提出，為AI代理的安全運行提供了一種新穎且實用的解決方案，有助於提升AI系統的整體可靠性與信任度。",
+    "summarizedAt": "2026-04-22T01:31:44.120Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T15:24:29.000Z",
+    "summaryZh": "名為 Bond 的新型社群媒體平台，其創作者指出，該平台的核心宗旨是協助用戶擺脫過度瀏覽資訊的習慣，並鼓勵他們重新投入現實生活。不同於傳統社群媒體傾向於長時間吸引用戶停留在應用程式內，Bond 透過其獨特的人工智慧系統，旨在主動激勵用戶離開虛擬世界，轉而參與應用程式之外的實際活動與互動。此舉期望能有效減少用戶對數位內容的依賴，促進更健康的生活模式。",
+    "summarizedAt": "2026-04-22T01:31:51.182Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+    "title": "YouTube expands its AI likeness detection technology to celebrities",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T15:02:06.000Z",
+    "summaryZh": "YouTube 宣布將其人工智慧肖像偵測技術的應用範圍擴展至名人。這項技術旨在為藝人及其經紀代表提供一個工具，使其能夠主動發現並移除平台上未經授權、利用其肖像製作的深度偽造（deepfake）內容。此舉回應了數位內容時代對名人肖像權保護日益增長的需求。透過賦予藝人更強大的控制權，YouTube 期望能有效遏制惡意或誤導性深度偽造影片的傳播，進而維護名人的數位形象與聲譽。這項擴展也體現了平台在打擊虛假資訊和保護創作者權益方面的持續努力，旨在為所有用戶提供一個更真實、安全的內容環境。",
+    "summarizedAt": "2026-04-22T01:31:58.247Z"
+  },
+  {
+    "link": "https://github.com/ENTERPILOT/GOModel/",
+    "title": "Show HN: GoModel – an open-source AI gateway in Go",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T14:11:53.000Z",
+    "summaryZh": "GoModel 是一個基於 Go 語言開發的開源人工智慧網關，其主要宗旨在於為開發者提供一個統一且高效的平台，以管理和整合多個人工智慧模型服務。該網關支援連接包括 OpenAI、Anthropic、Google 等在內的多家主流 AI 模型供應商，並提供一系列關鍵功能。這些功能涵蓋了請求的速率限制、響應緩存、詳細的日誌記錄與監控、API 密鑰管理，以及對令牌使用量和成本的精確追蹤。透過 GoModel，企業和開發團隊能夠簡化其 AI 基礎設施的部署與管理流程，有效提升資源利用效率，並降低營運成本。作為一個開源項目，GoModel 鼓勵社群參與和協作，旨在共同推動人工智慧應用開發的標準化與普及。",
+    "summarizedAt": "2026-04-22T01:32:06.243Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+    "title": "GRAI believes AI can make music more social, not replace artists",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-21T13:00:00.000Z",
+    "summaryZh": "人工智慧音樂新創公司GRAI闡述其對AI在音樂領域應扮演角色的觀點，主張AI的發展應聚焦於提升音樂的社交互動性，而非旨在取代人類藝術家的創作地位。該公司觀察指出，廣大樂迷對於運用AI工具的興趣，主要體現在對現有音樂作品進行混音與再創作，以增強參與感和分享樂趣。相較之下，從零開始完全由AI生成全新歌曲的需求則相對較低。此一觀點強調了AI作為輔助工具的潛力，旨在豐富音樂體驗並促進社群交流，而非顛覆傳統的藝術創作模式。",
+    "summarizedAt": "2026-04-22T01:32:13.115Z"
+  },
+  {
+    "link": "https://vidstudio.app/video-editor",
+    "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T11:58:16.000Z",
+    "summaryZh": "VidStudio 是一款新推出的瀏覽器端影片編輯工具，其核心特色在於，用戶在編輯影片時，無需將原始檔案上傳至任何伺服器。所有影片處理與編輯操作均在用戶的本地瀏覽器環境中完成，旨在提升用戶的資料隱私與安全性，避免敏感內容因上傳至第三方伺服器而產生潛在風險。同時，由於省去了檔案上傳與下載的時間，理論上也能提供更即時的編輯體驗。該產品在 Hacker News 平台上以「Show HN」形式發布，向技術社群展示其創新理念。VidStudio 提供了一個無需安裝桌面軟體、且注重隱私保護的影片編輯解決方案，特別適合對資料安全有較高要求，或希望快速進行輕量級編輯的用戶。此類本地化處理的瀏覽器工具，預計將在未來持續吸引關注，為用戶提供更多樣化的選擇。",
+    "summarizedAt": "2026-04-22T01:32:21.657Z"
+  },
+  {
+    "link": "https://lawsofsoftwareengineering.com",
+    "title": "Laws of Software Engineering",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T11:04:56.000Z",
+    "summaryZh": "一篇題為「軟體工程定律」的文章發表後，其評論區引發了業界廣泛討論與交流。該文可能闡述了軟體開發領域的核心原則或觀察，而評論者主要針對這些定律的有效性、適用範圍及實際操作中的挑戰展開探討。許多專業人士和學者分享了自身經驗，對文章提出的觀點進行了印證或質疑。部分評論對定律的普適性提出了深入見解，並提供了補充或修正建議。此次互動不僅展現了軟體工程界對最佳實踐和理論基礎的持續探索，也為未來相關研究與實踐提供了寶貴的參考方向。",
+    "summarizedAt": "2026-04-22T01:32:31.570Z"
+  },
+  {
+    "link": "https://codemix.com/graph",
+    "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+    "source": "Hacker News",
+    "pubDate": "2026-04-21T10:33:24.000Z",
+    "summaryZh": "一項結合了類型安全、即時協作能力的圖形資料庫技術方案近期受到關注。該方案的核心特點在於其採用了無衝突複製資料類型（CRDT）技術，旨在實現多使用者或多應用程式在分散式環境下對圖形資料進行並行編輯時，能自動處理資料衝突並確保最終一致性。此類圖形資料庫強調其類型安全特性，旨在提升資料結構的嚴謹性與開發過程中的穩定性，減少潛在錯誤。透過整合CRDT，該技術方案克服了傳統分散式系統在資料同步與合併上的複雜挑戰，為需要處理複雜關係且具備高併發協作需求的應用場景提供了潛在的解決方案。這包括但不限於即時文件編輯、協同設計平台、分散式知識圖譜或社群網路等。此技術的發展預示著分散式系統中資料管理與協作模式的新方向，有望簡化開發流程並提升使用者體驗。",
+    "summarizedAt": "2026-04-22T01:32:42.363Z"
+  },
+  {
     "link": "https://zef-lang.dev/implementation",
     "title": "How to Make a Fast Dynamic Language Interpreter",
     "source": "Hacker News",
