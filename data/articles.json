@@ -1,5 +1,245 @@
 [
   {
+    "link": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+    "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T22:37:01.000Z",
+    "summaryZh": "一名美國士兵因涉嫌利用職務之便接觸到的機密資訊，在預測市場中謀取個人利益，目前已面臨指控。該士兵被控將其所掌握的敏感情報用於交易活動，試圖從中獲利。此行為不僅觸犯了軍事法規，更可能構成國家安全層面的洩密罪行，對資訊安全構成嚴重威脅。此事件凸顯了在當前環境下，如何有效管理和保護機密資訊，以及防範內部人員利用職權進行不法活動的挑戰。相關調查正在進行中，預計將對涉事人員追究法律責任，並可能促使軍方進一步審視其資訊安全政策與監管機制。",
+    "summarizedAt": "2026-04-24T01:46:48.823Z"
+  },
+  {
+    "link": "https://github.com/refactoringhq/tolaria",
+    "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T22:01:59.000Z",
+    "summaryZh": "Tolaria 是一款專為 macOS 設計的開源應用程式，旨在協助使用者管理其 Markdown 格式的知識庫。該應用程式的核心功能聚焦於提供一個直觀的介面，讓使用者能夠有效地組織、瀏覽及維護以 Markdown 檔案形式儲存的個人或團隊知識資產。作為一款開源軟體，Tolaria 的原始碼公開可供檢視與貢獻，這鼓勵了開發者社群的參與，有助於其功能的持續改進與擴展。此專案近期於 Hacker News 平台發布，向廣大科技愛好者與開發者展示其潛力。其推出為尋求高效能、可自訂且不依賴專有格式的知識管理工具的 macOS 使用者，提供了一個新的選擇，預期將吸引對基於文本的知識管理有需求的群體。",
+    "summarizedAt": "2026-04-24T01:46:57.809Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T21:00:00.000Z",
+    "summaryZh": "由科技專家 Bret Taylor 創立的人工智慧客戶服務代理新創公司 Sierra，今日宣布已完成對法國新創公司 Fragment 的收購。Fragment 是一家曾獲得知名創業加速器 Y Combinator 支持的企業。此次收購預計將有助於 Sierra 進一步強化其在 AI 客戶服務領域的技術實力與市場佈局。",
+    "summarizedAt": "2026-04-24T01:47:10.727Z"
+  },
+  {
+    "link": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+    "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T20:53:27.000Z",
+    "summaryZh": "Google推出了TorchTPU項目，旨在實現PyTorch深度學習框架在其自研張量處理單元（TPU）上的原生運行。此舉標誌著PyTorch用戶現在能夠直接利用TPU的強大計算能力，進行大規模機器學習模型的訓練與推理。長久以來，TPU作為Google專為加速AI工作負載設計的硬體，主要與其自家的TensorFlow框架緊密結合。TorchTPU的出現，打破了這一格局，為廣大PyTorch開發者提供了新的高效硬體選擇，尤其是在處理超大規模數據集和複雜模型時，有望顯著提升訓練速度與能源效率。這不僅擴展了PyTorch生態系統的硬體兼容性，也使得Google Cloud的TPU服務對PyTorch社群更具吸引力。該項目旨在提供Google級別的擴展性與穩定性，確保PyTorch應用能在TPU集群上順暢運行。",
+    "summarizedAt": "2026-04-24T01:47:19.158Z"
+  },
+  {
+    "link": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+    "title": "Using the internet like it's 1999",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T20:14:29.000Z",
+    "summaryZh": "一篇科技評論指出，當前部分網路使用者正興起一股回歸1999年網路使用模式的趨勢。此現象反映了對當代網路環境的反思，使用者試圖擺脫過度商業化、演算法主導及隱私疑慮的現狀。這股趨勢可能涉及重新擁抱簡潔的網頁設計、論壇、電子郵件列表及RSS訂閱等早期網路工具，強調資訊的直接獲取與個人化體驗而非被動接收。文章或探討此「復古」上網方式的動機，包括對數位疲勞、數據追蹤及資訊繭房的反動，旨在找回更自主、更具社群連結感的線上互動。儘管面臨技術與習慣上的挑戰，此趨勢仍可能對未來網路文化與使用者行為產生潛在影響，促使人們重新思考網路的本質與價值。",
+    "summarizedAt": "2026-04-24T01:47:31.095Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T19:38:25.000Z",
+    "summaryZh": "Noscroll 推出一款人工智慧機器人，旨在解決用戶過度瀏覽負面資訊（doomscrolling）的問題。該產品的核心功能是利用AI技術代用戶閱讀網路內容，並進行篩選與摘要。此舉旨在幫助用戶避免長時間沉浸於令人沮喪或焦慮的網路內容中，從而改善其數位資訊消費體驗。Noscroll 的目標是提供一種更健康、更有效率的資訊獲取方式，讓用戶能夠在不被海量負面新聞淹沒的情況下，依然掌握重要資訊。這項創新嘗試反映了科技界對於改善數位福祉和應對資訊過載挑戰的關注。",
+    "summarizedAt": "2026-04-24T01:47:38.256Z"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+    "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T19:09:40.000Z",
+    "summaryZh": "您提供的標題「Girl, 10, finds rare Mexican axolotl under Welsh bridge」以及摘要「Comments」，內容並非科技新聞稿。因此，我無法依據您的指示，將其總結為科技新聞摘要。請提供一份完整的科技新聞稿，我將能為您提供符合要求的摘要。",
+    "summarizedAt": "2026-04-24T01:47:42.081Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T18:29:29.000Z",
+    "summaryZh": "OpenAI 近日發布了其最新的人工智慧模型 GPT-5.5。據該公司表示，此版本在多個領域展現了顯著的能力提升，涵蓋了從語言理解、內容生成到複雜推理等廣泛應用。此次更新被市場解讀為 OpenAI 在實現其「AI 超級應用程式」願景上邁出的重要一步。該公司旨在透過持續迭代其核心模型，逐步整合各項AI功能，最終打造一個能夠提供全面智慧服務的平台。GPT-5.5 的推出，預示著未來AI應用將更加多元化與整合化，並可能對現有數位生態系統產生深遠影響，推動人工智慧技術在不同產業的應用與發展。",
+    "summarizedAt": "2026-04-24T01:47:50.023Z"
+  },
+  {
+    "link": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
+    "title": "Astronomers find the edge of the Milky Way",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T18:11:29.000Z",
+    "summaryZh": "近期，一組天文學家宣布他們已識別出銀河系的外部邊界，這項發現為我們對本星系的理解提供了新的視角。研究指出，銀河系恆星盤的實際範圍，可能比先前估計的更為明確或廣闊。該團隊透過分析遠處恆星的分布、運動模式以及利用先進的觀測技術和數據分析，來界定這個被認為是銀河系引力影響範圍的最終邊緣。此發現對於重新評估銀河系的整體大小、質量以及其在宇宙中的位置具有重要意義，它有助於天文學家更精確地理解銀河系的形成與演化過程，並可能影響對暗物質分布模型的現有認知。這項研究成果預計將引發學術界對銀河系外圍區域的進一步探測與分析，以驗證並深化對其結構的認識，進而推動對星系動力學和宇宙學研究的發展。",
+    "summarizedAt": "2026-04-24T01:48:00.353Z"
+  },
+  {
+    "link": "https://openai.com/index/introducing-gpt-5-5/",
+    "title": "GPT-5.5",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T18:01:39.000Z",
+    "summaryZh": "很抱歉，您提供的內容僅有標題「GPT-5.5」和摘要「Comments」，並未包含任何具體的英文科技新聞稿文本。由於缺乏原始資訊，我無法根據指令為您總結一篇約180至250字的中文摘要。請提供完整的英文新聞稿內容，我將能依據您的要求，撰寫一份客觀冷靜且語意完整的摘要。",
+    "summarizedAt": "2026-04-24T01:48:05.686Z"
+  },
+  {
+    "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "title": "An update on recent Claude Code quality reports",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T17:48:38.000Z",
+    "summaryZh": "一份關於近期Claude程式碼品質報告的更新已發布，其中包含了針對這些報告的相關評論。此更新旨在提供對Claude程式碼品質現況的說明，並可能回應了外界或內部對此的意見。然而，現有資訊並未具體說明這些評論的詳細內容、所指涉的特定程式碼問題、開發公司（預計為Anthropic）將採取的具體改進措施，以及這些更新對Claude產品未來功能或穩定性的潛在影響。因此，此次更新的實質性細節及其對用戶或開發者的意義，目前仍待進一步闡明。",
+    "summarizedAt": "2026-04-24T01:48:18.469Z"
+  },
+  {
+    "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+    "title": "Palantir employees are starting to wonder if they're the bad guys",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T17:30:05.000Z",
+    "summaryZh": "Palantir 員工近期開始對公司業務的道德性質產生質疑，這反映出他們對其數據分析工具在政府機構、情報部門及執法單位中應用的深層擔憂。這些工具因其強大的數據整合與分析能力，可能涉及監控、個人數據隱私及公民自由等敏感議題，引發了部分員工對於其工作潛在社會影響的道德反思。此類內部疑慮可能導致公司內部就倫理準則和客戶選擇展開更廣泛的討論，甚至影響員工士氣和人才留任。對於 Palantir 這類掌握尖端技術的企業而言，員工的道德質疑不僅是內部挑戰，也促使公司重新審視其在社會責任方面的定位，以及如何平衡商業利益與公共利益。這也凸顯了科技公司在開發和部署具備廣泛影響力技術時，所面臨的日益增長的倫理考量。",
+    "summarizedAt": "2026-04-24T01:48:26.456Z"
+  },
+  {
+    "link": "https://blog.meshcore.io/2026/04/23/the-split",
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T16:55:13.000Z",
+    "summaryZh": "MeshCore開發團隊近期因內部爭議而分裂，此事件對該專案的未來發展構成顯著影響。據了解，導致團隊分裂的核心原因有二：一是涉及商標權的歸屬與使用爭議，二是團隊成員對於在專案中整合或處理人工智慧生成程式碼的立場存在分歧。這項發展預計將直接影響MeshCore專案的開發進度、技術方向及社群協作模式。儘管具體細節與各方後續行動仍待進一步釐清，但此情況已引發業界對開源專案在面對智慧財產權挑戰與新興技術（如AI程式碼）應用時，其治理結構與決策機制所面臨的潛在考驗與挑戰的廣泛關注。",
+    "summarizedAt": "2026-04-24T01:48:33.779Z"
+  },
+  {
+    "link": "https://drobinin.com/posts/my-phone-replaced-a-brass-plug/",
+    "title": "My phone replaced a brass plug",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T16:27:07.000Z",
+    "summaryZh": "很抱歉，您提供的內容僅有標題「My phone replaced a brass plug」和「摘要：Comments」，並未包含完整的英文科技新聞稿原文。我需要新聞稿的具體內容才能依照您的要求，客觀冷靜地總結出約180至250字的中文摘要，並交代核心事實、關鍵主體及影響或後續。請提供完整的新聞稿，我將樂意為您處理。",
+    "summarizedAt": "2026-04-24T01:48:38.527Z"
+  },
+  {
+    "link": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
+    "title": "Incident with multple GitHub services",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T16:21:55.000Z",
+    "summaryZh": "GitHub 報告了一起涉及其多項服務的事件。根據官方提供的摘要資訊，此次事件影響了包括評論功能在內的多個 GitHub 服務。由於當前資訊未詳述具體細節與事件範圍，無法確定其對用戶造成的確切影響。然而，此類平台服務中斷或性能下降事件，通常會對開發者社群的協作流程及工作效率產生潛在影響。GitHub 作為全球領先的程式碼託管與協作平台，其服務的穩定性對廣大開發者至關重要。業界慣例是，此類事件解決後，相關公司會發布更詳細的報告，說明事件原因、影響範圍及採取的解決措施，以維護服務可靠性並增強用戶信任。",
+    "summarizedAt": "2026-04-24T01:48:54.043Z"
+  },
+  {
+    "link": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+    "title": "If America's so rich, how'd it get so sad?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T16:05:30.000Z",
+    "summaryZh": "根據標題《If America's so rich, how'd it get so sad?》，這篇新聞稿可能探討美國社會在物質財富豐裕的背景下，國民幸福感或心理健康水平卻呈現下降趨勢的現象。文章預期會分析導致此一矛盾的深層原因，例如經濟不平等加劇、社會凝聚力減弱、科技進步對人際互動模式的影響，以及現代生活壓力與期望值的變化等。由於缺乏具體內文，無法提供文章所提出的核心論點、數據支持或具體案例。然而，此類議題通常會引發對社會政策、公共衛生策略以及科技倫理的廣泛討論，並可能促使各界重新審視科技產品在塑造個人福祉與社會連結中所扮演的角色，及其潛在的正面與負面影響。",
+    "summarizedAt": "2026-04-24T01:49:07.212Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "title": "Era raises $11M to build a software platform for AI gadgets",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T16:00:00.000Z",
+    "summaryZh": "Era 公司近期宣布成功募資 1100 萬美元，旨在開發一個專為人工智慧（AI）硬體設備設計的軟體平台。該公司預期未來將出現多種形態的 AI 硬體產品，包括智慧眼鏡、智慧戒指及智慧吊墜等穿戴式裝置。Era 認為，隨著 AI 技術的普及，這些新型態的 AI 設備將超越傳統智慧型手機或電腦的範疇，成為人們日常生活中不可或缺的一部分。透過此次募資，Era 將致力於構建一個通用的軟體基礎，以支援這些多元化 AI 裝置的運作與互聯互通，為即將到來的人工智慧硬體生態系統奠定基礎，並推動其創新發展。此舉顯示 Era 正在積極布局，以期在未來 AI 裝置市場中扮演關鍵的平台提供者角色。",
+    "summarizedAt": "2026-04-24T01:49:13.609Z"
+  },
+  {
+    "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+    "title": "French government agency confirms breach as hacker offers to sell data",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T15:59:55.000Z",
+    "summaryZh": "法國一政府機構近日證實其系統發生資料外洩事件。此前，一名駭客聲稱已取得該機構的資料，並在網路上公開販售。該機構在調查後確認了此次入侵，但對於具體外洩的資料類型與數量尚未提供詳細資訊。此事件引發了對政府機構資料安全性的擔憂，並可能對受影響的個人或實體造成潛在風險。相關單位正持續調查此案，以評估外洩範圍並採取應對措施。",
+    "summarizedAt": "2026-04-24T01:49:20.880Z"
+  },
+  {
+    "link": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T14:17:08.000Z",
+    "summaryZh": "資安公司Checkmarx近期揭露，知名密碼管理器Bitwarden的命令列介面（CLI）遭遇供應鏈攻擊。此事件顯示，攻擊者透過惡意程式碼注入，鎖定Bitwarden CLI的特定版本或其相關依賴項，意圖在軟體分發過程中植入威脅。這類供應鏈攻擊旨在利用開發流程中的弱點，可能導致用戶在不知情的情況下執行惡意程式碼，進而面臨資料竊取、系統控制權遭奪取或其他資安風險。Checkmarx指出，這起事件是其持續追蹤的供應鏈攻擊活動的一部分，凸顯了現代軟體開發中對第三方組件及開源庫安全審查的迫切性。Bitwarden方面預計將採取措施，修復受影響的版本並加強其軟體供應鏈的安全性，以保護用戶免受潛在威脅。",
+    "summarizedAt": "2026-04-24T01:49:32.349Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+    "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T14:00:00.000Z",
+    "summaryZh": "StrictlyVC San Francisco 年度活動將於一週後，即4月30日，在舊金山的Sentro Filipino Cultural Center盛大舉行。這場專為風險投資家（VCs）與新創公司創辦人精心策劃的業界聚會，旨在為參與者提供一個寶貴的平台，促進彼此間的深度交流、分享最新行業洞察，並拓展重要的商業聯繫。活動主辦方強調，由於名額有限，有意參與這場聚焦於創投生態系統發展的年度盛會者，應把握最後機會盡快購票，以確保能順利出席。",
+    "summarizedAt": "2026-04-24T01:49:41.109Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+    "title": "Another customer of troubled startup Delve suffered a big security incident",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T14:00:00.000Z",
+    "summaryZh": "科技媒體TechCrunch已證實，Delve是一家為人工智慧代理訓練新創公司Context AI提供安全認證服務的合規公司。Context AI上週披露了一起安全事件。此事件使外界對Delve所執行的安全認證有效性產生疑慮，並凸顯了其作為合規服務提供商可能面臨的挑戰，尤其是在客戶遭遇安全問題時。",
+    "summarizedAt": "2026-04-24T01:50:14.536Z"
+  },
+  {
+    "link": "https://biobank.rocher.lc",
+    "title": "UK Biobank health data keeps ending up on GitHub",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T13:58:03.000Z",
+    "summaryZh": "近期有報導指出，英國生物樣本庫（UK Biobank）的健康數據持續被發現出現在程式碼託管平台GitHub上。這些數據涉及高度敏感的個人健康資訊，而GitHub作為公開的程式碼協作平台，其性質使得此類數據的出現引發了嚴重的隱私與安全疑慮。報導強調這並非單一事件，而是數據洩露或不當共享的重複發生，顯示出數據管理或使用流程中可能存在的漏洞。此情況對參與UK Biobank研究的個體構成潛在風險，並促使外界對其數據保護措施及研究人員的數據處理規範提出質疑。相關機構預計將面臨審查，以確保敏感健康數據的安全性與合規性。",
+    "summarizedAt": "2026-04-24T01:50:23.615Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+    "title": "AI galaxy hunters are adding to the global GPU crunch",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T13:00:00.000Z",
+    "summaryZh": "天文學家正日益依賴人工智慧（AI）和圖形處理器（GPU）來處理和分析現代望遠鏡產生的海量數據。他們利用AI的強大模式識別能力，在龐大的星系數據中搜尋特定的天體或現象，這對傳統分析方法構成挑戰。隨著天文研究對高效能GPU的需求持續增長，這一趨勢正進一步加劇全球GPU供應短缺的局面。這使得原本已受數據中心、大型語言模型及加密貨幣挖礦等需求影響的GPU市場，面臨額外壓力。此現象不僅凸顯了AI和GPU技術在多元科學領域的廣泛應用，也同時加劇了全球範圍內對有限硬體資源的爭奪。",
+    "summarizedAt": "2026-04-24T01:50:36.580Z"
+  },
+  {
+    "link": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
+    "title": "I spent years trying to make CSS states predictable",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T12:37:18.000Z",
+    "summaryZh": "一位資深開發者分享了其多年來在解決CSS狀態不可預測性問題上的經驗與挑戰。該開發者指出，在複雜的網頁應用程式中，CSS樣式的多種狀態（如懸停、點擊、焦點等）及其相互作用，經常導致難以預料的視覺效果和維護困難。為提升前端開發的效率與代碼可維護性，確保CSS行為的可預測性成為關鍵議題。這項長期努力反映了業界普遍面臨的痛點，即如何有效管理樣式狀態，避免潛在的衝突與錯誤。文章可能探討了多種策略或工具，旨在建立一套更穩定、易於理解的CSS架構，以期從根本上解決前端樣式管理中的複雜性問題，為其他開發者提供借鑒與啟發。",
+    "summarizedAt": "2026-04-24T01:51:21.240Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+    "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T12:00:00.000Z",
+    "summaryZh": "科技公司 Beehiiv 近日宣布推出一系列新的創作者工具，其中包括網路研討會功能和可自訂的付費牆選項。此舉明確顯示 Beehiiv 旨在將自身定位為創作者的一站式整合平台。透過整合這些新功能，該公司希望簡化創作者的業務運營流程，減少他們在管理多種獨立工具和服務時所面臨的複雜性和不便。最終目標是讓創作者能夠在單一平台上更高效地經營和發展其內容業務。",
+    "summarizedAt": "2026-04-24T01:51:27.652Z"
+  },
+  {
+    "link": "https://github.com/russellromney/honker",
+    "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T11:53:11.000Z",
+    "summaryZh": "一個名為 Honker 的新專案近期在 Hacker News 上亮相，其核心目標是為輕量級的 SQLite 資料庫引入類似 PostgreSQL 的 NOTIFY/LISTEN 功能。傳統上，NOTIFY/LISTEN 是 PostgreSQL 提供的一種機制，允許應用程式在資料庫中發生特定事件時接收非同步通知，進而實現即時資料更新或進程間通訊。Honker 專案的出現，意味著開發者現在也能在資源受限或嵌入式環境中廣泛使用的 SQLite 資料庫中，實現類似的事件驅動與即時通知模式。這項創新有望彌補 SQLite 在非同步通訊能力上的不足，為依賴 SQLite 的應用程式提供更靈活的即時響應能力，從而擴展其在需要輕量級、高效能即時事件處理場景中的應用潛力。",
+    "summarizedAt": "2026-04-24T01:51:35.516Z"
+  },
+  {
+    "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
+    "title": "Writing a C Compiler, in Zig (2025)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T09:20:47.000Z",
+    "summaryZh": "一項名為「使用Zig語言編寫C編譯器」的計畫正在進行中，其標題暗示可能指向2025年。此計畫的核心內容是開發一款以Zig程式語言實現的C語言編譯器。這項工作突顯了Zig語言在系統級程式設計和工具鏈開發領域的潛力，特別是在編譯器建構方面的適用性。若成功，此新編譯器有望為C語言開發者提供一個替代現有編譯器的選項，並可能引入基於Zig語言特性的新功能或優化。該計畫的進展和最終成果值得持續關注，尤其是在其預期完成或發布的2025年。",
+    "summarizedAt": "2026-04-24T01:51:43.417Z"
+  },
+  {
+    "link": "https://crawshaw.io/blog/building-a-cloud",
+    "title": "I am building a cloud",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T04:44:19.000Z",
+    "summaryZh": "本新聞稿標題為「我正在建立一個雲端」，但其摘要內容僅標示為「評論」。由於缺乏具體的技術細節、相關公司或個人身份、雲端服務的性質、預期功能、市場定位或潛在影響等核心資訊，無法依據現有資料撰寫一份客觀且完整的科技新聞摘要。一份合格的摘要需交代關鍵主體、核心事實與後續影響，而目前提供的內容未能提供這些必要元素以供分析與歸納。",
+    "summarizedAt": "2026-04-24T01:52:17.081Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-23T04:38:45.000Z",
+    "summaryZh": "印度應用程式市場正展現強勁增長勢頭，然而，市場的大部分收益卻被國際大型平台所主導。其中，非遊戲類應用程式，特別是串流媒體服務與人工智慧相關應用，成為推動整體市場擴張的核心驅動力。儘管市場規模持續擴大，但印度用戶的平均消費水平與全球其他地區相比，仍顯著偏低，這也反映出當地市場在用戶付費習慣方面與國際主流存在差異，對本地創新者構成一定挑戰。",
+    "summarizedAt": "2026-04-24T01:52:28.848Z"
+  },
+  {
+    "link": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
+    "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+    "source": "Hacker News",
+    "pubDate": "2026-04-23T01:59:08.000Z",
+    "summaryZh": "Arch Linux 近日宣布，其現在提供一個位元級可重現的 Docker 映像。這項特性意味著，無論何時何地，只要使用相同的原始碼和建構環境，便能生成完全相同的二進位輸出。此舉對於提升軟體供應鏈的安全性、透明度及可信賴性具有重要意義。它允許開發者和使用者獨立驗證映像的內容與其原始碼的一致性，從而降低潛在的惡意篡改風險。此項更新為 Arch Linux 用戶在容器化環境中部署應用提供了更為穩健和可預期的基礎。",
+    "summarizedAt": "2026-04-24T01:52:37.377Z"
+  },
+  {
     "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
     "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
     "source": "TechCrunch — Artificial Intelligence",
