@@ -1,5 +1,181 @@
 [
   {
+    "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+    "title": "Why has there been so little progress on Alzheimer's disease?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T00:12:47.000Z",
+    "summaryZh": "阿茲海默症（Alzheimer's disease）的治療與預防研究進展緩慢，是全球醫學界面臨的重大挑戰。其主要原因在於該疾病的病理機制極為複雜，尚未被完全理解。長期以來，醫學界主要聚焦於腦部澱粉樣蛋白（amyloid-beta）的積聚，認為其是導致神經元損傷的關鍵。然而，多項針對澱粉樣蛋白的藥物臨床試驗以失敗告終，這促使研究人員重新審視這一假說的全面性，並開始探索其他潛在致病因素，例如tau蛋白纏結、神經炎症、血管問題以及遺傳與環境因素的交互作用，都被認為在疾病進程中扮演重要角色。此外，阿茲海默症的早期診斷困難，往往在腦部已發生不可逆損傷後才被確診；同時，藥物難以有效穿透血腦屏障，以及漫長的疾病發展週期導致臨床試驗耗時且成本高昂，也進一步阻礙了新療法的開發。",
+    "summarizedAt": "2026-04-26T01:48:47.395Z"
+  },
+  {
+    "link": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
+    "title": "Agents Aren't Coworkers, Embed Them in Your Software",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T23:53:40.000Z",
+    "summaryZh": "該文章指出，人工智慧代理（AI Agents）不應被視為人類同事，而應被深度整合至現有軟體系統中。傳統上將AI代理視為獨立、自主的實體，可能導致協作效率低下、上下文切換成本高昂，並增加使用者操作的複雜性。相反地，文章主張將AI代理作為核心功能模組，直接嵌入應用程式內部，使其能夠無縫地存取和處理應用程式的數據與上下文。這種整合方式旨在提升AI工具的實用性和效率，讓使用者在不離開原有工作流程的情況下，直接利用AI的能力。這不僅能減少使用者在不同介面間切換的負擔，更能使AI代理成為軟體功能不可或缺的一部分，而非額外的附加組件。該觀點強調，AI代理的真正價值在於其作為增強型工具的角色，透過深度整合來最大化其潛力，從而推動軟體產品的智能化升級與使用者體驗的優化。",
+    "summarizedAt": "2026-04-26T01:48:55.047Z"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html",
+    "title": "Her Life Savings Mysteriously Disappeared After a Systems Glitch",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T23:32:18.000Z",
+    "summaryZh": "近日，一宗涉及個人畢生積蓄離奇消失的事件引發廣泛關注，據稱其起因是一次嚴重的系統故障。一名用戶的全部存款在未經授權的情況下憑空消失，而其背後的原因被指向了相關服務提供商的技術系統問題。此類因系統故障導致的資金遺失，不僅對受害者造成了巨大的經濟損失和心理壓力，更對公眾對金融科技服務的信任度構成了嚴峻挑戰。事件凸顯了金融機構或任何處理用戶資產的科技公司在系統穩定性、數據安全及風險管理方面的關鍵責任。目前，相關方面預計將對此事件展開深入調查，以釐清故障原因、責任歸屬，並尋求妥善的解決方案，包括可能的賠償措施。這也再次提醒業界，在追求技術創新的同時，必須將用戶資產安全和系統可靠性置於首位，以避免類似事件再次發生，維護行業信譽。",
+    "summarizedAt": "2026-04-26T01:49:03.576Z"
+  },
+  {
+    "link": "https://fosstodon.org/@carlrichell/116460505717380644",
+    "title": "Colorado Adds Open-Source Exemption to Age-Verification Bill",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T22:41:05.000Z",
+    "summaryZh": "科羅拉多州近期在其年齡驗證法案中增設了開源豁免條款。該法案原旨在要求線上平台實施年齡驗證，以限制未成年人接觸特定內容，但此前版本引發開源社群對合規負擔及隱私問題的擔憂。新增的豁免條款明確指出，符合特定條件的開源軟體專案將無需遵守部分年齡驗證要求。此舉旨在平衡未成年人保護與開源創新，減輕開源開發者壓力，避免扼殺小型或非商業性專案。這項修正預計將影響科羅拉多州的數位服務生態系統，特別是依賴開源技術的平台和服務提供者。",
+    "summarizedAt": "2026-04-26T01:49:10.731Z"
+  },
+  {
+    "link": "https://fabiensanglard.net/usbcheat/index.html",
+    "title": "USB Cheat Sheet (2022)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T21:51:18.000Z",
+    "summaryZh": "本摘要基於您提供的標題「USB Cheat Sheet (2022)」，由於未提供具體新聞稿內容，以下將針對此類文件通常涵蓋的資訊進行推斷性闡述。一份2022年的USB速查表，其核心目的應是為使用者或開發者提供關於通用序列匯流排（USB）技術標準的簡明指南。此類文件通常會詳細介紹當時主流的USB版本，例如USB 2.0、USB 3.2 Gen 1（原USB 3.0/3.1 Gen 1）、USB 3.2 Gen 2（原USB 3.1 Gen 2），以及當時相對較新的USB4標準。它會區分不同版本的數據傳輸速率，例如USB 2.0的480 Mbps、USB 3.2 Gen 1的5 Gbps、USB 3.2 Gen 2的10 Gbps，以及USB4的20 Gbps或40 Gbps。",
+    "summarizedAt": "2026-04-26T01:49:20.285Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-25T21:43:37.000Z",
+    "summaryZh": "人工智慧研究公司Anthropic近期進行了一項實驗，創建了一個專供AI代理進行交易的分類廣告式市場平台。在此實驗中，AI代理被賦予買家和賣家雙重身份，它們在平台上自主協商，並成功地為真實商品達成了涉及真實貨幣的交易。這項測試不僅驗證了AI代理在模擬商業環境中執行複雜任務的能力，更重要的是，它展示了AI在無需人類直接介入的情況下，能夠參與並完成實際經濟活動的潛力。此類實驗為未來AI驅動的自主商務模式提供了初步驗證，也為探討AI在經濟領域的應用邊界提供了新的視角。",
+    "summarizedAt": "2026-04-26T01:49:27.399Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "title": "Maine’s governor vetoes data center moratorium",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-25T20:57:08.000Z",
+    "summaryZh": "緬因州州長否決了一項名為L.D. 307的法案。該法案旨在對該州新建資料中心實施暫停令，原定生效至2027年11月1日。若該法案通過，這將是美國首個全州範圍內針對資料中心的暫停建設措施。州長的否決意味著這項為期數年的新建資料中心禁令將不會在緬因州實施，從而允許相關開發項目繼續進行，避免了原先可能對資料中心產業發展造成的限制。此舉反映了州政府在平衡能源消耗、環境影響與經濟發展之間的考量。",
+    "summarizedAt": "2026-04-26T01:49:32.305Z"
+  },
+  {
+    "link": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
+    "title": "Can you stop beans from making you gassy?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T20:17:41.000Z",
+    "summaryZh": "針對豆類攝取後可能引發的腸胃脹氣問題，近期有研究機構與食品科學家正積極探索解決方案。這些研究旨在識別並中和豆類中導致脹氣的寡醣成分，例如棉子糖和水蘇糖。目前提出的策略包括利用特定酶製劑來分解這些不易消化的碳水化合物，以及透過改進豆類的浸泡、烹煮或發酵等加工技術，以降低其產氣潛力。部分研究也探討了開發新型食品添加劑或改良豆製品的可能性，以期在不影響其營養價值的前提下，顯著降低食用後的腸胃不適感。這些進展對於提升消費者對豆類的接受度、促進均衡飲食以及改善公共健康具有潛在的積極影響。",
+    "summarizedAt": "2026-04-26T01:49:39.654Z"
+  },
+  {
+    "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+    "title": "America's Geothermal Breakthrough",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T19:38:55.000Z",
+    "summaryZh": "很抱歉，您只提供了標題「America's Geothermal Breakthrough」，而沒有提供實際的英文科技新聞稿內容。由於我需要完整的原文才能進行客觀、冷靜且不帶主觀情緒的總結，並確保摘要符合約180至250字的長度要求，請您提供完整的英文新聞稿文本。收到原文後，我將會依照您的指示，總結出包含核心事實、關鍵主體及影響或後續的中文摘要。",
+    "summarizedAt": "2026-04-26T01:49:45.169Z"
+  },
+  {
+    "link": "https://getkloak.io/",
+    "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T19:03:01.000Z",
+    "summaryZh": "近日，一款名為 Kloak 的秘密管理器在 Hacker News 平台被展示。該工具專為 Kubernetes (K8s) 環境設計，旨在解決容器化工作負載在處理敏感資訊時面臨的安全挑戰。Kloak 的核心主張是實現 K8s 工作負載與敏感密鑰（如 API 憑證、資料庫密碼等）之間的隔離。傳統上，K8s 工作負載可能需要直接存取這些密鑰，增加了潛在的洩露風險。Kloak 透過提供一個中介層或安全機制，確保應用程式在執行時無需直接持有或接觸這些敏感資料，從而降低了攻擊面。此舉有助於顯著提升 K8s 叢集的整體安全性，特別是在多租戶或高安全要求的環境中。作為一個在社群平台發布的新項目，Kloak 的推出預計將引起 Kubernetes 開發者和安全專家的關注，並可能促使業界對 K8s 密鑰管理策略進行進一步的討論與改進。",
+    "summarizedAt": "2026-04-26T01:49:54.089Z"
+  },
+  {
+    "link": "https://coalton-lang.github.io/mine/",
+    "title": "Mine, an IDE for Coalton and Common Lisp",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T17:47:02.000Z",
+    "summaryZh": "您提供的資訊僅包含標題「Mine, an IDE for Coalton and Common Lisp」。為了能依照您的要求，客觀冷靜地總結新聞稿的核心事實、關鍵主體及其影響，我需要完整的英文新聞稿內文。目前僅憑標題，無法提煉出足夠的資訊來撰寫一篇語意完整且符合字數要求的摘要。請提供新聞稿的完整內容，我將樂意為您進行總結。",
+    "summarizedAt": "2026-04-26T01:49:58.888Z"
+  },
+  {
+    "link": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+    "title": "Simulacrum of Knowledge Work",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T17:20:34.000Z",
+    "summaryZh": "很抱歉，您提供的內容只有標題「Simulacrum of Knowledge Work」和「摘要：Comments」，並沒有實際的英文科技新聞稿內文。我無法在沒有原文的情況下進行總結。請提供完整的英文新聞稿，我將樂意為您總結。",
+    "summarizedAt": "2026-04-26T01:50:02.762Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-25T17:17:56.000Z",
+    "summaryZh": "OpenAI執行長Sam Altman近日致函加拿大Tumbler Ridge社區居民，就該公司未能及時向執法部門通報一起近期大規模槍擊案的嫌疑人一事，表達了「深切的歉意」。Altman在信中明確指出，OpenAI對此疏失深感抱歉，並承認公司在處理此類涉及公共安全的潛在威脅時，未能履行應有的警示責任。這封道歉信旨在向受影響的社區傳達OpenAI對事件的嚴肅態度，並對未能採取適當行動以協助阻止悲劇發生表示遺憾。此舉亦代表OpenAI對其在社會責任方面的承諾，並承認在特定情況下，資訊通報機制的重要性不容忽視。",
+    "summarizedAt": "2026-04-26T01:50:29.073Z"
+  },
+  {
+    "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+    "title": "Using coding assistance tools to revive projects you never were going to finish",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T16:11:50.000Z",
+    "summaryZh": "近期觀察顯示，程式碼輔助工具正成為開發者重啟長期擱置或因種種原因未能完成的個人專案或實驗性項目的關鍵助力。這些工具透過整合人工智慧技術，旨在簡化編碼流程，降低技術門檻。許多開發者因時間、技能或複雜度等因素，常將個人專案束之高閣。藉由提供程式碼建議、自動補全及錯誤偵測等功能，開發者得以更有效率地克服技術瓶頸，推動專案進度。此趨勢不僅提升了開發者的生產力，亦有望促使更多原先被放棄的創意構想得以實現。",
+    "summarizedAt": "2026-04-26T01:50:39.421Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-25T16:00:00.000Z",
+    "summaryZh": "加拿大人工智慧新創公司Cohere宣布將收購德國的Aleph Alpha。這項併購案獲得了Lidl超市母公司Schwarz Group的支持，同時也得到了加拿大與德國兩國政府的認可。此舉旨在為企業客戶提供一個主權獨立的人工智慧解決方案，以挑戰目前由美國企業主導的全球AI市場格局。透過結合雙方技術與資源，Cohere與Aleph Alpha期望能建立一個非美國系的人工智慧平台，確保數據主權與技術自主性，為歐洲及其他地區的客戶提供更具在地化與信任度的服務選項。這項合作被視為歐洲與加拿大在AI領域尋求戰略自主的重要一步，可能對全球AI產業的競爭態勢產生影響。",
+    "summarizedAt": "2026-04-26T01:50:46.142Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-25T15:03:00.000Z",
+    "summaryZh": "東京因即將舉辦SusHi Tech Tokyo 2026盛會，被視為2026年最重要的科技目的地。該活動將聚焦於四個嚴謹界定的科技領域，每個領域皆設有專門展覽樓層與豐富現場演示。此外，一系列專題會議將匯聚全球實際開發及資助這些技術的關鍵人物，共同探討前沿科技的發展與應用。SusHi Tech Tokyo 2026旨在為全球科技創新者、投資者及業界領袖提供重要交流平台，以鞏固東京在全球科技版圖中的核心地位，並推動未來科技的進步與實踐。",
+    "summarizedAt": "2026-04-26T01:51:02.454Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+    "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-25T15:00:00.000Z",
+    "summaryZh": "蘋果公司未來的硬體策略預計將迎來重大調整。隨著約翰·特納斯（John Ternus）被確認為下一任執行長，其深厚的硬體背景預示著蘋果的發展重心可能重新回歸設備本身。特納斯作為一位資深的硬體專家，此人事變動暗示公司將更深入地投入產品設計、工程與創新，強化其在核心硬體產品線上的競爭力。這可能意味著蘋果將推動更具突破性的新設備問世，並使硬體研發與生產獲得更多關注，進而鞏固其在科技產業中的硬體領導地位。同時，服務業務的發展也可能與硬體產品形成更緊密的整合，共同提升用戶體驗。這項潛在的戰略轉變，將對蘋果未來的產品路線圖、市場表現及整體生態系統產生深遠影響。",
+    "summarizedAt": "2026-04-26T01:51:12.862Z"
+  },
+  {
+    "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+    "title": "GPT‑5.5 Bio Bug Bounty",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T14:17:31.000Z",
+    "summaryZh": "OpenAI 近日啟動了針對其大型語言模型 GPT-5.5 的「生物領域漏洞賞金計畫」（GPT-5.5 Bio Bug Bounty）。此計畫旨在邀請全球研究人員和安全專家，共同識別並報告該模型在生物科技和生命科學應用中可能存在的安全漏洞、潛在風險及濫用可能性。隨著人工智慧技術在生物領域的應用日益深入，確保模型的安全性、準確性與倫理合規性變得至關重要。這些漏洞可能包括模型生成不準確或誤導性的生物資訊、協助開發有害生物材料或流程、以及其他可能對公共安全或環境造成威脅的行為。透過此計畫，OpenAI 期望在 GPT-5.5 正式部署前，能有效緩解相關風險，提升模型在處理敏感生物數據和研究時的可靠性與安全性。這項舉措體現了負責任的 AI 開發原則，旨在促進人工智慧在生物領域的健康與安全發展，並建立社群對 AI 技術的信任。",
+    "summarizedAt": "2026-04-26T01:51:21.832Z"
+  },
+  {
+    "link": "https://fabiensanglard.net/discret11/",
+    "title": "Discret 11, the French TV encryption of the 80s",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T11:10:41.000Z",
+    "summaryZh": "Discret 11 是一個在1980年代於法國使用的電視加密系統。該系統主要用於付費電視服務，旨在保護廣播內容，確保只有訂閱用戶能夠解碼並觀看節目。作為早期數位或類比加密技術的實例，Discret 11 在法國電視產業的發展中扮演了關鍵角色，特別是在推動付費訂閱模式方面。儘管其具體技術細節和安全性在當時被視為先進，但如同許多早期加密方案，Discret 11 也面臨了被破解或規避的挑戰。如今，對 Discret 11 的回顧與分析，不僅為研究早期廣播加密技術的演進提供了寶貴案例，也對理解資訊安全歷史及其對媒體產業的長期影響具有參考價值。",
+    "summarizedAt": "2026-04-26T01:51:29.805Z"
+  },
+  {
+    "link": "https://github.com/nakagami/grdpwasm",
+    "title": "A web-based RDP client built with Go WebAssembly and grdp",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T10:59:29.000Z",
+    "summaryZh": "一個基於網頁的遠端桌面協議（RDP）客戶端已開發完成，該客戶端採用 Go 語言與 WebAssembly 技術構建，並利用了 grdp 函式庫。這項創新使得用戶能夠直接透過標準網頁瀏覽器存取遠端 Windows 桌面，無需安裝任何專用應用程式。Go 語言的效率與 WebAssembly 在瀏覽器中提供接近原生效能的特性，為此類複雜應用在網路環境中的運行奠定了基礎。此方案顯著提升了遠端存取的便利性與跨平台兼容性，用戶只需具備網路連線及瀏覽器即可進行操作。grdp 函式庫作為底層 RDP 協議的實現，確保了客戶端與標準 RDP 伺服器之間的穩定通訊。此類技術進展預示著未來遠端工作與雲端服務整合的潛力，為企業和個人用戶提供了更靈活、更易部署的遠端桌面解決方案。",
+    "summarizedAt": "2026-04-26T01:51:38.799Z"
+  },
+  {
+    "link": "https://github.com/MartinGalway/C64_music",
+    "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T10:46:14.000Z",
+    "summaryZh": "知名遊戲音樂作曲家馬丁·蓋爾威（Martin Galway）於1980年代為Commodore 64平台遊戲創作的音樂原始檔已獲公開。這些檔案包含了他當時多款經典遊戲作品的原始音樂數據與程式碼，為數位歷史保存領域帶來重要進展。此舉不僅讓廣大復古遊戲愛好者及音樂研究者得以深入探究早期遊戲音樂的創作技術與編程方法，也為後續的數位修復、重製或學術分析提供了寶貴的第一手資料。蓋爾威在C64時代的音樂作品，如《Wizball》、《Parallax》和《Rambo: First Blood Part II》等，以其獨特的音效與旋律聞名，對後來的遊戲音樂發展產生了深遠影響。這些原始檔的釋出，凸顯了保存數位文化遺產的重要性，並有助於後代理解早期電子遊戲產業在技術與藝術層面的開創性成就。這項公開行動預計將激發更多關於遊戲音樂歷史與技術的研究與討論。",
+    "summarizedAt": "2026-04-26T01:51:46.665Z"
+  },
+  {
+    "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+    "source": "Hacker News",
+    "pubDate": "2026-04-25T05:56:12.000Z",
+    "summaryZh": "近期市場上推出了新型的10 GbE USB網路轉接器，這些產品在設計上實現了顯著的改進。據悉，新一代轉接器不僅具備更佳的散熱性能，有效降低了運行溫度，同時也成功縮小了整體體積，使其更為輕巧便攜。此外，這些產品的成本也得到了控制，使得消費者能以更實惠的價格購得。這項技術進步意味著需要高速乙太網路連接的用戶，特別是專業人士和內容創作者，現在能以更經濟、高效且便利的方式，將其設備升級至10 Gigabit網路速度。此類產品的普及，預計將進一步推動高速數據傳輸在個人及商業應用中的廣泛採用，為用戶提供更優化的網路體驗。",
+    "summarizedAt": "2026-04-26T01:51:53.544Z"
+  },
+  {
     "link": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
     "title": "Education must go beyond the mere production of words",
     "source": "Hacker News",
