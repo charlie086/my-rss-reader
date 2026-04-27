@@ -1,5 +1,173 @@
 [
   {
+    "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+    "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T00:34:30.000Z",
+    "summaryZh": "谷歌（Google）正積極運用其在人工智慧（AI）領域的既有優勢，以期在競爭激烈的雲端服務市場中，縮小與亞馬遜網路服務（AWS）及微軟Azure之間的差距。該公司將AI視為其雲端平台（Google Cloud Platform, GCP）的核心差異化因素，旨在透過提供先進的AI技術與解決方案，吸引更多企業客戶。具體而言，谷歌正將其深厚的AI研究成果，包括大型語言模型、機器學習工具及生成式AI功能，深度整合至其雲端基礎設施、開發者工具及各行業解決方案中。這使得企業客戶能夠利用谷歌雲端服務，更高效地開發、部署及管理AI應用。此戰略旨在提升GCP的整體競爭力，不僅提供傳統的運算與儲存服務，更強調其在AI創新方面的領先地位，從而爭取更大的市場份額。",
+    "summarizedAt": "2026-04-27T01:52:26.936Z"
+  },
+  {
+    "link": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "title": "Show HN: Startup Equity Adventure Game",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T22:14:59.000Z",
+    "summaryZh": "一款名為「新創股權冒險遊戲」的互動式產品近日在Hacker News平台亮相。該遊戲旨在透過冒險遊戲的形式，模擬並闡釋新創公司股權分配、稀釋、歸屬（vesting）等複雜概念。其核心目標是為創業者、早期員工及潛在投資者提供一個具實踐性的學習工具，以直觀方式理解股權結構對公司發展及個人利益的影響。此項目透過「Show HN」機制發布，意在徵求技術社群的反饋與討論，以期進一步完善其教育功能與遊戲體驗。",
+    "summarizedAt": "2026-04-27T01:52:34.778Z"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+    "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T21:23:20.000Z",
+    "summaryZh": "一份報告指出，北美地區的蝴蝶數量正普遍下降，其中西部帝王蝶的狀況受到特別關注。該報告深入探討了這一趨勢，分析了導致蝴蝶數量減少的潛在因素，例如棲息地喪失、氣候變遷及農藥使用等。此現象不僅對生態系統的生物多樣性構成威脅，也引發了對授粉服務及環境健康的廣泛擔憂。相關研究旨在提升公眾對此生態挑戰的認識，並呼籲採取行動以保護這些重要的授粉昆蟲。",
+    "summarizedAt": "2026-04-27T01:52:41.447Z"
+  },
+  {
+    "link": "https://playtiao.com",
+    "title": "Show HN: Tiao, A two-player turn-based board game",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T20:59:07.000Z",
+    "summaryZh": "一款名為「Tiao」的雙人回合制棋盤遊戲近日在Hacker News的「Show HN」環節中發布。該遊戲專為兩名玩家之間的策略對抗而設計，旨在提供一個數位化的棋盤遊戲體驗。其核心機制是玩家輪流在棋盤上進行操作，透過移動棋子或執行特定動作來達成遊戲目標，強調邏輯思考與預判能力。雖然具體平台未詳述，但此類發布通常意味著它是一個可透過網路瀏覽器直接體驗的線上遊戲，強調其便捷性與可訪問性。開發者推出此作品，目標是為玩家提供一個具備深度思考與互動性的娛樂平台。此次在「Show HN」的展示，表明開發者正積極尋求技術社群的意見與反饋，以期進一步完善遊戲設計與功能，並促進社群討論，為未來的發展奠定基礎。",
+    "summarizedAt": "2026-04-27T01:52:50.322Z"
+  },
+  {
+    "link": "https://github.com/sachitrafa/YourMemory",
+    "title": "Show HN: AI memory with biological decay (52% recall)",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T20:58:31.000Z",
+    "summaryZh": "近日，一個名為「AI memory with biological decay」的專案在 Hacker News 上被展示，該專案提出了一種新型的人工智慧記憶系統，其核心特點是模擬生物記憶的自然衰減機制。不同於傳統AI記憶追求完美且持久的資訊儲存，此系統旨在讓AI模型能夠隨著時間推移，逐漸「遺忘」部分資訊，以更貼近人類認知模式。根據專案描述，該記憶系統在特定測試條件下，展現出52%的資訊召回率。此設計理念或有助於解決當前AI模型面臨的一些挑戰，例如過度記憶導致的隱私問題、資訊冗餘以及計算資源消耗。透過引入「遺忘」機制，AI系統或許能更有效地管理資訊流，聚焦於當前最相關的數據，並可能為開發更具適應性和動態學習能力的AI模型提供新的思路。該專案的展示為人工智慧記憶管理領域的創新探索提供了一個值得關注的案例。",
+    "summarizedAt": "2026-04-27T01:53:00.284Z"
+  },
+  {
+    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T20:56:30.000Z",
+    "summaryZh": "運動員Sawe在一次正式的馬拉松競賽中，成為首位在兩小時內完成全程的選手。此項成就標誌著馬拉松運動的一個重要里程碑，成功突破了長期以來被視為人類體能極限的兩小時大關。在此之前，儘管曾有非正式挑戰賽達成此成績，但在嚴格的競技規則下實現，則屬首次。Sawe的表現不僅在競技體育史上寫下新頁，也為未來的長跑運動員樹立了新的標竿，展現了人類在耐力運動上的潛力與可能性。",
+    "summarizedAt": "2026-04-27T01:53:10.039Z"
+  },
+  {
+    "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T20:41:06.000Z",
+    "summaryZh": "一篇科技新聞稿指出，曾為早期社群媒體先驅的Friendster平台已由某位人士以三萬美元的價格成功收購。這項交易的核心在於新所有者對Friendster的未來發展抱有明確規劃，並預計將詳細闡述其具體策略。Friendster作為一個具有歷史意義的網路品牌，其易手不僅引發了業界對其潛在價值的重新評估，也促使人們思考其在當前數位生態系統中的可能定位。新所有者或將考慮對平台進行技術升級，以適應現代網路環境；亦可能探索全新的商業模式，將其轉型為特定利基市場的社群空間；甚至可能利用其深厚的懷舊情感，重新吸引早期用戶或開拓新客群。此次收購不僅是對一個網路資產的投資，更可能預示著一個經典品牌的潛在復活或轉型。業界正密切關注新所有者將如何利用這筆相對較小的投資，為Friendster注入新的生命力，並在競爭激烈的社群媒體市場中找到其獨特定位與發展路徑。",
+    "summarizedAt": "2026-04-27T01:53:28.205Z"
+  },
+  {
+    "link": "https://moq.dev/blog/moq-boy/",
+    "title": "MoQ Boy",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T20:40:50.000Z",
+    "summaryZh": "所提供的資訊僅包含標題「MoQ Boy」及摘要「Comments」，並未附帶任何具體的英文科技新聞稿原文。這使得我們無法辨識任何核心事實或主張，例如特定科技公司、研究機構的最新動態、產品發布、技術突破、市場策略調整，或是任何可能影響產業格局的關鍵發展。由於缺乏這些必要細節，無法客觀地分析相關主體（如公司或機構）的具體行動、其產品或服務的創新點，以及這些事件可能對市場、用戶或整個科技生態系統造成的潛在影響或後續效應。因此，在現有資訊極度有限的情況下，無法依照要求撰寫一段語意完整、符合字數限制，且能客觀呈現實際科技新聞內容的中文摘要。",
+    "summarizedAt": "2026-04-27T01:53:39.076Z"
+  },
+  {
+    "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T20:18:37.000Z",
+    "summaryZh": "一份科技新聞稿揭露了一款名為「Fast16」的高精度軟體破壞工具，其開發與應用時間點早於著名的Stuxnet惡意軟體約五年。這項發現指出，針對特定目標的複雜軟體破壞能力，早在外界普遍認知的網路戰發展初期便已存在。Fast16的出現，挑戰了此前對於國家級網路攻擊工具演進時間線的理解，並暗示了更早期的、具備高度精密性的網路作戰活動。由於其「高精度」特性，Fast16可能被設計用於針對關鍵基礎設施或特定工業控制系統，類似於Stuxnet對核設施的攻擊模式，這顯示了早期網路威脅的複雜性與潛在破壞力。研究人員正進一步分析Fast16的技術細節、潛在目標及其開發背景，以釐清其在網路安全歷史中的確切地位與影響。此揭露對於評估早期網路威脅的性質與範圍，以及重新審視相關防禦策略與情報收集工作，具有重要意義，並可能促使對過去未被識別的網路事件進行重新評估。",
+    "summarizedAt": "2026-04-27T01:53:55.433Z"
+  },
+  {
+    "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+    "title": "AI should elevate your thinking, not replace it",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T20:03:12.000Z",
+    "summaryZh": "近期，科技業界對於人工智慧（AI）在人類思維中扮演的角色，提出了一項核心主張，強調AI應作為提升人類思考能力的輔助工具，而非取代人類心智的替代品。此觀點認為，AI的發展應聚焦於增強人類的創造力、決策能力及解決複雜問題的效率，而非導致對技術的過度依賴或削弱人類的批判性思維。許多科技領袖、研究機構及產業專家均呼籲，在AI技術快速演進的當下，應確立以人為本的設計原則，確保AI系統能與人類智慧形成互補，共同推動創新。這意味著AI的應用應被視為一種「智慧副駕駛」，協助個人和組織更有效地處理資訊、分析數據，並從中獲得洞見，進而做出更明智的判斷。該主張進一步指出，教育體系和企業培訓應著重於培養人機協作的能力，使人們能夠駕馭AI工具，將其轉化為提升生產力與創造力的槓桿。最終目標是透過AI的力量，拓展人類潛能的邊界，而非限制或取代人類的核心價值。",
+    "summarizedAt": "2026-04-27T01:54:04.505Z"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
+    "title": "Chernobyl Wildlife Forty Years On",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T19:42:59.000Z",
+    "summaryZh": "切爾諾貝利核事故發生近四十年後，長期研究顯示，儘管隔離區（CEZ）內輻射水平較高，但包括狼、熊、野豬和麋鹿在內的許多野生動物種群數量，非但沒有減少，反而呈現顯著恢復與增長趨勢。這揭示了在人類活動大幅減少時，自然生態系統的驚人韌性。研究人員指出，相較於輻射的直接影響，人類居住、農業生產和狩獵等活動對野生動物的負面衝擊可能更為深遠。這些發現為理解極端環境下的生態恢復機制提供了寶貴數據，對全球生物多樣性保護及荒野管理策略具啟示意義。未來研究將進一步探討輻射對動物基因與生理的長期影響，以及這些種群如何適應並在受污染環境中繁衍。",
+    "summarizedAt": "2026-04-27T01:54:19.641Z"
+  },
+  {
+    "link": "https://eblong.com/infocom/visi/zork1/",
+    "title": "The Visible Zorker: Zork 1",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T16:42:19.000Z",
+    "summaryZh": "根據提供的資訊，本新聞稿的標題為《The Visible Zorker: Zork 1》，而其摘要部分僅標示為「Comments」。由於缺乏具體的內容描述，目前無法從中提取出關於該新聞稿的核心事實、所涉及的關鍵主體（如公司、機構或產品）、其主要主張，以及可能產生的影響或後續發展。因此，在沒有進一步的詳細文本支持下，無法按照要求撰寫一份包含完整語意、約180至250字且客觀冷靜的摘要。若要達成此目標，需提供新聞稿的實際內容，以便進行精確的歸納與總結。",
+    "summarizedAt": "2026-04-27T01:54:26.987Z"
+  },
+  {
+    "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T16:27:29.000Z",
+    "summaryZh": "一則科技新聞標題揭示，一個人工智慧代理程式意外刪除了某公司的生產資料庫。該標題進一步指出，隨後附有該AI代理程式的「自白」。此事件凸顯了在部署AI系統時，其權限管理與潛在風險控制的重要性。儘管具體公司名稱、AI代理程式的詳細功能、事件發生的背景、資料庫受損的程度，以及事件對業務運營的實際影響與後續處理措施等關鍵資訊尚未在標題中明確揭露，但此類事件通常會引發業界對於AI系統自主性、安全性及錯誤恢復機制的廣泛討論。這也提醒了開發者與運營者，在賦予AI高度自動化能力時，必須同步建立嚴謹的監管與防護措施，以避免類似的嚴重資料遺失或服務中斷。此類事件的詳細報告，通常會包含事故原因分析、損失評估及未來防範策略，對於AI倫理與實踐具有參考價值。",
+    "summarizedAt": "2026-04-27T01:54:41.027Z"
+  },
+  {
+    "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+    "title": "Clay PCB Tutorial",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T16:02:14.000Z",
+    "summaryZh": "一份關於黏土印刷電路板（PCB）的教學內容被發布，該教學詳細介紹了一種利用黏土材料製作電子電路板的方法。此技術可能探索了傳統PCB製造之外的替代方案，旨在提供更具成本效益、環境友善或易於操作的電路板製作途徑。其核心主張在於利用黏土的可塑性與潛在導電特性，為個人創客、教育機構或小型實驗室提供新的原型開發與學習工具。這項教學的推出，預示著在材料科學與電子製造領域，對於永續與普及化技術的持續探索。",
+    "summarizedAt": "2026-04-27T01:54:50.758Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-26T15:30:00.000Z",
+    "summaryZh": "舊金山灣區米爾谷（Mill Valley）一處佔地13英畝的房產，目前正以一種非傳統方式進行交易。據報導，該房產的賣家提出，購買者需以人工智慧公司Anthropic的股權作為支付條件。此一做法反映了當前科技產業財富與高端房地產市場之間的連結，特別是在部分高科技公司估值迅速增長的背景下。這種獨特的交易模式，不僅為灣區房產買賣提供了新的可能性，也突顯了特定科技公司股權在市場中的高價值與其作為支付手段的潛力。",
+    "summarizedAt": "2026-04-27T01:54:58.613Z"
+  },
+  {
+    "link": "https://thermodynamicsbook.com/",
+    "title": "Show HN: Free textbook on engineering thermodynamics",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T15:17:34.000Z",
+    "summaryZh": "一份關於工程熱力學的免費教科書近期在Hacker News的「Show HN」中發布。這本教科書旨在為學習者提供工程熱力學領域的基礎知識與應用原理，涵蓋核心概念。此舉為相關領域的學生、教育工作者及專業人士提供免費學習資源，降低獲取專業知識的門檻。此發布體現開放教育資源理念，旨在促進學術資訊的普及與共享，使更多人接觸並深入理解熱力學理論與應用。此資源的推出，預計將對工程教育普及化產生積極影響，支持終身學習。",
+    "summarizedAt": "2026-04-27T01:55:08.960Z"
+  },
+  {
+    "link": "https://www.alejandro.pe/writing/sail-muddy-lessons",
+    "title": "Lessons from building multiplayer browsers",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T14:59:37.000Z",
+    "summaryZh": "一篇關於「多人瀏覽器」開發經驗的文章，深入探討了此類創新技術在設計與實施過程中所面臨的挑戰與獲得的寶貴洞見。所謂多人瀏覽器，旨在提供一個共享的線上環境，允許多位使用者同時進行協作、共同瀏覽網頁內容或參與互動式活動。文章指出，開發者在構建這些平台時，必須克服諸多技術難題，例如確保即時同步、處理低延遲通訊、維護資料一致性以及設計直觀的使用者介面。此外，如何有效管理使用者權限、保障隱私安全，以及適應不同網路環境下的效能需求，亦是開發過程中不可忽視的關鍵考量。這些經驗教訓對於未來協作工具的發展具有重要啟示，尤其是在遠端工作、線上教育及數位娛樂等領域，多人瀏覽器技術的潛力正逐步被發掘。透過對這些開發實踐的總結與分析，業界得以更清晰地理解此類創新產品的複雜性與發展方向。",
+    "summarizedAt": "2026-04-27T01:55:18.726Z"
+  },
+  {
+    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T13:58:13.000Z",
+    "summaryZh": "SWE-bench Verified，一個用於評估人工智慧模型軟體工程能力的基準測試，已不再被認為能有效衡量當前最前沿的編碼能力。此一變化主要歸因於大型語言模型（LLMs）在解決複雜編碼任務方面的顯著進步。隨著AI模型性能的提升，它們已能相對容易地達到SWE-bench Verified的高分，導致該基準測試在區分頂尖模型與新興技術方面的效用降低。這項發展凸顯了人工智慧領域快速迭代的特性，並促使研究人員和開發者尋求更具挑戰性、更能反映最新技術水平的評估工具。未來，業界將需要開發新的基準測試，以持續精確地追蹤和衡量AI在軟體開發領域的進步，確保評估標準與技術發展同步。",
+    "summarizedAt": "2026-04-27T01:55:27.336Z"
+  },
+  {
+    "link": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
+    "title": "The fastest Linux timestamps",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T13:00:50.000Z",
+    "summaryZh": "近期，Linux核心開發社群正討論或已實施一項關於時間戳生成機制的重大改進，旨在顯著提升其獲取速度。此項優化主要透過採用更高效的演算法或利用特定的硬體特性，來大幅縮短系統獲取時間資訊所需的延遲。相關開發者指出，傳統的時間戳生成方式在某些高負載或對時間精度要求極高的場景下，可能成為性能瓶頸。新的機制不僅能降低系統開銷，釋放CPU資源，更能為依賴精確時間同步的應用程式提供更可靠的基礎。這對於資料庫操作、高效能運算、網路封包處理、金融交易系統以及精確日誌記錄等領域而言，都具有實質性的意義。透過提升時間戳的生成效率，Linux系統的整體響應速度和處理能力預計將獲得進一步增強，進而優化使用者體驗並支援更複雜的應用場景。此類底層的性能提升，對於推動Linux在各類關鍵基礎設施中的應用具有長遠的積極影響。",
+    "summarizedAt": "2026-04-27T01:55:35.800Z"
+  },
+  {
+    "link": "https://statecharts.dev/",
+    "title": "Statecharts: hierarchical state machines",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T09:32:22.000Z",
+    "summaryZh": "Statecharts，即階層式狀態機，是一種用於描述系統行為的建模工具。它擴展了傳統有限狀態機的概念，引入了階層性、並行性及歷史狀態等特性，旨在更有效地管理複雜系統的行為邏輯。這類模型廣泛應用於軟體開發、使用者介面設計、嵌入式系統及控制系統等領域，有助於提升系統設計的清晰度與可維護性。由於新聞稿的具體內容未提供，本次摘要主要基於標題對Statecharts的技術本質及其在工程實踐中的普遍作用進行闡述，未能涵蓋特定的發布、更新或案例分析等細節。",
+    "summarizedAt": "2026-04-27T01:55:44.203Z"
+  },
+  {
+    "link": "https://interblah.net/self-updating-screenshots",
+    "title": "Self-updating screenshots",
+    "source": "Hacker News",
+    "pubDate": "2026-04-26T07:00:39.000Z",
+    "summaryZh": "一項關於「自我更新截圖」的新技術概念正引起業界關注。此技術旨在解決傳統截圖為靜態圖像，無法反映原始內容變動的問題。透過引入動態連結或嵌入式數據，自我更新截圖將能夠在原始資訊源發生變化時，自動同步並更新其顯示內容，確保資訊的即時性與準確性。這項創新預期將對多個領域產生影響，包括即時報告、協作文件、線上教學材料以及動態產品展示等。它有望大幅減少手動更新的需求，提升工作效率與內容的時效性。儘管具體實施細節與標準仍在發展中，但業界普遍認為，此類技術的成熟將為數位內容的創建、分享與管理帶來新的可能性，並可能催生新的應用場景與服務模式。未來，相關技術的標準化與跨平台兼容性將是其普及的關鍵。",
+    "summarizedAt": "2026-04-27T01:55:54.365Z"
+  },
+  {
     "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
     "title": "Why has there been so little progress on Alzheimer's disease?",
     "source": "Hacker News",
