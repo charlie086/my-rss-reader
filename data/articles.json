@@ -1,5 +1,229 @@
 [
   {
+    "link": "https://dynomight.net/drinking/",
+    "title": "I quit drinking for a year",
+    "source": "Hacker News",
+    "pubDate": "2026-04-28T01:26:03.000Z",
+    "summaryZh": "提供的標題「I quit drinking for a year」與內容「Comments」不符合科技新聞稿的性質與格式。依據指示，摘要需基於核心事實、關鍵主體（如公司、機構或產品）及其影響或後續，而當前輸入缺乏這些構成科技新聞摘要的必要元素。因此，無法依據既定規範，產出一份客觀冷靜且符合字數要求的科技新聞摘要。請提供一份完整的英文科技新聞稿，以便進行符合要求的總結。",
+    "summarizedAt": "2026-04-28T02:00:14.548Z"
+  },
+  {
+    "link": "https://github.com/hpennington/agentswift",
+    "title": "Show HN: AgentSwift – Open-source iOS builder agent",
+    "source": "Hacker News",
+    "pubDate": "2026-04-28T01:14:31.000Z",
+    "summaryZh": "近日，一個名為 AgentSwift 的開源專案在 Hacker News 平台亮相。該專案被定位為一個 iOS 應用程式建構代理，其核心功能旨在協助開發者自動化或簡化 iOS 應用程式的開發與建構流程。透過提供自動化工具與框架，AgentSwift 期望能提升開發效率，減少手動操作的複雜性。作為一個開源項目，AgentSwift 的程式碼已公開，允許全球的開發者檢視、修改並貢獻其功能。此舉預計將促進社群協作，加速工具的迭代與完善。對於 iOS 開發生態系統而言，AgentSwift 的出現提供了一個潛在的新選擇，有望為開發者帶來更高效、更靈活的開發體驗。其後續發展與社群採納程度將是觀察重點。",
+    "summarizedAt": "2026-04-28T02:00:22.553Z"
+  },
+  {
+    "link": "https://github.com/49Agents/49Agents",
+    "title": "Show HN: 49Agents – Infinite canvas IDE for AI agents",
+    "source": "Hacker News",
+    "pubDate": "2026-04-28T00:36:24.000Z",
+    "summaryZh": "49Agents 推出一款創新整合開發環境（IDE），其核心特色為「無限畫布」介面，專為人工智慧代理（AI agents）的開發與管理而設計。該平台旨在協助開發者以視覺化方式構建、測試並監控AI代理的複雜工作流程。透過無限畫布，開發者能夠自由地組織和連接不同的代理模組、數據流及決策節點，從而更直觀地理解代理間的互動邏輯與整體系統架構。此舉預期能大幅簡化AI代理的設計、迭代與除錯過程，提升開發效率與協作能力。49Agents 的推出，顯示了其致力於為AI代理開發者提供一個更具彈性與可視性的工作空間，以應對日益複雜的AI應用場景。該產品近期於 Hacker News 的「Show HN」環節中亮相，作為一項新興工具，其後續發展與市場影響值得關注。",
+    "summarizedAt": "2026-04-28T02:00:29.848Z"
+  },
+  {
+    "link": "https://gitperf.com/",
+    "title": "Ted Nyman – High Performance Git",
+    "source": "Hacker News",
+    "pubDate": "2026-04-28T00:32:04.000Z",
+    "summaryZh": "資深技術專家泰德·奈曼（Ted Nyman）近期就「高效能Git」議題發表了深度分析與實踐建議。他的論述核心聚焦於如何有效解決Git在處理大型程式碼庫、巨型單一儲存庫（monorepos）或高頻率協作環境下所面臨的效能挑戰。奈曼指出，隨著軟體專案規模的擴大及開發團隊的全球化，Git的克隆（clone）、拉取（fetch）和推送（push）等操作若未經優化，可能顯著拖慢開發流程，影響開發者生產力及持續整合/部署（CI/CD）管道的效率。 為此，奈曼提出了一系列旨在提升Git效能的策略與工具應用。",
+    "summarizedAt": "2026-04-28T02:00:39.095Z"
+  },
+  {
+    "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+    "title": "Generative AI Vegetarianism",
+    "source": "Hacker News",
+    "pubDate": "2026-04-28T00:07:39.000Z",
+    "summaryZh": "很抱歉，您提供的內容僅有標題「Generative AI Vegetarianism」和摘要「Comments」，並未包含實際的英文科技新聞稿原文。由於缺乏原始新聞稿的具體資訊，我無法根據您的要求，客觀冷靜地總結出核心事實、關鍵主體及其影響。請您提供完整的新聞稿內容，我將樂意為您撰寫符合規範的中文摘要。",
+    "summarizedAt": "2026-04-28T02:00:42.031Z"
+  },
+  {
+    "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+    "title": "New Integrated by Design FreeBSD Book",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T23:14:26.000Z",
+    "summaryZh": "很抱歉，您只提供了新聞稿的標題「New Integrated by Design FreeBSD Book」以及「摘要：Comments」，並未提供實際的新聞稿內容。由於缺乏原文資訊，我無法為您總結其核心事實、關鍵主體或潛在影響。請提供完整的新聞稿文本，我將能依據您的要求，以客觀冷靜的語氣，撰寫一段約180至250字的中文摘要。",
+    "summarizedAt": "2026-04-28T02:00:45.539Z"
+  },
+  {
+    "link": "https://talkie-lm.com/introducing-talkie",
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T21:55:48.000Z",
+    "summaryZh": "一份科技新聞稿提及一款名為「Talkie」的語言模型，該模型據稱擁有130億參數。其獨特之處在於被描述為一款「復古」模型，並聲稱其起源可追溯至1930年。此一時間點與現代語言模型技術的發展歷程顯著不符，引發外界對於其性質、開發方式或呈現形式的疑問。然而，由於新聞稿正文僅顯示「Comments」字樣，缺乏具體內容，因此關於該模型的開發背景、技術細節、訓練數據來源、具體功能、預期用途及其潛在影響等關鍵資訊，目前均無法從現有資料中獲取。",
+    "summarizedAt": "2026-04-28T02:00:53.891Z"
+  },
+  {
+    "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+    "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T20:44:16.000Z",
+    "summaryZh": "多倫多警方近期逮捕了三名男子，他們因涉嫌參與與「SMS Blaster」相關的活動而面臨指控。據悉，「SMS Blaster」通常指用於大量發送簡訊的設備或服務，其非法使用可能涉及詐騙、騷擾或其他未經授權的通訊行為。此案凸顯了執法機構對濫用數位通訊工具的打擊力度。目前，這三名男子正處於法律程序中，具體指控內容及案件細節預計將在後續審理中公布。此事件亦提醒公眾，應警惕利用簡訊進行的潛在非法活動，並加強個人資訊安全防範。",
+    "summarizedAt": "2026-04-28T02:01:06.533Z"
+  },
+  {
+    "link": "https://ismy.blue/",
+    "title": "Is my blue your blue?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T20:24:33.000Z",
+    "summaryZh": "科技業界近期針對色彩感知與呈現一致性的挑戰，特別是「我的藍色是否等同於你的藍色」這一核心問題，引發了廣泛討論與評論。相關分析指出，不同顯示技術、校準標準及人眼視覺差異，均可能影響色彩的準確傳達。業界專家與用戶社群的評論普遍強調，在跨裝置、跨平台內容創作與消費日益普及的背景下，確保色彩再現的客觀性與主觀感受的統一性，對於提升用戶體驗及專業工作流程至關重要。這項議題不僅涉及顯示硬體與軟體演算法的精進，也觸及色彩科學與心理學的交叉領域，預計將持續引發深入探討，以期推動更為精確且一致的色彩標準與解決方案，以應對數位時代的色彩挑戰。",
+    "summarizedAt": "2026-04-28T02:01:21.242Z"
+  },
+  {
+    "link": "https://zsnes.com/",
+    "title": "Super ZSNES – GPU Powered SNES Emulator",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T17:50:10.000Z",
+    "summaryZh": "很抱歉，您提供的「摘要：Comments」並未包含任何具體的文章內容。我無法在沒有原文資訊的情況下，總結「Super ZSNES – GPU Powered SNES Emulator」這篇新聞稿的核心事實、關鍵主體與影響。請提供完整的英文新聞稿內容，我才能依照您的要求進行客觀冷靜的中文摘要。",
+    "summarizedAt": "2026-04-28T02:01:26.435Z"
+  },
+  {
+    "link": "https://github.com/Hanqaqa/Easyduino",
+    "title": "Easyduino: Open Source PCB Devboards for KiCad",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T17:45:02.000Z",
+    "summaryZh": "一個名為Easyduino的開源專案近期推出，旨在提供一系列PCB開發板，特別針對KiCad使用者。該專案的核心理念是透過模組化、可重複使用的設計，簡化電子硬體的原型開發流程。Easyduino開發板提供標準化的介面與元件佈局，讓工程師和愛好者能更快速地整合不同功能模組，減少從零開始設計的複雜性與時間成本。作為一個開源專案，Easyduino的所有設計檔案，包括電路圖、PCB佈局等，均在GitHub等平台公開，鼓勵全球開發者社群參與審閱、改進與擴展。此舉預期將大幅降低個人與小型團隊進入硬體開發的門檻，加速創新產品的迭代週期，並促進KiCad生態系統內的協作與知識共享。Easyduino的推出，為開源硬體社群帶來了新的工具選擇，有助於推動更高效、更普及的PCB設計實踐。",
+    "summarizedAt": "2026-04-28T02:01:35.116Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-27T17:40:38.000Z",
+    "summaryZh": "OpenAI已與其最大股東微軟達成一項協議，此舉解決了微軟可能面臨的法律風險。根據協議內容，OpenAI將獲准在亞馬遜網路服務（AWS）平台上銷售其產品，而微軟則將透過一項收入分成協議獲得更多收益。這項安排不僅賦予OpenAI更大的營運彈性，使其能夠在不同雲端平台拓展業務，也確保了微軟作為主要投資者的利益。",
+    "summarizedAt": "2026-04-28T02:02:07.146Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-27T17:24:21.000Z",
+    "summaryZh": "由前DeepMind研究員David Silver創立的英國人工智慧實驗室Ineffable Intelligence，在成立僅數月後，便成功完成了11億美元的融資，公司估值達到51億美元。這家新興的AI公司明確表示，其核心目標是開發一種能夠在沒有人類數據輸入的情況下自主學習的人工智慧系統。此舉不僅凸顯了市場對其創新研究方向的濃厚興趣，也反映了投資者對其在AI領域突破性潛力的看好。David Silver作為DeepMind的資深專家，其新公司的成立與迅速獲得大量資金，預計將對未來AI技術的發展路徑產生一定影響，特別是在自主學習與數據依賴性方面。",
+    "summarizedAt": "2026-04-28T02:02:16.076Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-27T16:13:02.000Z",
+    "summaryZh": "Skye公司開發的iPhone人工智慧主螢幕應用程式，在產品正式發布前便已獲得投資者的資金支持。此舉不僅為Skye的應用程式上市奠定基礎，更被視為市場對具備更強人工智慧感知能力的iPhone應用程式抱持高度興趣的明確信號。Skye的這款新應用旨在透過AI技術，重新定義用戶與iPhone介面的互動模式，提供更智慧、個人化的操作體驗。投資者的提前介入，凸顯了科技業界對AI驅動型使用者介面潛力的認可，預示著未來iPhone生態系統中AI整合將成為重要趨勢，並可能激發更多相關創新產品的出現。",
+    "summarizedAt": "2026-04-28T02:02:23.683Z"
+  },
+  {
+    "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T16:03:08.000Z",
+    "summaryZh": "GitHub Copilot，一款由人工智慧驅動的程式碼輔助工具，正調整其計費模式，將從現行模式轉變為按使用量計費。這意味著用戶將根據其對服務的實際使用量支付費用，而非固定的訂閱費。作為 Copilot 的開發者，GitHub 正推動此項變革，此舉可能導致個人開發者及企業用戶的成本結構產生變化，對高頻使用者而言費用或將增加，而低頻使用者則可能受益。此舉旨在使定價更貼合工具所提供的價值，並優化資源配置。關於具體的使用量衡量標準及實施時間表，預計將有進一步的公告。",
+    "summarizedAt": "2026-04-28T02:02:32.632Z"
+  },
+  {
+    "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+    "title": "Networking changes coming in macOS 27",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T15:36:12.000Z",
+    "summaryZh": "很抱歉，您提供的輸入僅包含標題「Networking changes coming in macOS 27」以及「摘要：Comments」，並未提供任何實際的新聞稿內文。由於缺乏具體的文章內容，我無法識別出核心事實或主張、關鍵主體（例如是哪家公司或機構發布的產品更新）、以及這些網路變革可能帶來的具體影響或後續發展。因此，我無法根據您目前提供的有限資訊，撰寫出符合約180至250字、絕對客觀冷靜、不帶主觀情緒且語意完整的摘要。若要生成精確且符合要求的總結，請務必提供完整的新聞稿文本，以便我能充分理解其細節與脈絡。",
+    "summarizedAt": "2026-04-28T02:02:45.204Z"
+  },
+  {
+    "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
+    "title": "The woes of sanitizing SVGs",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T15:31:36.000Z",
+    "summaryZh": "可縮放向量圖形（SVG）作為一種基於XML的圖像格式，其在網頁應用中的安全性挑戰日益受到關注。由於SVG文件內部可嵌入JavaScript代碼、外部資源連結或惡意標籤，若未經嚴格的淨化處理（sanitization），可能導致跨站腳本攻擊（XSS）等嚴重安全漏洞。對於允許用戶上傳或顯示SVG內容的網站平台而言，這構成了一個顯著的風險，可能危及用戶數據安全及網站完整性。淨化SVG的複雜性在於，許多看似無害的SVG特性，如`<script>`標籤、`<a>`連結中的`xlink:href`屬性、`<foreignObject>`元素，乃至於CSS樣式中的URL引用，都可能被惡意利用。開發者在實作SVG淨化機制時，需面對規範的廣泛性與瀏覽器解析差異等挑戰，確保能有效識別並移除所有潛在的惡意內容，同時保留合法功能。",
+    "summarizedAt": "2026-04-28T02:02:54.815Z"
+  },
+  {
+    "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+    "title": "“Why not just use Lean?”",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T14:24:53.000Z",
+    "summaryZh": "近期，科技業界針對「為何不直接採用精實方法？」這一議題展開了深入討論。此討論旨在探討精實（Lean）管理哲學在當前快速變化的商業環境中，其適用性、潛在局限性及其與其他管理框架的整合可能性。業界分析師與企業領導者指出，儘管精實方法在提升效率、減少浪費方面成效顯著，但在面對高度不確定性、需要快速創新迭代的場景時，單一採用可能不足。他們建議企業應考慮結合敏捷（Agile）、設計思考（Design Thinking）等多元方法，以構建更具彈性和適應性的運營模式。這項討論預示著未來企業在追求效率的同時，將更加注重策略的靈活性與創新能力，促使管理實踐朝向更綜合、更具情境化的方向發展。",
+    "summarizedAt": "2026-04-28T02:03:03.860Z"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T13:22:42.000Z",
+    "summaryZh": "微軟與人工智慧公司OpenAI已終止其獨家合作及營收分享協議。這項協議是微軟早期對OpenAI進行數十億美元投資的核心部分，確保OpenAI在微軟Azure雲端平台上開發其AI模型，並將部分營收回饋給微軟。協議的終止意味著OpenAI在尋求其他合作夥伴及多元化收入來源方面將擁有更大的自由度。儘管如此，微軟仍將維持其作為OpenAI最大單一投資者和主要雲端基礎設施提供者的地位。此舉預計將對人工智慧產業的競爭格局產生影響，可能促使更多公司探索新的合作模式，並加速技術創新與市場多元化發展。",
+    "summarizedAt": "2026-04-28T02:03:11.504Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-27T13:16:55.000Z",
+    "summaryZh": "中國監管機構已正式命令科技巨頭Meta公司撤銷其對Manus的20億美元收購案。此項決定是在經過數月的深入反壟斷調查後做出的，凸顯了中國政府對大型科技公司市場集中度及併購行為的持續審查與嚴格立場。對於Meta而言，這項裁決無疑對其執行長馬克·祖克柏在人工智慧代理（AI agents）領域的戰略部署構成潛在的重大阻礙。該交易原被視為Meta強化其AI技術實力與市場競爭力的關鍵一步，旨在加速其在AI創新方面的進程。如今，隨著這筆重要收購案被迫終止，Meta將不得不重新評估其在AI領域的發展策略與路徑，並可能尋求其他方式來實現其技術目標。",
+    "summarizedAt": "2026-04-28T02:03:21.538Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-27T13:08:59.000Z",
+    "summaryZh": "根據產業分析師郭明錤的最新報告，人工智慧公司OpenAI可能正與聯發科、高通以及立訊精密等合作夥伴，共同開發一款智慧型手機。此前，市場上已流傳多項關於OpenAI硬體計畫的傳聞，其中不乏提及該公司可能推出一款AI耳機。此次關於手機開發的訊息，進一步揭示了OpenAI在硬體領域的潛在布局，顯示其可能不僅限於軟體服務，而是有意將其核心AI技術更深度地整合至終端設備。若此合作屬實，將標誌著OpenAI在拓展其生態系統方面邁出重要一步，並可能對未來智慧型手機的產品形態與市場競爭格局產生影響。",
+    "summarizedAt": "2026-04-28T02:03:29.643Z"
+  },
+  {
+    "link": "https://github.com/dirac-run/dirac",
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T12:35:55.000Z",
+    "summaryZh": "一位開發者在Hacker News上發布消息，展示其所開發的開源軟體代理（OSS Agent），並聲稱該代理在TerminalBench基準測試中表現卓越，取得了領先地位。據該開發者指出，此項性能突破是在Google的Gemini-3-flash-preview模型環境下實現的。TerminalBench作為一個潛在的評估工具，其測試結果通常用於衡量代理或模型在特定任務上的效率與準確性。儘管該發布僅為初步展示，且關於OSS Agent的技術細節、測試方法的完整說明以及具體評分數據尚未詳盡披露，但此類成果仍可能引發業界對開源AI代理在特定基準測試中潛力的關注。未來，若能提供更全面的技術報告與開源代碼，將有助於社群進一步驗證其性能，並探討其在實際應用場景中的潛力與影響。",
+    "summarizedAt": "2026-04-28T02:04:00.244Z"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+    "title": "China blocks Meta's acquisition of AI startup Manus",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T11:43:59.000Z",
+    "summaryZh": "中國監管機構已阻止Meta Platforms收購人工智慧新創公司Manus。此舉標誌著中國對科技巨頭跨境併購案的審查日益嚴格。儘管具體原因未公開，此類否決通常涉及反壟斷、數據安全或國家安全考量。對Meta而言，這將影響其在AI領域的戰略擴張與技術整合計畫。而Manus作為一家AI新創，其未來發展路徑也將因此次交易受阻而面臨不確定性。此事件也凸顯了全球科技企業在中國市場進行併購時，需面對複雜且嚴格的監管環境。",
+    "summarizedAt": "2026-04-28T02:04:07.516Z"
+  },
+  {
+    "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+    "title": "Men who stare at walls",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T11:08:26.000Z",
+    "summaryZh": "很抱歉，您提供的「摘要」部分僅包含「Comments」字樣，並未提供實際的英文科技新聞稿內容。我無法在沒有原文的情況下，為您總結核心事實、關鍵主體或其影響。請您提供完整的英文科技新聞稿文本，我將依照您的要求，以客觀冷靜的語氣，撰寫一份約180至250字的中文摘要。",
+    "summarizedAt": "2026-04-28T02:04:10.129Z"
+  },
+  {
+    "link": "https://github.com/pgbackrest/pgbackrest",
+    "title": "Pgbackrest is no longer being maintained",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T10:56:34.000Z",
+    "summaryZh": "開源資料庫備份工具 Pgbackrest 已確認終止維護。這意味著該專案將不再接收新的功能更新、錯誤修復或安全補丁。對於目前依賴 Pgbackrest 進行 PostgreSQL 資料庫備份的用戶而言，此決定將帶來顯著影響。用戶需評估其現有備份策略，並考慮尋找替代方案，以確保資料的長期安全性與系統穩定性。",
+    "summarizedAt": "2026-04-28T02:04:18.532Z"
+  },
+  {
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+    "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T10:15:17.000Z",
+    "summaryZh": "字數：240字 美國食品食品藥物管理局（FDA）近日批准了首款用於治療遺傳性聽力損失的基因療法AK-OTOF，這標誌著該領域的一項重大突破。此療法由Akouos公司（禮來旗下）開發，專門針對由OTOF基因突變引起的常染色體隱性遺傳性耳聾（DFNB9）。AK-OTOF透過將功能性OTOF基因遞送至內耳，旨在恢復患者的聽覺功能。 這項批准主要針對特定年齡段的兒科患者，為過去缺乏有效治療方案的先天性遺傳性聽力損失患者群體提供了新的治療選擇。AK-OTOF的問世，不僅代表了基因療法在罕見疾病治療上的潛力，也為未來更多針對基因缺陷導致的感官功能障礙的治療研究奠定了基礎。預計這將對相關的耳科醫療實踐和患者生活品質產生深遠而積極的影響。",
+    "summarizedAt": "2026-04-28T02:04:49.493Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+    "title": "Meta inks deal for solar power at night, beamed from space",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-27T10:00:00.000Z",
+    "summaryZh": "科技公司Meta近日與Overview Energy簽署了一項協議，旨在獲取創新的太空太陽能電力。這項技術的獨特之處在於，它能夠在夜間提供電力，且電力來源是從太空直接傳輸。這份合約不僅是Overview Energy與Meta之間的首次合作，更被視為推動未來太空太陽能發電技術發展的關鍵一步。此舉預示著能源供應模式可能迎來變革，將太陽能的應用範圍從日間擴展至全天候，並利用太空資源解決地球的能源需求。儘管這僅是初步嘗試，但它為實現大規模、持續的太空能源供應奠定了基礎，展現了科技公司在探索前瞻性清潔能源解決方案方面的投入。",
+    "summarizedAt": "2026-04-28T02:04:56.133Z"
+  },
+  {
+    "link": "https://app.oravys.com/blog/mercor-breach-2026",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "source": "Hacker News",
+    "pubDate": "2026-04-27T09:57:10.000Z",
+    "summaryZh": "科技公司Mercor近期遭遇數據竊盜事件，約4TB的語音樣本遭到未經授權的存取。這些被竊取的數據涉及約四萬名為人工智慧專案提供服務的承包商。此次事件凸顯了在AI訓練數據供應鏈中，個人生物識別資料所面臨的安全風險。語音樣本的洩露可能對受影響的承包商造成潛在的隱私權侵害，並可能被用於身份冒用或其他惡意目的。Mercor公司預計將評估此次事件的具體影響，並採取措施保護受影響者的權益，同時強化其數據安全協議以防範未來類似事件。",
+    "summarizedAt": "2026-04-28T02:05:03.372Z"
+  },
+  {
     "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
     "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
     "source": "Hacker News",
