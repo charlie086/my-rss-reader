@@ -1,5 +1,269 @@
 [
   {
+    "link": "https://biohub.org/news/virtual-biology-initiative/",
+    "title": "$500M for Virtual Biology Initiative, Funded by Zuckerbergs",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T00:20:44.000Z",
+    "summaryZh": "由祖克柏夫婦（Zuckerbergs）資助的「虛擬生物學倡議」（Virtual Biology Initiative），已確認獲得五億美元的資金。這筆鉅額款項將專門用於推動虛擬生物學領域的發展，旨在透過先進的計算與模擬技術，深入探索生物系統的複雜性。該倡議預計將支持相關研究項目、技術平台開發及人才培養，以期加速生命科學的突破。此舉彰顯了祖克柏夫婦對基礎科學的持續投入與利用創新方法解決生物學挑戰的承諾。這項投資有望為全球生物醫學研究社群帶來新的工具與視角，其長期影響將持續受到業界關注。",
+    "summarizedAt": "2026-05-01T02:04:30.676Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T23:07:56.000Z",
+    "summaryZh": "據知情人士透露，人工智慧公司Anthropic正要求投資者於未來48小時內提交其最新一輪募資的資金分配意向。市場消息指出，此輪募資有望將Anthropic的估值推升至900億美元以上，且整個募資流程預計可在未來兩週內完成。此舉反映出該公司在快速發展的人工智慧市場中，正積極尋求擴大其資金基礎，以支持其技術研發、人才招募及基礎設施建設，進一步鞏固其在產業內的競爭地位。",
+    "summarizedAt": "2026-05-01T02:04:39.444Z"
+  },
+  {
+    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "title": "The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T22:48:51.000Z",
+    "summaryZh": "近日，cPanel & WHM 軟體中發現了一項嚴重的安全漏洞。該漏洞被識別為身份驗證繞過缺陷，並已分配 CVE 編號 CVE-2026-41940。這意味著未經授權的攻擊者可能利用此漏洞，在未提供有效憑證的情況下，繞過正常的登入程序，進而取得對 cPanel 或 WHM 介面的未授權存取。一旦成功利用，攻擊者可能獲得對託管網站、伺服器配置及敏感數據的控制權，對數據完整性、機密性和服務可用性構成潛在威脅。鑑於 cPanel & WHM 在全球網路託管服務中的廣泛應用，此漏洞的影響範圍可能涉及大量網站和伺服器。cPanel 官方預計將發布安全更新以修復此問題。建議所有使用 cPanel & WHM 的系統管理員密切關注官方公告，並在補丁發布後立即進行更新，以降低潛在風險。此事件再次提醒業界對軟體供應鏈安全及時修補漏洞的重要性。",
+    "summarizedAt": "2026-05-01T02:04:46.885Z"
+  },
+  {
+    "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
+    "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T22:18:57.000Z",
+    "summaryZh": "您好，感謝您提供新聞稿標題。然而，要依照您的要求，客觀冷靜地總結一篇約180-250字的中文摘要，並交代核心事實、關鍵主體與影響，我需要完整的英文科技新聞稿內容。僅憑標題無法提取足夠的資訊來完成此任務。請您提供完整的文章內容，我將樂意為您撰寫摘要。",
+    "summarizedAt": "2026-05-01T02:04:51.851Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+    "title": "Apple was surprised by AI-driven demand for Macs",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T22:12:52.000Z",
+    "summaryZh": "蘋果公司近期指出，其Mac系列產品的需求出現了超出預期的增長，特別是受到人工智慧（AI）應用普及的推動。這股強勁的需求主要體現在Mac mini、Mac Studio以及Mac Neo等特定型號上，顯示出市場對支援AI工作負載的Mac設備有著顯著的興趣。由於這波需求超出了公司的供應能力，蘋果目前面臨著這些關鍵Mac產品的供應限制。該公司進一步預期，這種供應緊張的狀況將會持續到下一個季度，反映出AI技術發展對硬體市場帶來的持續影響。",
+    "summarizedAt": "2026-05-01T02:04:58.739Z"
+  },
+  {
+    "link": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
+    "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T20:49:21.000Z",
+    "summaryZh": "SimpleX網路近日宣布推出SimpleX Channels功能，旨在為用戶提供更為豐富的內容發布與訂閱選項，進一步強化其去中心化通訊平台的隱私保護特性。為確保網路的長期發展與治理，SimpleX Network Consortium也已正式成立，該聯盟將匯集各方資源與專業知識，共同維護SimpleX網路的開放性、安全標準及技術演進。值得注意的是，SimpleX的持續營運與創新，部分仰賴社群群眾募資的支持。此舉不僅展現了其社群對隱私導向通訊模式的高度認可，也為SimpleX的獨立發展提供了穩固的財務基礎。透過新功能的推出、聯盟的建立以及社群的資金支持，SimpleX旨在鞏固其在安全與隱私通訊領域的地位，並持續擴大其生態系統。",
+    "summarizedAt": "2026-05-01T02:05:06.759Z"
+  },
+  {
+    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "title": "Rivian allows you to disable all internet connectivity",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T20:27:22.000Z",
+    "summaryZh": "電動車製造商Rivian近日推出一項新功能，允許其車輛用戶完全禁用所有網路連接。此舉旨在賦予車主對車輛數據傳輸的更大控制權，回應了部分用戶對智慧車輛隱私保護的關注。透過此功能，用戶可以選擇切斷車輛與外部網路的連接，從而避免數據被收集或傳輸。儘管禁用網路可能影響部分依賴連線的服務或空中下載更新，但它為重視個人數據隱私的用戶提供了一個明確的選擇。此項更新為用戶提供了更全面的隱私管理選項，反映了Rivian對用戶數據隱私的重視。",
+    "summarizedAt": "2026-05-01T02:05:15.904Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T20:14:47.000Z",
+    "summaryZh": "法律人工智慧新創公司Legora近期估值達到56億美元，此一里程碑標誌著其與同業競爭者Harvey之間的市場競爭正日益白熱化。這兩家在法律AI領域快速崛起的公司，不僅各自成功募集了巨額資金，展現出強勁的成長潛力，更積極地將業務觸角伸向對方的核心市場。目前，雙方甚至展開了針鋒相對的廣告宣傳攻勢，試圖在用戶心智中建立主導地位。這場在法律科技前沿的雙雄對決，預計將持續重塑法律AI產業的格局與未來發展方向。",
+    "summarizedAt": "2026-05-01T02:05:24.940Z"
+  },
+  {
+    "link": "https://theupsellgame.com/",
+    "title": "The upsell game – Vercel upselling tactics revealed",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T20:02:35.000Z",
+    "summaryZh": "近期，關於Vercel平台向上銷售策略的討論浮出水面。Vercel作為一個廣受歡迎的網頁開發與部署平台，提供從個人開發者到企業的多種服務，其商業模式包含免費方案與多個付費層級。此次被揭示的策略，主要旨在引導免費方案用戶升級至付費訂閱，以獲取更高級的功能或更高的資源配額。據觀察，Vercel的某些使用限制或功能配置，在特定使用情境下可能促使用戶考慮升級，例如超出免費額度、需要團隊協作功能或更快的建置速度等。這些策略的具體實施方式，正透過用戶社群的分享與分析被逐漸揭示，引發了業界對於SaaS（軟體即服務）商業模式中免費增值（freemium）策略邊界，以及如何平衡用戶體驗與商業營收的廣泛討論。Vercel的此類做法，促使開發者與企業重新評估其平台選擇與成本效益。",
+    "summarizedAt": "2026-05-01T02:05:34.471Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T19:27:41.000Z",
+    "summaryZh": "OpenAI 宣布將逐步推出其網路安全測試工具 GPT-5.5 Cyber。這款基於其先進模型開發的工具，主要目標是協助網路安全領域的專業人士，進行系統與防禦機制的測試與強化。然而，OpenAI 初期將對此工具的存取權限實施嚴格限制，僅開放給被認定為「關鍵網路防禦者」的特定群體使用。此舉表明 OpenAI 在部署涉及潛在敏感應用的AI工具時，採取了謹慎且分階段的策略，旨在確保其在受控環境中被負責任地應用，並可能藉此收集初期回饋，為未來更廣泛的推廣奠定基礎。",
+    "summarizedAt": "2026-05-01T02:05:46.848Z"
+  },
+  {
+    "link": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+    "title": "Follow-up to Carrot disclosure: Forgejo",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T19:22:55.000Z",
+    "summaryZh": "開源程式碼託管平台Forgejo近日發布了關於此前代號為「Carrot」的安全漏洞的後續說明。該漏洞最初被揭露時，引起了社群對其潛在影響的關注。此次後續說明旨在提供更全面的技術細節，包括漏洞的具體性質、其觸發條件以及可能導致的風險。Forgejo團隊已迅速採取行動，發布了相應的修補程式版本，以解決此安全隱患。官方建議所有Forgejo用戶應盡快更新至最新版本，以確保其程式碼託管環境的安全。聲明中也闡明了該漏洞的實際影響範圍，並強調了其對特定配置或使用場景的潛在威脅。此次事件再次凸顯了開源專案在安全維護方面的持續挑戰與重要性，Forgejo承諾將繼續加強其安全審查流程，保障用戶資料與專案的完整性。",
+    "summarizedAt": "2026-05-01T02:05:55.717Z"
+  },
+  {
+    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "title": "Does Postgres Scale?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T18:45:22.000Z",
+    "summaryZh": "一篇科技新聞稿探討了開源資料庫系統PostgreSQL的擴展性問題，分析其在不同工作負載和資料規模下的性能表現與應對策略。文章指出，PostgreSQL透過垂直擴展（提升硬體資源）和水平擴展（增加伺服器節點）兩種主要方式來實現擴展。對於讀取密集型應用，PostgreSQL的內建複製功能（如串流複製）能有效提升讀取吞吐量與高可用性。然而，針對寫入密集型工作負載，則常需依賴更複雜的解決方案，例如分片（sharding）技術，儘管這會增加系統架構的複雜性。新聞稿也提及，PostgreSQL的活躍開源社群與豐富的第三方工具生態系統，為其擴展性提供了額外的支援，包括各種連接池、監控工具以及雲端服務供應商提供的託管解決方案。總體而言，文章認為PostgreSQL具備良好的擴展潛力，但其具體實現效果高度依賴於應用設計、資料模型、硬體配置以及所採用的擴展策略。",
+    "summarizedAt": "2026-05-01T02:06:05.039Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T18:20:03.000Z",
+    "summaryZh": "OpenAI近期宣布為其ChatGPT帳戶推出一系列新的進階安全保護措施。這些措施將以可選加入（opt-in）的形式提供給用戶，旨在進一步強化帳戶的安全性。作為這項新安全計畫的一部分，OpenAI已與知名的安全金鑰供應商Yubico建立合作夥伴關係。此合作意味著ChatGPT用戶未來將能利用Yubico提供的硬體安全金鑰，為其帳戶增添額外的多重驗證層級，從而有效降低未經授權存取的風險。此舉體現了OpenAI在提升平台安全標準方面的持續投入，以期為廣大用戶提供更為穩固與可靠的服務環境。",
+    "summarizedAt": "2026-05-01T02:06:10.766Z"
+  },
+  {
+    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "title": "Full-Text Search with DuckDB",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T18:14:18.000Z",
+    "summaryZh": "DuckDB 近期宣布推出其全文檢索功能，旨在讓使用者能直接在 DuckDB 環境中對非結構化文字資料執行高效能的檢索。這項功能透過專用擴充套件提供，利用倒排索引技術以優化查詢速度與效率。對於需要處理大量文字內容的應用場景，如文件搜尋、日誌分析或本地資料探索，此舉提供了顯著的便利性。此項新功能擴展了 DuckDB 作為嵌入式分析型資料庫的功能範疇，使其不再僅限於結構化資料的分析，而是能更全面地處理多種類型的資料。開發團隊強調其設計著重於效能與資源效率，旨在為使用者提供快速且輕量的全文檢索解決方案。使用者可透過現有的程式語言介面（如 Python、R）輕鬆整合與操作，預計將進一步提升 DuckDB 在資料處理與分析領域的應用彈性，並為開發者與資料科學家提供更全面的工具選項。",
+    "summarizedAt": "2026-05-01T02:06:19.657Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T18:03:57.000Z",
+    "summaryZh": "特斯拉執行長伊隆·馬斯克近日在法庭證詞中指出，他旗下的人工智慧公司xAI，在訓練其大型語言模型Grok時，曾利用了來自OpenAI的模型資料。此證詞揭示了業界對於模型「蒸餾」（distillation）技術的敏感性。所謂模型蒸餾，是指利用大型、高性能模型的輸出或知識來訓練更小、更高效的模型。目前，領先的人工智慧實驗室正積極尋求方法，以防止較小的競爭對手透過此類方式複製或借鑒其核心技術與模型成果。馬斯克的證詞使這項關於智慧財產權與技術借鑒的爭議，在快速發展的AI領域中再次成為焦點。",
+    "summarizedAt": "2026-05-01T02:06:26.353Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T17:53:53.000Z",
+    "summaryZh": "BioticsAI 執行長 Robhy Bustami 近期在 Build Mode 節目中，與 Isabelle Johannessen 探討了該公司在醫療健康領域的發展歷程。他分享了 BioticsAI 如何在高度監管的環境中運營，並成功獲得美國食品藥物管理局 (FDA) 批准及完成募資等重要里程碑。Bustami 強調，在醫療健康產業建立企業面臨諸多現實挑戰，包括應對繁瑣的行政程序與法規要求。此次對談深入剖析了 BioticsAI 在克服這些障礙的同時，如何有效激勵團隊士氣，並將創新理念轉化為實際成果的策略與經驗。",
+    "summarizedAt": "2026-05-01T02:06:35.021Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T17:46:54.000Z",
+    "summaryZh": "Google宣布將其Gemini AI助理整合至數百萬輛汽車中，此舉標誌著該公司正積極推動將更先進、具備自然對話能力的AI技術引入駕駛環境。透過Gemini，車輛的語音互動系統將能提供更精準、流暢的指令理解與回應，預計將提升駕駛者在操作導航、娛樂系統、通訊功能等方面的便利性與安全性。這項大規模的部署，不僅展現了Google在汽車科技領域的策略性布局，也反映出業界對於提升車載智慧化體驗的共同趨勢。未來，此類AI助理的普及，有望進一步改變人車互動模式，使駕駛體驗更加個人化與無縫，並可能引導汽車製造商在智慧座艙設計上投入更多資源，以滿足消費者對高階AI功能的需求。",
+    "summarizedAt": "2026-05-01T02:06:44.360Z"
+  },
+  {
+    "link": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+    "title": "Recovering files from beyond the grave using PhotoRec",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T17:42:11.000Z",
+    "summaryZh": "PhotoRec 是一款開源的資料恢復工具，專為從嚴重損壞或格式化的儲存媒體中恢復文件而設計。即使文件系統資訊已丟失，PhotoRec 也能透過檔案簽名識別並恢復多種文件類型。這為面臨資料遺失困境的用戶提供了一種強大的解決方案，尤其是在傳統恢復方法失效時。作為一款免費且開源的軟體，PhotoRec 在專業資料恢復領域佔有一席之地，其強大的功能使其能夠處理許多看似無法挽回的資料遺失情況，為用戶找回數位資產。",
+    "summarizedAt": "2026-05-01T02:06:53.349Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+    "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T17:15:19.000Z",
+    "summaryZh": "支付科技公司Stripe近期推出了一款名為Link的數位錢包服務。Link的核心功能在於允許用戶綁定其銀行卡、銀行帳戶及各類訂閱服務，並能進一步授權自主AI代理透過預設的審批流程進行安全支付。這項創新旨在為AI代理提供一個受控且安全的交易介面，使其能夠在用戶監督下執行消費行為。此舉標誌著數位支付領域向支援AI驅動的自動化交易邁出了重要一步，預計將對未來AI應用與商業活動的結合產生影響。",
+    "summarizedAt": "2026-05-01T02:06:58.572Z"
+  },
+  {
+    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "title": "I built a Game Boy emulator in F#",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T17:14:21.000Z",
+    "summaryZh": "一名開發者利用F#程式語言，成功開發出一款Game Boy模擬器。此專案突顯了F#在處理複雜邏輯與系統建構方面的能力，特別是在需要精確模擬硬體行為的應用場景中。儘管新聞稿僅簡要提及此開發成果，但並未提供關於該模擬器的具體技術細節，例如其運行效率、相容性範圍，或是否已公開原始碼供社群檢視。這類基於特定語言的個人開發實踐，通常能為該語言的生態系統提供新的應用案例與技術探索方向。",
+    "summarizedAt": "2026-05-01T02:07:06.808Z"
+  },
+  {
+    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "title": "CopyFail was not disclosed to distro developers?",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T16:43:47.000Z",
+    "summaryZh": "近期有消息指出，一項被稱為「CopyFail」的潛在問題或漏洞，據稱並未及時向主要的Linux發行版開發者進行披露。此一情況引發了業界對於資訊安全透明度及協作機制的關注，特別是考量到此類問題可能對廣大用戶系統構成潛在的安全風險。若關鍵漏洞未能提前知會發行版開發團隊，將可能延遲相關修補程式的開發與部署，進而延長用戶系統暴露於風險中的時間。在開源軟體生態系中，及時且充分的漏洞披露被視為確保整體安全性的關鍵環節，有助於各方協同應對威脅。目前，相關討論主要集中在確認「CopyFail」的具體性質、未披露的原因，以及未來如何改進漏洞管理與溝通流程，以避免類似事件再次發生。",
+    "summarizedAt": "2026-05-01T02:07:15.311Z"
+  },
+  {
+    "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T16:41:00.000Z",
+    "summaryZh": "前AT&T技術員馬克·克萊因向電子前哨基金會（EFF）揭露了有關「641A房間」的關鍵資訊。該房間位於AT&T舊金山的一處設施內，據稱是美國國家安全局（NSA）用於大規模監控網際網路通訊的秘密場所。克萊因作為內部吹哨人，提供了詳細證據，指控AT&T與NSA合作，允許政府機構直接存取並分析流經其網路的數據。這項揭露在2006年前後引起廣泛關注，成為美國政府大規模監控計畫的早期公開證據之一，引發了對公民隱私權與國家安全界限的激烈辯論。EFF隨後依據克萊因提供的資訊，對AT&T和美國政府提起了多項訴訟，旨在挑戰此類無證監控行為的合法性。此事件凸顯了電信公司在國家監控體系中的潛在角色，並對後續關於數據隱私、企業責任及政府透明度的討論產生了深遠影響。相關細節常透過書籍或調查報告被重新審視，以紀念這段重要的科技與公民權利抗爭史。",
+    "summarizedAt": "2026-05-01T02:07:23.904Z"
+  },
+  {
+    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T16:09:26.000Z",
+    "summaryZh": "資安研究人員近日在廣泛使用的人工智慧訓練函式庫PyTorch Lightning中，偵測到一個名為「Shai-Hulud」的惡意軟體。這起事件被定性為供應鏈攻擊，其惡意程式碼被植入到該函式庫的特定版本中。初步分析顯示，該惡意軟體旨在竊取開發者的敏感資訊，例如憑證、API金鑰，並可能建立後門，允許攻擊者遠端執行任意程式碼，進而危及使用者的系統安全。受影響的主要是依賴PyTorch Lightning進行AI模型開發與訓練的廣大開發者社群。為應對此威脅，相關單位已建議所有PyTorch Lightning使用者立即檢查其安裝環境，確認是否使用了受感染的版本，並儘速升級至已修復的安全版本。此事件再次凸顯了開源軟體供應鏈中潛在的資安風險，提醒開發者在整合第三方函式庫時需保持高度警惕，並實施嚴格的安全審查機制。",
+    "summarizedAt": "2026-05-01T02:07:32.818Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+    "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T16:06:49.000Z",
+    "summaryZh": "Salesforce公司正透過與其企業客戶合作，共同制定其人工智慧（AI）產品發展藍圖。此舉旨在透過「群眾外包」模式，讓客戶的實際需求和痛點引導AI產品的研發方向。Salesforce認為，若某一個企業客戶面臨特定的業務挑戰或需求，其他類似規模或產業的客戶很可能也會遇到相同的問題。這種以客戶為中心的策略，旨在確保Salesforce所開發的AI解決方案能夠更精準地解決企業用戶的實際痛點，提升產品的市場相關性和實用性。透過直接採納客戶的意見，Salesforce期望能加速推出符合市場期待、能有效提升企業營運效率的創新AI功能，進一步鞏固其在企業級雲端軟體市場的領導地位。",
+    "summarizedAt": "2026-05-01T02:07:39.282Z"
+  },
+  {
+    "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T15:31:40.000Z",
+    "summaryZh": "西班牙議會將針對西甲聯賽實施的大規模IP封鎖採取行動。此舉源於西甲為打擊非法內容侵權及盜版串流，對涉嫌侵權的IP地址進行廣泛封鎖。然而，這些大規模封鎖措施引發了關於其合法性、比例原則及對網路自由潛在影響的擔憂。議會的介入旨在審查並可能規範此類反盜版行動的範圍與方式，確保在保護版權的同時，不損害用戶權益或超出既有法律框架。此發展預計將對西班牙境內數位內容的版權執行與網路監管政策產生深遠影響。",
+    "summarizedAt": "2026-05-01T02:07:48.794Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "title": "X announces a rebuilt ad platform powered by AI",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T15:14:55.000Z",
+    "summaryZh": "科技公司 X 近期宣布，已全面推出一個經過重新建構的廣告平台。該平台的核心驅動力是先進的人工智慧技術，旨在顯著提升廣告投放的效率、精準度與個性化程度。透過整合AI的強大分析與學習能力，X 期望能為廣告主提供更智慧、更具成效的廣告解決方案，從而優化廣告活動的整體表現，並擴大目標受眾的觸及範圍。此舉被視為 X 公司為扭轉營收趨勢、重新實現增長所採取的關鍵戰略步驟之一。這項技術升級不僅反映了 X 在廣告業務領域的深層次投入，也預示著其正積極利用前沿科技來強化核心競爭力，以期在數位廣告市場中鞏固並擴大其市場份額。",
+    "summarizedAt": "2026-05-01T02:07:58.468Z"
+  },
+  {
+    "link": "https://honker.dev/",
+    "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T14:43:02.000Z",
+    "summaryZh": "一份技術發布指出，SQLite 資料庫現已能支援持久化隊列、數據流、發布/訂閱模式及定時任務調度器等功能。這項進展意味著，過去常需獨立系統或複雜架構實現的訊息傳遞與任務管理機制，如今可直接整合於輕量級的 SQLite 文件內部。此舉有望大幅簡化應用程式的部署與維護，特別適用於嵌入式系統、邊緣運算或單一文件解決方案的場景。透過將這些核心功能內建於 SQLite，開發者能以更低的資源消耗和更便捷的方式，構建具備高可靠性與彈性的應用。",
+    "summarizedAt": "2026-05-01T02:08:08.313Z"
+  },
+  {
+    "link": "https://twitter.com/theo/status/2049645973350363168",
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T14:36:58.000Z",
+    "summaryZh": "近期有用戶在評論中指出，人工智慧程式碼助手Claude Code，在處理包含特定字串「OpenClaw」的提交訊息時，會拒絕請求或額外收費。此現象引發了開發者社群的關注，因為這可能導致用戶面臨預期外的費用或服務中斷。目前，Anthropic（Claude Code的開發者）尚未就此行為提供官方解釋，也未說明「OpenClaw」字串觸發此反應的原因。該情況的具體性質，無論是系統設計、錯誤，還是內容過濾機制的一部分，仍有待釐清。",
+    "summarizedAt": "2026-05-01T02:08:15.944Z"
+  },
+  {
+    "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+    "title": "How an oil refinery works",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T13:54:20.000Z",
+    "summaryZh": "煉油廠作為工業設施，主要功能是將原油轉化為多種石油產品。其核心工藝是分餾，利用原油中不同組分的沸點差異進行分離：原油經加熱後進入分餾塔，較輕組分上升凝結，較重組分則在塔底收集。主要產物涵蓋汽油、柴油、航空燃油、液化石油氣、潤滑油、瀝青及石化工業原料。為提升產品品質與產量，煉油廠亦採用裂化、重整、加氫處理等二次加工技術，將重質油轉化為高價值輕質產品並去除雜質。煉油廠在全球能源供應鏈中扮演關鍵角色，為交通、工業及日常生活提供燃料與化學品，其運作效率與技術進步對全球經濟及環境永續發展具重要影響。",
+    "summarizedAt": "2026-05-01T02:08:27.290Z"
+  },
+  {
+    "link": "https://bidprowl.com",
+    "title": "I aggregated 28 US Government auction sites into one search",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T12:24:53.000Z",
+    "summaryZh": "一位開發者近期宣布，他已成功將美國政府旗下共計28個拍賣網站的數據與功能整合至一個單一的搜尋平台。此項技術實現旨在大幅簡化公眾及潛在買家搜尋政府拍賣物品的流程，解決了過去需要分別訪問多個獨立網站才能獲取資訊的痛點。透過此集中式入口，用戶現在能夠以統一介面，高效地查詢來自不同聯邦機構的拍賣清單，顯著提升了資訊的可訪問性與搜尋效率。這項創新預計將為參與政府資產拍賣的個人與企業提供更便捷的途徑，進而可能促進市場的透明度與交易的活躍性。",
+    "summarizedAt": "2026-05-01T02:08:34.675Z"
+  },
+  {
+    "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "source": "Hacker News",
+    "pubDate": "2026-04-30T12:17:14.000Z",
+    "summaryZh": "比利時政府近日宣布，將停止原定於2025年實施的核電廠退役計畫。此舉意味著該國兩座核反應爐，即蒂昂日3號（Tihange 3）和杜爾4號（Doel 4），將延長運營壽命十年，直至2035年。這項政策轉變主要源於當前歐洲面臨的能源危機，特別是俄烏戰爭導致的天然氣供應不確定性及能源價格飆升。比利時政府期望透過延長核電廠的運營，確保國家能源供應的穩定性與安全性，降低對進口化石燃料的依賴。據悉，比利時政府已與核電廠運營商Engie達成初步協議，以推進此項延壽計畫。此前，比利時曾承諾在2025年前逐步淘汰所有核能發電。此次決定標誌著比利時在能源轉型路徑上的重大調整，優先考量能源安全與供應韌性。",
+    "summarizedAt": "2026-05-01T02:08:42.886Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+    "title": "Meta says its business AI now facilitates 10 million conversations a week",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T12:08:45.000Z",
+    "summaryZh": "Meta 公司近期表示，其商業人工智慧（AI）工具目前每週促成 1,000 萬次對話。此外，該公司進一步指出，已有超過 800 萬廣告商使用了其至少一種生成式人工智慧（GenAI）工具。這些數據突顯了 Meta 在商業應用領域推廣 AI 技術的進展，並顯示其 AI 解決方案在廣告商社群中的採用率正在提升。此舉旨在協助企業用戶提升溝通效率與廣告內容生成能力，進而優化其在 Meta 平台上的營銷活動。",
+    "summarizedAt": "2026-05-01T02:08:51.086Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-04-30T03:58:22.000Z",
+    "summaryZh": "軟銀集團正著手成立一家新的機器人公司，其核心業務將聚焦於建設資料中心。此舉旨在運用機器人技術，加速人工智慧所需基礎設施的部署。據悉，這家新公司已將目標鎖定在估值高達1000億美元的首次公開募股（IPO）。這項策略反映出，隨著人工智慧和機器人技術的快速發展，對高效能運算基礎設施的需求持續增長。同時，這也暗示了人工智慧和機器人不僅是基礎設施的受益者，也將成為其建設過程中的關鍵推動力量，形成一個相互促進的生態系統。",
+    "summarizedAt": "2026-05-01T02:08:57.145Z"
+  },
+  {
     "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
     "title": "J. Craig Venter, genomics pioneer and founder of JCVI, dies at 79",
     "source": "Hacker News",
