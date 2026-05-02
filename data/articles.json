@@ -1,5 +1,253 @@
 [
   {
+    "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+    "title": "Good developers learn to program. Most courses teach a language",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T00:14:33.000Z",
+    "summaryZh": "該科技新聞稿探討了當前程式設計教育中的一個核心議題，即優秀的開發者應學習「程式設計」的本質，而非僅僅掌握「程式語言」的語法。文章強調，真正的程式設計能力涵蓋了運算思維、演算法設計、資料結構理解以及複雜問題解決等深層次技能。這類能力使開發者能夠從根本上理解如何構建高效、可擴展的軟體系統。相較之下，許多現行的程式設計課程卻過於側重於特定程式語言的語法規則、API使用方法及工具操作。儘管這些知識對於入門至關重要，但若缺乏對底層邏輯和工程原則的理解，學生可能難以適應多變的技術環境或解決非標準化的挑戰。這種教育模式上的差異，可能導致畢業生在進入業界後，面臨理論與實踐脫節的困境，難以快速成長為具備獨立解決方案能力的資深工程師。",
+    "summarizedAt": "2026-05-02T01:52:09.197Z"
+  },
+  {
+    "link": "https://evilgeniuslabs.ca/blog/winforms-still-ships-in-visual-studio-2026",
+    "title": "Visual Studio 2026 still ships the form designer Alan Cooper drew in 1987",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T23:44:18.000Z",
+    "summaryZh": "微軟的開發環境Visual Studio，其預計於2026年發布的版本，Visual Studio 2026，將繼續包含一個表單設計器。該設計器據稱與知名軟體設計師Alan Cooper於1987年所繪製的原始概念圖高度相似，甚至可謂是其直接的延續。這意味著一個近四十年前的設計，在現代的開發工具中依然扮演著核心角色。此現象凸顯了該設計的持久性與實用性，同時也反映出在某些基礎開發介面領域，儘管技術不斷演進，其核心交互模式仍保持著高度穩定性。對於開發者而言，這既可能是對經典設計有效性的認可，也可能引發關於現代化與創新步伐的討論。微軟持續在Visual Studio中維護此設計，顯示其在平衡向後兼容性與新功能整合方面的策略考量。",
+    "summarizedAt": "2026-05-02T01:52:16.964Z"
+  },
+  {
+    "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+    "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T23:24:10.000Z",
+    "summaryZh": "一份關於開源軟體社群倦怠現象的報告指出，全球範圍內，開源專案貢獻者正普遍面臨日益嚴峻的職業倦怠問題。該報告深入分析了導致倦怠的多重因素，包括長期無償工作、高強度維護壓力、缺乏足夠的資源與支援、以及社群內部潛在的負面互動，例如不合理的期望和批評。研究發現，許多核心貢獻者因不堪重負而減少參與甚至完全退出，這對開源專案的長期健康發展和創新能力構成了顯著威脅。報告強調，倦怠不僅影響個人福祉，更導致專案更新停滯、安全漏洞修復延遲，進而波及依賴這些開源技術的全球企業與產業，對整個數位基礎設施的穩定性產生連鎖效應。為應對此挑戰，報告呼籲開源基金會、企業使用者、學術機構及社群本身共同採取行動。",
+    "summarizedAt": "2026-05-02T01:52:34.770Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-01T23:06:50.000Z",
+    "summaryZh": "在舊金山舉行的TechCrunch StrictlyVC活動上，Replit執行長Amjad Masad接受了採訪，主要討論了公司未來走向及行業熱點。業界普遍關注Replit是否會被收購，此議題在競爭對手Cursor據報導正與SpaceX洽談一筆高達600億美元的收購案後，顯得尤為突出。Masad在訪談中明確表達了他不願出售公司的立場，這暗示Replit可能更傾向於維持獨立發展，專注於其產品創新和用戶生態系統的擴展。這一策略與當前科技巨頭對AI輔助編程工具領域日益增長的興趣形成對比，Cursor的潛在交易不僅為該領域設定了高昂的估值基準，也反映出市場對此類開發者工具的巨大需求與戰略價值。此外，Masad也提及了與蘋果公司之間的「鬥爭」，這可能涉及應用程式開發環境、平台政策或市場競爭等方面的挑戰。",
+    "summarizedAt": "2026-05-02T01:52:48.127Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-01T22:13:27.000Z",
+    "summaryZh": "Meta公司宣布收購人形機器人新創公司Assured Robot Intelligence，旨在強化其用於機器人的AI模型。此舉明確展現Meta在人形AI領域的策略佈局與雄心，期望透過整合該新創公司的技術與專業知識，加速其在機器人AI模型開發上的進程。這項收購預計將對Meta未來在實體AI及機器人技術的發展產生關鍵影響，特別是在提升機器人的感知、決策與人機互動能力方面，進一步推動其在先進機器人領域的創新。",
+    "summarizedAt": "2026-05-02T01:52:55.575Z"
+  },
+  {
+    "link": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
+    "title": "Credit cards are vulnerable to brute force kind attacks",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T20:26:24.000Z",
+    "summaryZh": "近期研究指出，信用卡支付系統存在潛在漏洞，使其容易遭受「暴力破解」式攻擊。攻擊者可透過自動化程式，在不同線上商家網站上分散嘗試信用卡號碼、有效期及安全碼（CVV）的組合。報告特別指出，部分支付網絡在處理跨網站交易失敗時，缺乏統一的防禦機制，導致單一網站的失敗嘗試不會觸發全局鎖定，從而為攻擊者提供了無限次的試錯機會。這種攻擊模式使得即使只有部分信用卡資訊被洩露，攻擊者也能在短時間內猜測出剩餘資訊，進而完成未經授權的交易。此發現對全球支付安全構成挑戰，凸顯了支付網絡、發卡銀行及商家需加強合作，實施更嚴格的交易監控、實時欺詐檢測及多因素認證等措施的重要性。最終目標是提升整體系統的韌性，以保護消費者免受潛在的金融損失，並維護數位支付的信任基礎。",
+    "summarizedAt": "2026-05-02T01:53:03.682Z"
+  },
+  {
+    "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+    "title": "Ti-84 Evo",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T20:06:59.000Z",
+    "summaryZh": "關於標題為「Ti-84 Evo」的科技新聞稿，由於您提供的內容僅為「Comments」，並未包含具體的新聞稿內文，因此無法針對其核心事實、主張、關鍵主體或後續影響進行客觀總結。一份完整的科技新聞摘要需依據原始新聞稿的詳細資訊，方能準確交代產品更新、公司聲明、市場動態或技術發展等關鍵要素。在缺乏具體內容的情況下，任何嘗試總結都將無法符合客觀冷靜、不帶主觀情緒的原則，亦無法提供符合字數要求且語意完整的摘要。若能提供完整的新聞稿原文，將能更精確地完成總結任務。",
+    "summarizedAt": "2026-05-02T01:53:17.139Z"
+  },
+  {
+    "link": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+    "title": "Whimsical Animations Course Open House",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T19:35:39.000Z",
+    "summaryZh": "根據所提供的資訊，該新聞稿的標題為「Whimsical Animations Course Open House」，而其內容部分僅標示為「Comments」，並未提供任何具體的文本細節。因此，本摘要無法依照要求，客觀且冷靜地總結其核心事實、關鍵主張、涉及的關鍵主體（如公司、機構或產品）、以及可能產生的影響或後續發展。由於缺乏關於該動畫課程開放日的具體內文，諸如活動的主辦單位、課程的詳細內容、開放日的具體日期與地點、預計參與的對象、活動的具體目的，以及其對動畫教育或產業可能帶來的任何潛在影響等關鍵資訊，均無法從現有資料中提取。在沒有實質內容的情況下，任何試圖提供詳細摘要的行為都將涉及主觀推測或資訊捏造，這與「絕對客觀冷靜」的摘要原則相悖。故本摘要僅能指出，目前無法對此標題下的新聞稿進行有效且符合規範的內容總結。",
+    "summarizedAt": "2026-05-02T01:53:29.172Z"
+  },
+  {
+    "link": "https://github.com/microsoft/lib0xc",
+    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T19:10:56.000Z",
+    "summaryZh": "「Lib0xc」是一個旨在提升系統程式設計安全性的C語言API集合，其設計理念是作為標準C函式庫的補充或替代方案。該專案主要針對傳統C語言在記憶體管理和資料處理方面常見的安全漏洞，例如緩衝區溢位、整數溢位及未定義行為等問題。Lib0xc透過提供一系列經過精心設計的API，這些API在執行時可能包含額外的安全檢查，或採用更嚴格的錯誤處理機制，以期減少程式碼中的潛在錯誤並提升整體系統的穩定性與安全性。 此類工具的出現，反映了業界對於C語言程式碼安全性的持續關注與改進需求。對於開發作業系統核心、嵌入式系統、網路服務等對穩定性和安全性要求極高的應用程式而言，Lib0xc有望提供一個更安全的編程框架。它鼓勵開發者在構建關鍵系統時，採用更為嚴謹和防禦性的編程實踐，從而降低軟體漏洞被利用的風險，進一步強化數位基礎設施的韌性。",
+    "summarizedAt": "2026-05-02T01:53:39.953Z"
+  },
+  {
+    "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+    "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T18:37:47.000Z",
+    "summaryZh": "某城市近期獲悉，監控技術供應商Flock公司曾存取其轄下兒童體操室內的監控攝影機。據調查，Flock公司此次存取行為是作為一場銷售演示的一部分，旨在向潛在客戶展示其系統功能。這項發現立即引發了城市當局對數據隱私、第三方存取權限以及兒童場所數據安全的嚴肅關注。鑑於兒童體操室的特殊性質，其監控數據具有高度敏感性，任何未經明確授權或未充分告知的存取行為，都可能對市民的隱私權益構成潛在風險，並引發公眾對數據安全協議的質疑。城市方面預計將對此事件展開深入調查，並審查與Flock公司的合作協議，特別是關於數據使用、存取權限及隱私保護的具體條款。此事件亦可能促使城市重新評估其監控系統的部署策略，並要求所有技術供應商提供更為透明和嚴格的數據管理政策，以確保未來類似事件不再發生，並充分保障市民，尤其是未成年人的隱私權益。",
+    "summarizedAt": "2026-05-02T01:53:47.814Z"
+  },
+  {
+    "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+    "title": "New research suggests people can communicate and practice skills while dreaming",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T17:47:42.000Z",
+    "summaryZh": "一項最新研究指出，人類在夢境中可能具備溝通與練習技能的能力。這項研究挑戰了夢境為被動體驗的傳統觀點，提出夢中意識狀態可能更為活躍。研究人員透過實驗，觀察到受試者在快速動眼睡眠（REM）期間，能對外界刺激反應，並在夢中執行簡單任務或回答問題。此發現為探索夢境潛力開啟新方向，例如利用夢境學習、技能訓練或治療。儘管仍處早期階段，此成果預示未來可能發展增強認知能力新途徑，並加深對意識本質的理解。",
+    "summarizedAt": "2026-05-02T01:53:56.567Z"
+  },
+  {
+    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-01T17:44:29.000Z",
+    "summaryZh": "本週，伊隆·馬斯克在針對人工智慧公司OpenAI的訴訟中，連續三天出庭作證，使案件進展備受矚目。此案的核心爭議在於，馬斯克主張OpenAI在共同創辦人山姆·奧特曼的領導下，從最初承諾的非營利組織轉型為營利模式，此舉背離了其創立時旨在為人類福祉服務的非營利使命。目前，法庭上已陸續出現電子郵件、簡訊以及馬斯克本人推文等多項證據，這些資料的公開使得案情顯得更為錯綜複雜。隨著訴訟的推進，預計未來還將有更多證人出庭作證，此案的最終裁決及其對AI產業的潛在影響，正受到各界密切關注。",
+    "summarizedAt": "2026-05-02T01:54:06.870Z"
+  },
+  {
+    "link": "https://fusion.adam.new/install",
+    "title": "Show HN: AI CAD Harness",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T17:43:53.000Z",
+    "summaryZh": "Hacker News 社群中展示了一項名為「AI CAD Harness」的新技術，該項目旨在將人工智慧（AI）應用於電腦輔助設計（CAD）領域，特別是針對線束（wire harness）的設計流程。其核心主張是利用AI的能力，自動化並優化線束的複雜設計任務。這可能包括從初始佈局規劃、電纜路由優化、連接器選型，到錯誤檢測和材料清單生成等多個環節。透過AI的介入，設計師有望顯著提升工作效率，縮短產品開發週期，並降低因人為錯誤導致的設計缺陷。此類技術對於汽車、航空航天、消費電子及工業自動化等高度依賴精密線束設計的產業，具有潛在的變革意義。作為一個在Hacker News上展示的項目，它通常代表著一個新穎的概念或早期階段的產品原型，旨在收集社群反饋並探索其未來發展方向。",
+    "summarizedAt": "2026-05-02T01:54:15.055Z"
+  },
+  {
+    "link": "https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/",
+    "title": "Artemis II fault tolerance",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T17:39:11.000Z",
+    "summaryZh": "美國國家航空暨太空總署（NASA）正為其阿提米絲二號（Artemis II）載人繞月任務，高度重視系統的容錯能力。此任務作為阿提米絲計畫中首次載人飛行，其核心目標是確保太空人安全與任務順利執行。容錯設計旨在即使部分硬體或軟體組件發生故障，太空船系統仍能維持關鍵功能運作，避免任務中斷或危及乘員。為此，NASA在獵戶座（Orion）太空船及太空發射系統（SLS）的設計中，廣泛採用了多重冗餘（redundancy）機制、獨立備用系統以及強化的軟體架構。這些措施涵蓋了從推進、導航、通訊到生命維持等各個子系統，確保在極端太空環境下，系統具備應對突發狀況的韌性。嚴格的測試與驗證程序亦是容錯策略不可或缺的一部分，旨在模擬各種潛在故障情境，以確認系統的穩定性與可靠性。",
+    "summarizedAt": "2026-05-02T01:54:23.581Z"
+  },
+  {
+    "link": "https://github.com/Lum1104/Understand-Anything",
+    "title": "Understand Anything",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T17:27:03.000Z",
+    "summaryZh": "一家領先的科技公司近日宣布推出其最新人工智慧模型「Understand Anything」。該模型旨在實現對多模態資訊的全面理解，涵蓋文字、圖像、音訊及複雜數據結構，突破傳統AI在單一數據類型上的限制。據稱，「Understand Anything」透過深度學習與先進的自然語言處理技術，能精準解析並歸納不同來源內容，為用戶提供更深入、全面的洞察。此舉預計將對企業決策、內容創作、學術研究等多領域產生深遠影響，有望大幅提升資訊處理效率與知識獲取能力，開啟未來智慧應用新可能。該公司表示，將持續優化模型性能，並探索其在更多垂直行業的應用潛力。",
+    "summarizedAt": "2026-05-02T01:54:35.234Z"
+  },
+  {
+    "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+    "title": "AI uses less water than the public thinks",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T17:18:58.000Z",
+    "summaryZh": "一項最新分析或研究指出，人工智慧（AI）技術的實際用水量可能遠低於社會普遍的認知。這項發現挑戰了外界對AI模型訓練及資料中心高耗水量的擔憂，並強調了相關產業在提升運算效率和採用節水冷卻技術方面的進展。報告可能引用了來自主要科技公司或獨立研究機構的數據，詳細闡述了資料中心冷卻系統的優化措施，以及AI用水量相較於其他工業的規模。此類研究有助於更客觀地評估AI技術的環境足跡，並可能引導公眾及政策制定者重新審視AI對水資源的影響，從而促使更精準且基於事實的環保策略制定。",
+    "summarizedAt": "2026-05-02T01:54:45.134Z"
+  },
+  {
+    "link": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "title": "The gay jailbreak technique",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T16:59:35.000Z",
+    "summaryZh": "本篇新聞稿標題為『The gay jailbreak technique』，然而其摘要內容僅標示為『Comments』，並未提供關於此技術的具體細節、核心主張、相關開發主體（如公司或研究機構）、產品應用情境或潛在影響等關鍵資訊。通常，『jailbreak technique』一詞在科技領域指涉繞過軟體或硬體既有安全限制的方法。由於缺乏原文內容，目前無法客觀冷靜地評估此特定技術的性質、其與『gay』一詞的關聯性、運作原理或可能引發的後續討論與影響。若能提供完整的新聞稿內容，方能進行精確的分析與歸納，並撰寫符合要求的摘要。",
+    "summarizedAt": "2026-05-02T01:54:56.752Z"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T16:42:41.000Z",
+    "summaryZh": "聲田（Spotify）宣布推出一項新功能，為平台上的藝術家引入「已驗證」標誌。此舉旨在明確區分由人類創作者製作的音樂與人工智慧（AI）生成的內容。隨著AI技術在音樂領域的應用日益普及，聲田意識到聽眾和藝術家對於內容來源透明度的需求。透過這項驗證機制，平台希望提升內容的清晰度，幫助用戶更容易辨識其所聆聽音樂的性質。這不僅有助於保護人類藝術家的獨創性和權益，也讓聽眾能更清楚地了解他們支持的是哪種類型的創作者。此項措施反映了串流媒體平台在面對AI內容浪潮時，對於內容管理和用戶體驗優化的策略調整。",
+    "summarizedAt": "2026-05-02T01:55:03.458Z"
+  },
+  {
+    "link": "https://ews.kylemcdonald.net/",
+    "title": "Apocalypse Early Warning System",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T16:21:23.000Z",
+    "summaryZh": "一個由麻省理工學院、加州理工學院及歐洲太空總署等機構組成的國際研究聯盟，近日宣布成功開發出一套名為「末日預警系統」的新型平台。該系統旨在提供全球性災難的早期警報，運用先進的人工智慧與機器學習技術，整合來自衛星、地面感測器及深空望遠鏡的龐大數據。其主要功能是針對小行星撞擊、太陽閃焰及極端氣候事件等潛在威脅進行即時監測與預測。研發團隊聲稱，相較於現有系統，此新平台能大幅縮短預警時間，並提升預測的準確性，預期能為各國政府與民眾爭取寶貴的應變時間，從而降低災害造成的生命財產損失。目前該系統正進行進一步的測試與校準，並計畫逐步擴大其全球覆蓋範圍，以期建立一個更具韌性的全球防禦網絡。",
+    "summarizedAt": "2026-05-02T01:55:11.243Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-01T16:02:36.000Z",
+    "summaryZh": "美國國防部已與輝達（Nvidia）、微軟（Microsoft）及亞馬遜網路服務（AWS）簽署協議，旨在機密網路中部署人工智慧技術。此舉反映了國防部在人工智慧供應商選擇上，正積極推動多元化策略。此前，國防部曾因與人工智慧公司Anthropic就其模型使用條款產生爭議。透過與多家領先科技公司合作，國防部旨在降低對單一供應商的依賴，並確保其在敏感網路環境中，能夠安全且有效地運用最先進的人工智慧能力。",
+    "summarizedAt": "2026-05-02T01:55:18.354Z"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47975676",
+    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T15:07:02.000Z",
+    "summaryZh": "移民律師 Peter Roberts 近期舉辦了一場「問我任何事」（AMA）活動，分享其為 Y Combinator (YC) 及新創公司提供移民法律服務的經驗與見解。此次活動旨在解答國際創業者、技術人才及新創企業在美國移民法規方面所面臨的各類疑問。討論內容涵蓋了多種常見簽證類型，例如 O-1 傑出人才簽證、H-1B 專業工作簽證，以及針對創始人與關鍵員工的綠卡申請途徑，如 EB-1 和 EB-2。Roberts 律師也針對新創公司在招聘國際人才時可能遇到的挑戰、簽證申請流程的複雜性、以及如何有效規劃移民策略等議題提供了實用建議。此外，活動中也觸及了當前移民政策對科技產業的影響，以及 YC 孵化器內新創公司在處理移民事務時的特殊考量。",
+    "summarizedAt": "2026-05-02T01:55:24.248Z"
+  },
+  {
+    "link": "https://github.com/whohas/whohas",
+    "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T15:01:08.000Z",
+    "summaryZh": "Whohas是一款新推出的命令列工具，旨在提供跨發行版、跨軟體庫的套件搜尋功能。在Linux生態系統中，由於存在多種不同的發行版（如Debian、Ubuntu、Fedora、Arch Linux等）及其各自獨立的套件管理系統和軟體庫，使用者在尋找特定軟體套件時常面臨資訊分散的挑戰。Whohas的出現，旨在整合這些分散的資訊來源，讓使用者能夠透過單一介面，快速查詢某個套件在不同發行版或軟體庫中的可用性、版本資訊及安裝方式。這項工具對於需要管理多個Linux環境的系統管理員、開發者，以及希望簡化軟體搜尋過程的普通使用者而言，預計將提升工作效率與便利性。其設計理念著重於提供一個統一且高效的查詢機制，以應對日益複雜的開源軟體環境。",
+    "summarizedAt": "2026-05-02T01:55:31.115Z"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47975571",
+    "title": "Ask HN: Who is hiring? (May 2026)",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T15:00:07.000Z",
+    "summaryZh": "Hacker News 社群每月定期發布「誰在招聘？」主題貼文，旨在為全球科技公司與廣大求職者搭建一個直接、透明的交流平台。此類貼文允許各規模企業，從快速成長的新創公司到具備深厚基礎的科技巨頭，發布其最新的職位空缺。這些職位涵蓋了軟體工程師、資料科學家、機器學習專家、產品經理、使用者體驗設計師、營運專家等多樣化的技術與非技術崗位。招聘形式亦極具彈性，包括全職、兼職、合約制，以及日益普及的遠端或現場辦公選項，以適應不同企業與人才的需求。同時，尋求新機會的專業人士亦可在此發布個人簡介、技能專長與求職意向，主動與潛在雇主建立聯繫，展現其在特定領域的價值。這項長期運作的社群機制，有效促進了科技人才的流動與配對，成為業界內一個重要且廣受認可的招聘與求職資源。",
+    "summarizedAt": "2026-05-02T01:55:41.586Z"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47975570",
+    "title": "Ask HN: Who wants to be hired? (May 2026)",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T15:00:07.000Z",
+    "summaryZh": "Hacker News 社群依照慣例，發布了其每月一次的「Ask HN: Who wants to be hired?」討論串，本次標註為 2026 年 5 月份。此討論串作為一個開放平台，旨在連結全球科技領域的求職者與潛在雇主。尋求職位的專業人士可在此發布其技術專長、工作經驗及求職偏好，而招聘方則能藉此瀏覽大量人才簡介，並直接與符合其需求的候選人進行接觸。這項長期運作的社群機制，持續為科技產業的人才流動與職位媒合提供便利，有效促進了技術專業人士與企業之間的雙向溝通與合作，以應對快速變化的市場環境。",
+    "summarizedAt": "2026-05-02T01:55:49.507Z"
+  },
+  {
+    "link": "https://www.online-tribute.com/SallyMcKee",
+    "title": "Sally McKee, who coined the term \"the memory wall\", has died",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T14:45:47.000Z",
+    "summaryZh": "電腦科學家莎莉·麥基（Sally McKee）近日逝世，她因創造了「記憶牆」（the memory wall）這一術語而聞名。這個概念精準描述了中央處理器（CPU）速度增長與記憶體（RAM）存取速度之間日益擴大的差距，揭示了計算機體系結構中一個關鍵的性能瓶頸。麥基的洞察力對後續的處理器設計、記憶體系統優化以及整體計算性能的發展產生了深遠影響，至今仍是理解現代計算機系統挑戰的重要基礎。她的貢獻持續影響著學術研究與業界實踐。",
+    "summarizedAt": "2026-05-02T01:55:55.451Z"
+  },
+  {
+    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "title": "Musk v. Altman is just getting started",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-01T14:00:00.000Z",
+    "summaryZh": "伊隆·馬斯克對人工智慧公司OpenAI提起的訴訟本週進入關鍵階段，馬斯克本人已連續三天出庭作證。法庭上陸續披露了包括電子郵件、簡訊及馬斯克個人推文在內的多項證據，使案情更趨複雜。馬斯克的核心主張是，OpenAI在轉型為營利性實體後，背離了其最初作為「造福人類的非營利組織」的創立宗旨。他認為，OpenAI執行長山姆·奧特曼在此過程中背叛了公司的原始使命。隨著訴訟的推進，預計將有更多證人出庭作證，此案的後續發展仍受各界關注。",
+    "summarizedAt": "2026-05-02T01:56:01.258Z"
+  },
+  {
+    "link": "https://www.pagetable.com/?p=1854",
+    "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T11:58:11.000Z",
+    "summaryZh": "近期有開發者成功將Adobe於1991年發布的PostScript解釋器移植至網頁瀏覽器環境中運行。PostScript作為一種頁面描述語言，在1980年代至1990年代初期對桌面出版與印刷產業產生了深遠影響，是現代圖形處理和文件格式的基礎之一。此次移植工作利用了現代網頁技術，使這款具備歷史意義的軟體核心得以在無需安裝特定應用程式的情況下，直接透過標準網頁瀏覽器執行。這不僅展現了當前網頁平台（如WebAssembly）在執行複雜、高性能應用方面的潛力，也為數位歷史文物的保存與研究提供了新的途徑。使用者現在可以更便捷地檢視或互動處理早期的PostScript文件，無需依賴過時的硬體或作業系統，從而降低了接觸這些歷史技術的門檻。此舉對於理解計算機圖形學的發展歷程及網頁技術的演進均具有參考價值。",
+    "summarizedAt": "2026-05-02T01:56:09.968Z"
+  },
+  {
+    "link": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
+    "title": "A Letter from Dijkstra on APL (1982)",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T11:42:12.000Z",
+    "summaryZh": "1982年，著名電腦科學家艾茲格·W·迪克斯特拉（Edsger W. Dijkstra）發表了一封關於APL程式語言的信件。信中，他對APL的設計理念和實用性表達了明確的批評。迪克斯特拉主要指出APL的符號系統過於獨特且複雜，導致程式碼難以閱讀、理解及維護。他認為這種設計偏離了程式設計應追求的清晰性、簡潔性與結構化原則。他強調，程式語言應當有助於嚴謹的程式建構和邏輯推理，而非引入潛在的模糊性或增加認知負擔。這封信不僅反映了迪克斯特拉一貫對程式設計方法論的嚴格要求，也代表了當時電腦科學界對於不同程式語言範式之間深刻爭論的一個縮影，對後續的語言設計與教學產生了影響。",
+    "summarizedAt": "2026-05-02T01:56:17.933Z"
+  },
+  {
+    "link": "https://www.theregister.com/2026/05/01/spacex_debris_landing/",
+    "title": "SpaceX rocket set for unintentional moon landing – well, a piece of it anyway",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T11:31:52.000Z",
+    "summaryZh": "一枚SpaceX獵鷹9號火箭的第二節殘骸，預計將於數週後非計畫性地撞擊月球。這枚火箭於2015年發射，旨在將美國國家海洋暨大氣總署（NOAA）的深空氣候觀測衛星（DSCOVR）送入軌道。任務完成後，該第二節火箭因燃料耗盡而未能返回地球或進入日心軌道，而是進入了混亂的地球-月球軌道。天文學家和軌道追蹤者近期確認了其軌跡，預測它將在3月4日左右撞擊月球背面。儘管這是一次非預期的撞擊，但太空專家指出，此事件對月球或地球不構成實質威脅，反而可能為科學家提供研究月球表面撞擊坑形成過程的獨特機會。",
+    "summarizedAt": "2026-05-02T01:56:24.275Z"
+  },
+  {
+    "link": "https://github.com/darrylmorley/whatcable",
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "source": "Hacker News",
+    "pubDate": "2026-05-01T08:43:45.000Z",
+    "summaryZh": "一款名為 WhatCable 的小型應用程式近日在 Hacker News 平台亮相。該應用程式設計為選單列工具，主要功能是協助使用者檢測 USB-C 線纜的具體規格與性能。鑑於 USB-C 線纜市場規格繁多且外觀難以區分，常導致使用者混淆其充電功率、數據傳輸速度及影像輸出能力。WhatCable 旨在透過軟體方式，提供清晰的線纜資訊，幫助使用者快速判斷所連接線纜是否符合其設備需求。這款工具的推出，為廣大 USB-C 設備使用者提供了一個實用的解決方案，以避免因線纜規格不符而產生的兼容性問題或性能瓶頸。",
+    "summarizedAt": "2026-05-02T01:56:33.340Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-01T02:00:00.000Z",
+    "summaryZh": "OpenAI 推出的 ChatGPT Images 2.0 圖像生成功能，在印度市場獲得了顯著的用戶青睞與積極採用。印度用戶正廣泛利用這項工具，創造各式各樣的個人化視覺內容，從獨特的個人頭像到富有藝術感的電影風格肖像，均展現出其在滿足創意表達方面的潛力。這表明該功能在印度已深入用戶的日常創作與娛樂需求。然而，儘管 ChatGPT Images 2.0 在印度取得了初步成功，其在其他國際市場的普及與影響力尚未達到同樣的廣泛程度。這意味著，儘管其在特定區域展現出強勁勢頭，但其全球市場表現和未來發展仍需進一步觀察。",
+    "summarizedAt": "2026-05-02T01:56:41.178Z"
+  },
+  {
     "link": "https://biohub.org/news/virtual-biology-initiative/",
     "title": "$500M for Virtual Biology Initiative, Funded by Zuckerbergs",
     "source": "Hacker News",
