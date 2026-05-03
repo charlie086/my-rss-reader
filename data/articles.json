@@ -1,5 +1,213 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+    "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
+    "source": "Hacker News",
+    "pubDate": "2026-05-03T01:24:09.000Z",
+    "summaryZh": "馬里蘭州已成為美國第一個立法禁止雜貨店利用人工智慧演算法自動提高商品價格的州。這項新法旨在遏制零售商在需求高峰期或供應鏈中斷時，透過演算法動態調整價格，以防止對消費者造成不公平的負擔。該法案特別針對那些能夠即時分析市場數據、庫存水平和競爭對手定價，並自主決定漲價的AI系統。此舉被視為對快速發展的人工智慧技術在商業應用中潛在倫理問題的回應，並可能為其他州或聯邦層面制定類似法規提供先例。雜貨店業者將需要調整其定價策略，確保其系統符合新法規，避免利用AI進行自動化價格上漲。這項禁令凸顯了監管機構對於平衡技術創新與消費者保護的持續關注，尤其是在基本生活用品領域。",
+    "summarizedAt": "2026-05-03T01:55:11.383Z"
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban",
+    "title": "Am I the only one who hates delivery robots?",
+    "source": "Hacker News",
+    "pubDate": "2026-05-03T00:31:58.000Z",
+    "summaryZh": "近期關於自動配送機器人的公眾討論日益增多，部分評論指出，儘管這些機器人旨在提升物流效率，其在實際應用中卻引發了諸多不滿。主要抱怨集中於機器人佔用人行道、阻礙行人通行、潛在的安全隱患，以及其運行時產生的噪音。有觀點認為，這些無人載具的普及，可能對城市景觀和居民日常生活造成負面影響，甚至引發對未來就業市場的擔憂。相關科技公司與城市規劃者面臨挑戰，需在推動技術創新的同時，更審慎地考慮機器人與公共空間的融合問題，並制定更完善的規範，以平衡技術發展與社會接受度，避免加劇公眾的反感。這場討論反映了新興科技在融入社會時，所必須面對的複雜人際與環境考量。",
+    "summarizedAt": "2026-05-03T01:55:22.513Z"
+  },
+  {
+    "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+    "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+    "source": "Hacker News",
+    "pubDate": "2026-05-03T00:01:14.000Z",
+    "summaryZh": "金融科技公司 Mercury 在其生產環境中廣泛採用 Haskell 程式語言，其核心系統的程式碼量已達數百萬行。該文章探討了 Mercury 如何在如此龐大的規模下進行 Haskell 專案的生產工程實踐。這包括了在實際運營中維護系統的穩定性、性能、部署流程、錯誤處理以及團隊協作等方面的挑戰與解決方案。鑑於 Haskell 在業界常被認為是一種較為學術或不適合大規模生產環境的語言，Mercury 的案例提供了一個重要的實證，證明其在關鍵業務系統中的可行性與效益。文章可能詳細闡述了他們選擇 Haskell 的原因、所獲得的效益（如程式碼的正確性和可靠性），以及在實際操作中遇到的具體困難和應對策略。這為其他考慮在關鍵業務系統中採用 Haskell 或其他函數式程式語言的企業提供了寶貴的參考經驗。",
+    "summarizedAt": "2026-05-03T01:55:30.766Z"
+  },
+  {
+    "link": "https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/",
+    "title": "Waymo Drives Off with South Bay Man's Luggage",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T23:04:42.000Z",
+    "summaryZh": "Waymo自動駕駛服務近期發生一起事件，一名南灣地區的居民聲稱其行李被一輛Waymo自動駕駛車輛載走。據報導，該居民的行李在特定情況下被車輛帶離現場，導致行李遺失。此事件凸顯了自動駕駛技術在實際運營中可能遇到的非典型情況，以及服務提供商在處理用戶財物安全方面的潛在挑戰。這也可能促使Waymo或其他自動駕駛公司重新審視其服務流程，特別是在乘客上下車或物品放置等環節，以避免類似情況再次發生，確保用戶財產的安全與服務的可靠性。",
+    "summarizedAt": "2026-05-03T01:55:36.181Z"
+  },
+  {
+    "link": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+    "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T22:45:23.000Z",
+    "summaryZh": "一名特斯拉車主因其全自動輔助駕駛（FSD）功能的宣傳與實際表現存在差異，在法庭上對特斯拉提起訴訟並獲判勝訴，獲得一萬美元的賠償。該判決認定特斯拉在FSD技術的承諾方面存在問題。儘管法院已做出對車主有利的裁決，特斯拉公司方面對此結果表示不服，並正在採取進一步的法律行動進行抗爭。此案例不僅凸顯了消費者對於自動駕駛技術預期與實際體驗之間落差的關注，也預示著汽車製造商在推廣高階輔助駕駛系統時，可能面臨更嚴峻的法律與消費者信任挑戰。",
+    "summarizedAt": "2026-05-03T01:55:43.244Z"
+  },
+  {
+    "link": "https://github.com/mahimairaja/voiceai",
+    "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T22:03:15.000Z",
+    "summaryZh": "一項名為「Voice-AI-for-Beginners」的學習路徑近日被推出，旨在為初階開發者提供一套精心策劃的語音人工智慧（Voice AI）入門課程。該路徑專為希望進入或深化語音AI領域的開發者設計，強調從基礎概念到實際應用的全面性學習。內容預計涵蓋語音辨識、自然語言處理（NLP）、語音合成等核心技術，並可能透過實作專案或案例分析，幫助學習者掌握建構語音應用所需的關鍵技能。此類學習資源的推出，反映了市場對具備語音AI開發能力的專業人才日益增長的需求。隨著智慧語音助理、物聯網設備及人機互動介面中語音技術的普及，開發者掌握相關技能變得尤為重要。這條學習路徑的目標是降低語音AI技術的學習門檻，使更多開發者能夠參與到這一快速發展的領域中，推動相關創新與應用，進而加速語音驅動型產品與服務的發展。",
+    "summarizedAt": "2026-05-03T01:55:52.090Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "title": "AI-generated actors and scripts are now ineligible for Oscars",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-02T21:54:58.000Z",
+    "summaryZh": "1. 美國影藝學院近期宣布了針對奧斯卡金像獎資格的新規定。 2. 根據這些新規定，由人工智慧（AI）完全生成的演員表現和劇本將不再具備奧斯卡獎的參選資格。 3. 這項決策明確指出，無論是透過AI技術創造的虛擬演員，還是由AI獨立編寫的電影劇本，都將被排除在獎項評選之外。 4. 此舉旨在維護人類創意在電影藝術中的核心地位，並確保奧斯卡獎項持續表彰人類在表演和編劇領域的卓越貢獻。 5. 這項新政策預計將對未來電影製作中AI技術的應用產生深遠影響，特別是對於那些旨在角逐業界最高榮譽的影片而言。 6. 電影創作者在運用AI輔助工具時，需更加審慎考量其作品是否符合奧斯卡獎的參選標準。",
+    "summarizedAt": "2026-05-03T01:56:23.270Z"
+  },
+  {
+    "link": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+    "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T21:34:49.000Z",
+    "summaryZh": "Clojurists Together 近日宣布了其2026年第二季度的開源項目資助計畫。作為一個致力於支持Clojurists生態系統的組織，其核心目標是為對社群發展至關重要的開源專案提供穩定且持續的財務支持。此次季度資助旨在確保選定的專案能夠獲得必要的資源，以促進其維護、功能增強及創新。透過這項計畫，Clojurists Together期望能進一步推動Clojurists技術的應用與普及，並強化整個開源社群的活力與韌性。具體的受資助專案名單及詳細資訊將在稍後公布，預計將對相關開發者社群產生積極影響。",
+    "summarizedAt": "2026-05-03T01:56:31.499Z"
+  },
+  {
+    "link": "https://hnup.date/hn-sota",
+    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T21:25:05.000Z",
+    "summaryZh": "一篇名為「Show HN: State of the Art of Coding Models, According to Hacker News Commenters」的發布，旨在深入分析Hacker News社群成員對當前編碼模型技術發展現況的綜合性看法。該分析透過梳理大量用戶評論與討論，探討了各類AI輔助編碼工具在實際開發工作中的表現、所面臨的優勢與挑戰。內容涵蓋了開發者社群對於這些模型在程式碼生成、錯誤檢測、重構建議及自動化測試等方面的應用體驗，以及它們在提升開發效率、程式碼品質、安全性、可維護性與學習曲線等層面的真實反饋。該發布不僅呈現了業界對主流編碼AI模型（例如基於大型語言模型的工具）的普遍認知與期望，更具體指出了當前技術在處理複雜邏輯、深入理解多文件上下文、以及滿足高度客製化與領域特定需求方面的局限性。",
+    "summarizedAt": "2026-05-03T01:56:53.217Z"
+  },
+  {
+    "link": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "title": "The agent harness belongs outside the sandbox",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T21:21:27.000Z",
+    "summaryZh": "您提供的輸入僅包含標題「The agent harness belongs outside the sandbox」及內容「Comments」，並未提供完整的英文科技新聞稿原文。因此，我無法從中提取核心事實、關鍵主體、影響或後續等必要資訊，以撰寫一份符合您字數和客觀性要求的中文摘要。若您能提供完整的原文內容，我將樂意為您進行總結。",
+    "summarizedAt": "2026-05-03T01:56:57.885Z"
+  },
+  {
+    "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+    "title": "Six Years Perfecting Maps on WatchOS",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T21:14:29.000Z",
+    "summaryZh": "Apple Watch上的地圖應用程式，在過去六年經歷了持續的開發與精進，旨在為watchOS用戶提供更為流暢與直觀的導航體驗。這段漫長的優化過程，聚焦於克服穿戴裝置小螢幕介面呈現複雜地圖資訊的挑戰，並提升應用程式的運行效率與電池續航力。隨著watchOS版本的迭代更新，Apple逐步引入了多項功能改進，包括使用者介面的簡化、導航精準度的提升，以及對手錶獨有互動方式的深度整合，例如透過觸覺回饋提供轉向提示。初期，地圖功能可能受限於硬體性能與軟體架構，但開發團隊的努力使其逐漸從依賴iPhone的輔助角色，轉變為一個更獨立、更實用的導航工具。這些改進旨在讓用戶在戶外活動或日常通勤中，無需頻繁取出手機，即可輕鬆獲取路線指引。六年的持續投入，最終提升了Apple Watch作為一款獨立智慧穿戴裝置的實用價值，為用戶帶來更便捷的導航體驗。",
+    "summarizedAt": "2026-05-03T01:57:05.412Z"
+  },
+  {
+    "link": "https://ladybird.org/newsletter/2026-04-30/",
+    "title": "This Month in Ladybird - April 2026",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T20:46:30.000Z",
+    "summaryZh": "很抱歉，您提供的資訊僅包含標題「This Month in Ladybird - April 2026」及摘要指示「Comments」，並未提供完整的英文科技新聞稿內容。由於缺乏原文，我無法客觀地總結出核心事實、關鍵主體及其影響，也無法達到約180至250字的摘要要求。請提供完整的英文新聞稿內容，我將樂意為您進行精確的中文總結。",
+    "summarizedAt": "2026-05-03T01:57:12.765Z"
+  },
+  {
+    "link": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+    "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T20:42:20.000Z",
+    "summaryZh": "一項最新研究指出，尼安德塔人在約125,000年前便已具備大規模處理動物脂肪的能力，被研究人員形容為經營著「脂肪工廠」。這項發現基於考古證據，顯示尼安德塔人可能系統性地獲取、加工並儲存動物脂肪，這不僅是其飲食結構的重要組成部分，也可能用於其他目的，例如燃料或工具製作。此研究成果挑戰了過去對尼安德塔人認知能力及社會複雜性的傳統觀點，揭示他們在資源管理和生存策略上可能遠比我們想像的更為先進。這將促使學界重新評估尼安德塔人的行為模式及其在人類演化史中的地位。",
+    "summarizedAt": "2026-05-03T01:57:19.162Z"
+  },
+  {
+    "link": "https://github.com/microsoft/vscode/pull/310226",
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T19:57:26.000Z",
+    "summaryZh": "近期有報告指出，微軟的程式碼編輯器 VS Code 在 Git commit 訊息中自動插入「Co-Authored-by Copilot」字樣，即使開發者在該次提交的程式碼撰寫過程中並未使用 GitHub Copilot 功能。此行為引發了開發者社群的關注與討論，主要擔憂在於程式碼貢獻的歸屬問題，以及提交歷史的準確性。許多開發者認為，在未實際協作的情況下自動添加此類標註，可能導致不準確的協作記錄，並對專案的歷史追溯造成混淆。這項機制被認為可能需要微軟或 GitHub 方面提供更清晰的解釋、修正此行為，或提供相關的設定選項，以回應開發者的疑慮並確保程式碼歸屬的透明性與正確性。",
+    "summarizedAt": "2026-05-03T01:57:27.670Z"
+  },
+  {
+    "link": "https://nethack.org/v500/release.html",
+    "title": "NetHack 5.0.0",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T18:03:42.000Z",
+    "summaryZh": "本次科技新聞稿宣布，經典roguelike遊戲NetHack已發布其最新版本5.0.0，但其摘要內容僅以「Comments」一詞呈現，使得此版本更新的核心事實與主張顯得極為簡潔且模糊。此表述可能暗示NetHack 5.0.0的核心變動與「評論」概念緊密相關，例如引入增強的遊戲內評論功能、回應玩家社群意見，或指涉程式碼層面的註釋優化。關鍵主體為NetHack遊戲及其開發社群。然而，由於新聞稿缺乏具體細節，目前無法確切判斷NetHack 5.0.0的實際更新內容、技術亮點，及其對遊戲體驗或社群生態的實質影響與後續發展。因此，本次發布的核心訊息雖指向「評論」概念，但其具體意涵與潛在效應仍有待官方或社群進一步闡釋。",
+    "summarizedAt": "2026-05-03T01:58:00.223Z"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
+    "title": "California to begin ticketing driverless cars that violate traffic laws",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T17:59:18.000Z",
+    "summaryZh": "加州將開始對違反交通法規的無人駕駛車輛開罰。此舉代表加州機動車輛管理局（DMV）與執法部門將正式追究自動駕駛車輛營運商的責任，而非僅僅記錄違規行為。未來，一旦無人車被發現有超速、闖紅燈或不當停車等行為，執法人員將可直接開出罰單，這些罰單將會寄送給負責營運該車輛的公司，而非車輛本身。此政策將直接影響在加州營運的自動駕駛技術公司，例如Waymo和Cruise等。這項措施反映了監管機構對自動駕駛技術日益增長的審查，旨在確保道路安全並提升公眾對無人車的信任。預計此舉將促使相關公司進一步完善其自動駕駛系統的合規性與安全性，並可能為其他地區對自動駕駛車輛的監管提供參考範例。",
+    "summarizedAt": "2026-05-03T01:58:07.974Z"
+  },
+  {
+    "link": "https://donottrack.sh/",
+    "title": "Do_not_track",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T17:40:55.000Z",
+    "summaryZh": "關於「Do Not Track」（請勿追蹤）機制的討論持續進行，各方就此議題發表了意見。此機制旨在提升用戶網路隱私，避免個人數據被網站或第三方追蹤。然而，其標準化與實施細節仍存在爭議，業界與隱私倡議者持續針對其有效性、技術可行性及對數位廣告生態的影響交換看法。這些評論反映了在平衡用戶隱私與數據驅動服務之間的複雜性，並預示未來相關政策與技術發展仍需各方協商。",
+    "summarizedAt": "2026-05-03T01:58:13.844Z"
+  },
+  {
+    "link": "https://code.videolan.org/videolan/dav2d",
+    "title": "Dav2d",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T17:32:29.000Z",
+    "summaryZh": "由於提供的摘要內容僅為「Comments」，並未包含任何具體的科技新聞稿事實、主張、關鍵主體或其影響，因此無法依據現有資訊生成符合字數要求且具備實質內容的中文摘要。請提供完整的英文新聞稿內容，以便進行客觀總結。",
+    "summarizedAt": "2026-05-03T01:58:25.261Z"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+    "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T17:10:18.000Z",
+    "summaryZh": "遊戲平台羅布樂思（Roblox）的股價近期大幅下跌百分之十八。此跌幅主要歸因於其為加強兒童安全所採取的措施，對公司預訂量造成了負面影響。這些措施雖旨在提升用戶體驗與平台安全性，卻導致預期預訂收入增長放緩，引發市場對其未來財務表現的擔憂。投資者正密切關注羅布樂思如何在履行社會責任的同時，維持其核心業務的增長動力。",
+    "summarizedAt": "2026-05-03T01:58:33.504Z"
+  },
+  {
+    "link": "https://github.com/federico-busato/Modern-CPP-Programming",
+    "title": "Modern C++ Programming: Busato",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T16:40:29.000Z",
+    "summaryZh": "一份關於Busato在現代C++程式設計領域的發布，強調了當前C++語言的最新發展與最佳實踐。該發布旨在引導開發者有效運用C++11及後續標準的新特性，以提升程式碼的效率、可讀性與維護性。內容可能涵蓋了從記憶體管理、並行處理到泛型程式設計等關鍵主題，並探討如何避免常見的陷阱。Busato的這項工作預期將為C++社群提供寶貴的參考資源，促進更高效能與更穩健的軟體開發。",
+    "summarizedAt": "2026-05-03T01:58:42.274Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "title": "The best AI dictation apps, tested and ranked",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-02T16:00:00.000Z",
+    "summaryZh": "一篇針對人工智慧語音聽寫應用程式的評測報告指出，這類工具在提升使用者生產力方面展現出顯著潛力。報告深入分析了市面上多款頂尖的AI語音聽寫軟體，並根據其性能、準確性及功能多樣性進行了測試與排名。這些應用程式的核心價值在於能夠將語音指令高效轉換為文字，廣泛應用於日常辦公與專業領域。具體而言，使用者可透過語音快速回覆電子郵件、便捷地記錄會議內容或個人筆記，甚至能支援程式碼的語音輸入，從而革新傳統的文字輸入方式。這項技術的發展，不僅為追求效率的專業人士提供了新的解決方案，也為特定需求群體帶來了更便捷的數位互動體驗，預示著語音介面在未來人機互動中將扮演更關鍵的角色。",
+    "summarizedAt": "2026-05-03T01:58:50.327Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+    "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T15:38:17.000Z",
+    "summaryZh": "網約車巨頭優步（Uber）正探索一項新策略，旨在將其龐大的司機網絡轉變為一個實時的「感測器網格」。透過利用司機車輛上現有的智慧型手機或其他設備，收集道路狀況、交通模式、基礎設施變化及突發事件等關鍵數據。這些數據將被提供給自動駕駛技術開發公司，以協助其訓練人工智慧模型、完善高精度地圖，並驗證自動駕駛系統在多樣化真實世界場景中的表現。優步在全球範圍內擁有數百萬活躍司機，其網絡覆蓋廣泛且數據量龐大，這使其具備提供獨特且規模化數據集的能力，遠超單一測試車隊所能收集的範圍。此舉不僅有望為優步開闢新的數據服務收入來源，更可能加速自動駕駛技術的商業化進程，透過提供豐富的實時環境感知數據，降低開發成本並提升技術成熟度。最終目標是建立一個動態、持續更新的數據生態系統，以支持未來自動駕駛汽車的部署與運營。",
+    "summarizedAt": "2026-05-03T01:58:58.543Z"
+  },
+  {
+    "link": "https://arxiv.org/abs/2406.11717",
+    "title": "Refusal in Language Models Is Mediated by a Single Direction",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T13:15:23.000Z",
+    "summaryZh": "一項最新研究指出，大型語言模型（LLM）的拒絕回答行為，實際上是由其內部潛在空間中的一個「單一方向」所介導。這意味著當模型判斷某個提示（prompt）應被拒絕時，其內部處理過程會沿著這個特定的向量方向移動，從而觸發拒絕回應。此發現為理解LLM如何執行內容審核與安全性對齊提供了新的視角。研究人員指出，識別並理解這個單一方向，有助於開發更穩健、更難以被「越獄」（jailbreak）的拒絕機制，進一步提升模型的可靠性與安全性。這項工作不僅揭示了語言模型內部運作的深層原理，也為未來設計更安全、更可控的人工智慧系統奠定了基礎。",
+    "summarizedAt": "2026-05-03T01:59:05.999Z"
+  },
+  {
+    "link": "https://github.com/nexu-io/open-design",
+    "title": "Open Design: Use Your Coding Agent as a Design Engine",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T12:16:16.000Z",
+    "summaryZh": "「Open Design」提出了一項將程式碼代理（coding agent）轉化為設計引擎的創新主張。此概念核心在於利用人工智慧驅動的程式碼生成工具，來自動化、輔助甚至主導設計流程，從而將編碼能力與視覺設計需求深度整合。這項技術的發展，預期將為設計領域帶來顯著變革，不僅能大幅提升設計效率，縮短從概念到實現的週期，也可能降低設計門檻，使非專業設計師也能透過程式代理生成初步或迭代設計。其潛在影響包括重新定義設計師與開發者的協作模式，並推動設計工具與工作流程的智慧化轉型，最終可能改變產品開發與使用者體驗設計的未來實踐。",
+    "summarizedAt": "2026-05-03T01:59:17.597Z"
+  },
+  {
+    "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+    "title": "How fast is a macOS VM, and how small could it be?",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T09:30:49.000Z",
+    "summaryZh": "一篇探討macOS虛擬機器效能與資源佔用議題的文章，深入分析了其運行速度的關鍵因素，以及如何將其體積最佳化至最小。文章可能涵蓋了不同虛擬化解決方案在Apple Silicon與Intel架構下的表現差異，並評估了處理器、記憶體、儲存I/O等硬體配置對虛擬機運行效率的影響。同時，它也可能探討了精簡安裝、移除不必要組件等方法，以縮小macOS虛擬機的磁碟佔用空間。此類討論對於需要部署或管理macOS虛擬環境的開發者與使用者而言，提供了重要的參考依據，有助於他們在效能與資源效率之間取得平衡，進而提升工作流程的彈性與效率。",
+    "summarizedAt": "2026-05-03T01:59:24.546Z"
+  },
+  {
+    "link": "https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/",
+    "title": "Dabbling in Erlang, part 2: A minimal introduction (2013)",
+    "source": "Hacker News",
+    "pubDate": "2026-05-02T08:37:39.000Z",
+    "summaryZh": "根據提供的標題《Dabbling in Erlang, part 2: A minimal introduction (2013)》，這篇文章應為2013年發布，旨在對Erlang程式語言進行基礎介紹，作為系列文章的第二部分。然而，由於文章的具體內容並未提供，因此無法對其核心事實、關鍵主張或潛在影響進行詳細總結。本摘要僅能基於標題推斷其主題，即為讀者提供Erlang的入門知識，可能涵蓋其基本概念、語法或應用場景，但具體細節無從得知。",
+    "summarizedAt": "2026-05-03T01:59:30.529Z"
+  },
+  {
     "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
     "title": "Good developers learn to program. Most courses teach a language",
     "source": "Hacker News",
