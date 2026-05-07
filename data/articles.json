@@ -1,5 +1,309 @@
 [
   {
+    "link": "https://www.vatican.va/latin/latin_index.html",
+    "title": "The Vatican's Website in Latin",
+    "source": "Hacker News",
+    "pubDate": "2026-05-07T01:26:03.000Z",
+    "summaryZh": "梵蒂岡近期推出其官方網站的拉丁文版本，旨在透過現代數位平台推廣並保存拉丁語。此舉由梵蒂岡的通訊部門主導，將教宗的訓諭、官方文件及新聞稿等核心內容以拉丁文呈現，供全球學者、神職人員及對拉丁文化有興趣的民眾查閱。該網站的推出，不僅體現了梵蒂岡對其歷史語言傳統的堅守，也展現了其利用最新網路技術，將古老語言與現代傳播方式結合的策略。此舉預計將為拉丁語研究者提供一個權威且便捷的線上資源，同時也鞏固了拉丁語在教會及學術領域的地位。",
+    "summarizedAt": "2026-05-07T01:59:34.031Z"
+  },
+  {
+    "link": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+    "title": "How I made $350K from an open-source JavaScript library using dual licensing",
+    "source": "Hacker News",
+    "pubDate": "2026-05-07T00:47:15.000Z",
+    "summaryZh": "一位開發者透過其開源JavaScript函式庫，成功運用雙重授權模式，在特定時間內實現了35萬美元的收入。此案例凸顯了開源專案在維持其開放性與社區參與的同時，也能建立可持續商業模式的潛力。該開發者分享的經驗表明，透過提供兩種授權選項——通常是針對個人或開源專案的免費開源授權，以及針對商業實體或不願公開其衍生程式碼用戶的付費商業授權——可以有效地將開源軟體轉化為經濟回報。這種策略不僅為開發者提供了持續投入專案開發與維護的資金，也滿足了不同用戶群體的需求。35萬美元的收入證明了市場對高品質開源軟體商業授權的實際需求，特別是對於那些尋求在專有產品中整合開源技術，同時又需避免開源授權條款所帶來義務的企業。該開發者的成功經驗為廣大開源社群提供了一個具體的實踐範例，展示了如何平衡開源精神與商業可行性，進而促進開源生態系統的長期健康發展與創新。",
+    "summarizedAt": "2026-05-07T01:59:45.850Z"
+  },
+  {
+    "link": "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/",
+    "title": "Iran hit more U.S. military targets than has been reported, satellite images",
+    "source": "Hacker News",
+    "pubDate": "2026-05-07T00:16:37.000Z",
+    "summaryZh": "根據衛星影像分析顯示，伊朗對美國軍事目標的實際打擊次數，可能超出此前官方公開的報導。此發現指出，實際受影響的美國軍事設施數量或範圍，與最初披露的資訊存在差異。這項由獨立衛星影像提供的證據，可能促使相關方面重新審視情報收集、損害評估機制及事件透明度。此類資訊的揭露，通常會對地區安全情勢的評估產生影響，並可能促使相關國家重新考量其外交策略與軍事姿態，對於理解衝突的真實規模及潛在後續影響至關重要。",
+    "summarizedAt": "2026-05-07T02:00:03.513Z"
+  },
+  {
+    "link": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+    "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+    "source": "Hacker News",
+    "pubDate": "2026-05-07T00:12:23.000Z",
+    "summaryZh": "很抱歉，您提供的內容中只有標題「The Old Guard: Confronting America's Gerontocratic Crisis」，而沒有實際的新聞稿正文。因此，我無法為您總結其核心事實、關鍵主體及影響。此外，從標題判斷，這似乎是一篇關於美國政治與社會議題（老年政治危機）的文章，而非科技新聞稿。若您能提供完整的英文科技新聞稿內容，我將樂意為您進行客觀冷靜的中文摘要。",
+    "summarizedAt": "2026-05-07T02:00:08.008Z"
+  },
+  {
+    "link": "https://therecord.media/ADT-data-breach-cyberattack",
+    "title": "ADT says customer data stolen in cyber intrusion",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T23:51:05.000Z",
+    "summaryZh": "ADT，一家知名的安全解決方案供應商，近期證實遭遇網絡入侵，導致客戶數據遭到未經授權的存取與竊取。據該公司聲明，受影響數據主要包含客戶的姓名、地址及部分帳戶信息，但不涉及信用卡號碼或社會安全號碼等敏感財務資料。受影響客戶為部分子集。ADT指出，發現異常活動後，公司立即啟動應變措施，包括通知執法機構、聘請第三方網絡安全專家深入調查，並強化系統安全性。為減輕潛在風險，ADT已通知受影響客戶，並提供免費信用監控及身份盜用保護服務。目前，調查仍在進行中，ADT承諾將持續更新進展。公司同時建議客戶保持警惕，留意任何可疑通訊或活動，以防範潛在詐騙。",
+    "summarizedAt": "2026-05-07T02:00:17.252Z"
+  },
+  {
+    "link": "https://sqlite.org/locrsf.html",
+    "title": "SQLite Is a Library of Congress Recommended Storage Format",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T21:58:43.000Z",
+    "summaryZh": "美國國會圖書館已將SQLite列為推薦的數位儲存格式。這項推薦強調了SQLite在長期數位內容保存方面的潛力與價值。SQLite是一個輕量級、嵌入式的關係型資料庫管理系統，因其單一文件儲存、無需獨立伺服器進程的特性，廣泛應用於各種軟體和設備中。國會圖書館的建議通常基於對格式穩定性、開放性、可訪問性及長期可讀性等因素的綜合評估。此舉進一步鞏固了SQLite作為可靠且廣泛應用的數據儲存解決方案的地位，對於需要確保數據持久性和可訪問性的機構而言，具有重要的參考意義。",
+    "summarizedAt": "2026-05-07T02:00:24.776Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T21:57:56.000Z",
+    "summaryZh": "資深媒體界人士Barry Diller近期表達了對OpenAI執行長Sam Altman的信任。然而，他同時對人工通用智慧（AGI）的發展發出嚴肅警告，指出隨著AGI日益臨近，個人信任將變得「無關緊要」，因為AGI本質上是一種難以預測的力量。Diller強調，為應對AGI的深遠影響，社會必須為其建立嚴格的「護欄」或監管機制。此觀點表明，即使信任特定科技領導者，AGI這類顛覆性技術的潛在風險已超越個人範疇。這凸顯了科技界在追求AGI突破的同時，如何確保其安全、可控並符合人類福祉，已成為一個日益緊迫且需要系統性解決方案的全球性議題。",
+    "summarizedAt": "2026-05-07T02:00:42.001Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T21:43:24.000Z",
+    "summaryZh": "Snap公司宣布，其與AI搜尋引擎開發商Perplexity之間價值4億美元的合作協議已「友好終止」。這項協議於去年11月首次公布，原計劃旨在將Perplexity的AI搜尋技術直接整合至Snapchat應用程式中，以增強其平台功能。隨著協議的終止，Snapchat將不再按原定計劃引入Perplexity的AI搜尋引擎，這標誌著雙方原定的技術整合項目未能實現。",
+    "summarizedAt": "2026-05-07T02:00:48.613Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "title": "Is xAI a neocloud now?",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T21:32:55.000Z",
+    "summaryZh": "有分析指出，人工智能公司xAI的實際業務重心，可能更側重於數據中心的建設與基礎設施的構築，而非單純的人工智能模型訓練。這項觀察暗示，xAI的戰略方向或許正從傳統的AI模型開發者，轉變為一個潛在的雲計算或基礎設施提供商。此一發展將重新定義其在科技產業中的定位，並可能對未來的市場競爭格局產生影響。",
+    "summarizedAt": "2026-05-07T02:00:57.029Z"
+  },
+  {
+    "link": "https://github.com/olivier-ls/php-fts",
+    "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T20:28:17.000Z",
+    "summaryZh": "近日，一個名為 PHP-fts 的專案在 Hacker News 上被展示。該專案旨在提供一個純 PHP 實現的全文搜尋引擎。其核心特點在於完全以 PHP 語言編寫，且運行時無需依賴任何額外的 PHP 擴充功能。這意味著開發者可以在不具備安裝伺服器端擴充功能權限或希望簡化部署流程的環境中，更便捷地為其 PHP 應用程式整合全文搜尋功能。此舉為尋求輕量級、易於部署的 PHP 原生搜尋解決方案的社群提供了一個新的選擇。",
+    "summarizedAt": "2026-05-07T02:01:05.616Z"
+  },
+  {
+    "link": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+    "title": "Inkscape 1.4.4",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T19:33:25.000Z",
+    "summaryZh": "Inkscape 1.4.4 版本已正式發布，作為其開源向量圖形編輯器系列的最新維護更新。此版本主要聚焦於穩定性提升、錯誤修復以及整體性能優化，旨在為用戶提供更流暢、可靠的創作體驗。更新內容可能包含對特定功能模組的細部調整，以回應社群回饋並解決先前版本中發現的問題。Inkscape 團隊持續致力於透過此類迭代更新，確保軟體在多個操作系統上的兼容性與效率，進一步鞏固其作為專業級免費設計工具的地位。此次發布體現了開發者對用戶體驗的持續關注，並為未來的版本奠定基礎。",
+    "summarizedAt": "2026-05-07T02:01:14.199Z"
+  },
+  {
+    "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+    "title": "Programming Still Sucks",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T19:06:41.000Z",
+    "summaryZh": "根據提供的標題「Programming Still Sucks」與摘要「Comments」，目前資訊不足以撰寫一份符合要求的、客觀且詳盡的科技新聞稿摘要。一份完整的摘要需包含核心事實或主張、關鍵主體（如具體公司、機構或個人）、所討論的具體問題、相關背景脈絡，以及可能產生的影響或後續發展。僅憑「程式設計依然糟糕」這一主觀性標題，以及「評論」這一籠統的摘要，無法判斷該新聞稿具體探討了程式設計領域的哪些挑戰，例如是關於開發工具的效率、程式語言的複雜性、軟體開發流程的問題、或是特定技術趨勢（如AI對開發的影響）引發的討論。同時，也無法識別發表這些評論的具體來源、其權威性或代表性，以及這些評論可能對業界或技術發展產生的具體影響。",
+    "summarizedAt": "2026-05-07T02:01:23.682Z"
+  },
+  {
+    "link": "https://sander.ai/2026/05/06/flow-maps.html",
+    "title": "Learning the Integral of a Diffusion Model",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T18:46:27.000Z",
+    "summaryZh": "一項名為「學習擴散模型的積分」的技術或研究進展，旨在深化對當前生成式人工智慧領域中擴散模型的理解與應用。此項工作可能聚焦於開發新的數學或計算方法，透過學習擴散過程中的積分表示，以期更精確地捕捉複雜數據分佈的特性。這類研究通常由領先的AI實驗室或學術機構（具體名稱未在此處新聞稿中提及）主導，旨在解決擴散模型在訓練效率、生成品質或理論解釋方面的挑戰。其潛在影響包括提升圖像、音訊及其他形式數據的生成能力，使模型產出的內容更為真實與穩定。此類創新預計將為生成式AI技術的未來發展奠定更堅實的理論與實踐基礎，進一步推動其在創意產業、科學研究乃至工程設計等多個領域的應用與普及。",
+    "summarizedAt": "2026-05-07T02:01:38.846Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T18:23:54.000Z",
+    "summaryZh": "OpenAI共同創辦人Greg Brockman近期闡述了Elon Musk當年離開該公司的始末。據Brockman的說法，作為OpenAI的早期共同創辦人及主要投資者之一，Musk在公司發展初期曾與其他領導層就組織方向及控制權產生分歧。Musk據傳曾提議由他主導公司或將其與特斯拉整合，但此提議最終未獲採納。這些分歧導致Musk於2018年退出OpenAI董事會。Brockman的這番公開說明，為外界了解這家現已具全球影響力的人工智慧公司早期關鍵決策與創始團隊的動態，提供了新的視角。",
+    "summarizedAt": "2026-05-07T02:01:46.373Z"
+  },
+  {
+    "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+    "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T17:59:33.000Z",
+    "summaryZh": "Google Cloud 正推出 reCAPTCHA 的新一代演進，旨在強化其欺詐防禦能力。這項升級將 reCAPTCHA 從傳統的人機驗證工具，轉變為更全面的反欺詐解決方案。新版本利用 Google 先進的機器學習技術和風險分析模型，能夠在後台無感地評估用戶行為，識別潛在的惡意活動。其主要目標是防範各類線上欺詐，包括帳戶盜用（ATO）、虛假帳戶註冊、支付欺詐以及惡意內容抓取等。透過提供實時的風險分數，企業客戶可以根據這些評估結果，動態調整其安全策略，從而減少對合法用戶的干擾，同時有效阻擋機器人與欺詐者。此服務將作為 Google Cloud 的一部分提供，讓開發者能透過簡單的 API 整合，將其防禦機制應用於網站和行動應用程式中。這項發展標誌著 Google 在協助企業建立更安全、更可信賴的數位環境方面邁出了重要一步。",
+    "summarizedAt": "2026-05-07T02:01:56.696Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T17:23:08.000Z",
+    "summaryZh": "據提案顯示，SpaceX 可能斥資高達 1190 億美元，在德州興建一座名為「Terafab」的晶片工廠。該提案指出，這將是一個「多階段、下一代、垂直整合的半導體製造與先進運算晶圓廠」。此舉顯示 SpaceX 意圖大幅提升其在半導體供應鏈中的自主性，以滿足其火箭、衛星及星鏈網路等業務對先進晶片的需求。這項龐大投資若實現，將對德州當地經濟及全球半導體產業格局產生顯著影響，並可能重塑 SpaceX 未來的技術發展路徑。",
+    "summarizedAt": "2026-05-07T02:02:04.846Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T17:20:34.000Z",
+    "summaryZh": "中國人工智慧研究實驗室DeepSeek，據報在首次投資輪中，其估值有望達到450億美元。該實驗室憑藉其在2025年初推出的大型語言模型，迅速在業界嶄露頭角並獲得廣泛關注。這款模型在訓練過程中展現出卓越的效率，其所需的計算資源與運營成本，相較於OpenAI和Anthropic等領先的美國大型模型，僅佔極小一部分，這項技術突破使其在競爭激烈的人工智慧領域中確立了獨特的地位。",
+    "summarizedAt": "2026-05-07T02:02:18.554Z"
+  },
+  {
+    "link": "https://blog.val.town/better-auth",
+    "title": "From Supabase to Clerk to Better Auth",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T17:19:34.000Z",
+    "summaryZh": "這篇科技新聞稿探討了現代應用程式開發中，從使用Supabase的認證服務，轉向Clerk等專門認證解決方案的趨勢與考量。文章分析了Supabase作為一個整合性後端平台，其認證功能所提供的基礎能力，並進一步闡述了Clerk作為一個專注於用戶管理與認證的服務，如何提供更進階、更便捷的開發者體驗與更豐富的功能集。報導指出，這種轉變旨在實現「更好的認證」體驗，涵蓋了安全性、易用性及開發效率等多方面考量。最終，文章旨在為開發者提供選擇認證方案的參考，以優化其應用程式的用戶認證策略。",
+    "summarizedAt": "2026-05-07T02:02:26.556Z"
+  },
+  {
+    "link": "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non",
+    "title": "SoundOff: Low-Cost Passive Ultrasound Tags",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T17:13:54.000Z",
+    "summaryZh": "一項名為「SoundOff」的新技術推出低成本被動式超音波標籤。該技術的核心主張是提供一種無需內置電源、僅依靠外部超音波信號即可運作的識別或感測解決方案。由於其被動式設計，這些標籤的製造成本顯著降低，使其在多種應用場景中具備廣泛部署的潛力。預計此類標籤將對物聯網、資產追蹤、物流管理以及環境監測等領域產生影響，特別是在需要大量部署且對成本敏感的環境中。其低功耗和低成本特性有望推動相關產業的創新與發展，為數據採集和實時監控提供經濟高效的新途徑。",
+    "summarizedAt": "2026-05-07T02:02:36.308Z"
+  },
+  {
+    "link": "http://halupedia.com/",
+    "title": "Show HN: Hallucinopedia",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T16:37:52.000Z",
+    "summaryZh": "一個名為「Hallucinopedia」的項目近日在Hacker News平台以「Show HN」形式亮相。該項目名稱暗示其可能與人工智慧領域中常見的「幻覺」現象相關，或旨在建立一個關於此類現象的知識庫。作為Hacker News上的展示項目，其主要目的是向技術社群介紹此創新概念，並徵集廣泛的意見與回饋。此舉預計將引發開發者與研究人員對AI模型行為及其潛在改進方向的討論。",
+    "summarizedAt": "2026-05-07T02:03:08.478Z"
+  },
+  {
+    "link": "https://play.templatical.com",
+    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T16:20:00.000Z",
+    "summaryZh": "一位開發者在Hacker News平台上展示了一款新開發的開源電子郵件編輯器。該工具旨在作為Beefree和Unlayer等現有商業電子郵件設計解決方案的替代品。這款開源編輯器提供用戶免費建立和設計電子郵件的功能，為個人或企業在電子郵件模板設計方面提供了一個具成本效益的選擇。其開源特性意味著社群可以參與其持續開發與改進，有望促進工具的功能擴展和穩定性提升。此舉為市場引入了一個新的開源選項，為用戶提供了更多元的選擇。",
+    "summarizedAt": "2026-05-07T02:03:14.103Z"
+  },
+  {
+    "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "title": "Appearing productive in the workplace",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T16:18:29.000Z",
+    "summaryZh": "抱歉，您提供的內容僅包含標題「Appearing productive in the workplace」及「摘要：Comments」，並未提供實際的英文科技新聞稿原文。由於缺乏核心事實、關鍵主體（如具體公司、機構或產品）及具體內容，我無法依據您的要求，客觀冷靜地總結一篇約180至250字的中文摘要，也無法交代其影響或後續。請提供完整的英文新聞稿內容，以便我能準確地進行歸納與分析。",
+    "summarizedAt": "2026-05-07T02:03:24.642Z"
+  },
+  {
+    "link": "https://www.anthropic.com/news/higher-limits-spacex",
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T16:17:33.000Z",
+    "summaryZh": "新聞標題指出，人工智慧模型Claude的使用限制獲得提升，預示著用戶將能更廣泛地利用其服務。同時，標題亦提及一項與SpaceX達成的計算資源協議，這可能涉及算力供應或相關技術合作，以支持AI模型的運算需求。這些進展共同指向Claude服務能力的潛在擴展，或其背後運營方在基礎設施方面的強化與戰略部署。然而，由於僅有標題資訊，具體的提升幅度、協議內容、涉及的計算資源類型、合作模式以及對各方業務的確切影響，均需參考新聞稿正文以獲取詳細說明。",
+    "summarizedAt": "2026-05-07T02:03:34.365Z"
+  },
+  {
+    "link": "https://tilde.run/",
+    "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T15:58:34.000Z",
+    "summaryZh": "Tilde.run 推出了一款代理沙盒環境，其核心特色在於整合了事務性（transactional）與版本化（versioned）的檔案系統。此平台旨在為自動化代理程式或腳本提供一個安全且隔離的執行空間，確保代理程式在執行檔案操作時，所有變更要麼完全成功，要麼完全不發生，從而維護數據的完整性與一致性。同時，版本化檔案系統允許開發者追蹤並管理代理程式對文件所做的所有修改，並能在必要時將系統狀態回溯到先前的任何版本。這項功能對於開發、測試及部署自動化任務至關重要，它不僅提升了實驗與調試過程的安全性與效率，也大幅降低了因代理程式錯誤操作導致數據損壞的風險。Tilde.run 的設計旨在為需要高度可靠性與可控性的自動化應用提供一個穩健的基礎。",
+    "summarizedAt": "2026-05-07T02:03:43.374Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T15:49:39.000Z",
+    "summaryZh": "谷歌公司近期對其人工智慧搜尋功能進行了更新，核心變動在於其搜尋結果將開始整合並直接引用來自Reddit等網路論壇及其他線上討論區的內容。此項調整旨在提升搜尋引擎在處理特定領域或較為小眾化查詢時的資訊獲取能力，以期能更精準地為用戶提供解答。然而，由於這些用戶生成內容的性質，業界觀察指出，儘管此設計有助於拓展資訊來源，但也可能為搜尋結果帶來潛在的資訊混亂與可靠性挑戰，其對整體搜尋體驗的影響尚待後續評估。",
+    "summarizedAt": "2026-05-07T02:03:51.327Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T15:46:38.000Z",
+    "summaryZh": "機器人新創公司 Genesis AI 在完成一億零五百萬美元的種子輪融資後，旨在開發機器人領域的基礎人工智慧。該公司近期不僅發布了其首個AI模型 GENE-26.5，更透過一場公開演示，展示了一組機器人手部如何精準執行多項複雜任務。這項進展意味著 Genesis AI 正從單純的AI軟體開發，拓展至整合硬體解決方案，展現其邁向全堆疊（full stack）發展模式的策略，旨在提供更全面的機器人應用能力。",
+    "summarizedAt": "2026-05-07T02:04:00.296Z"
+  },
+  {
+    "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T15:44:13.000Z",
+    "summaryZh": "Valve公司近日宣布，已將其Steam Controller的電腦輔助設計（CAD）檔案公開釋出。這些檔案是在創用CC（Creative Commons）授權下發布的。此舉旨在鼓勵社群成員、獨立開發者及製造商，能夠自由地存取、修改、修復或基於官方設計來開發新的配件與周邊產品。透過提供詳細的設計藍圖，Valve期望能促進Steam Controller的客製化潛力，延長產品的生命週期，並激發更多基於該硬體的創新應用。這項開放策略體現了對開放硬體原則的支持，為玩家和開發者社群帶來了更大的靈活性與參與度。",
+    "summarizedAt": "2026-05-07T02:04:08.092Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T15:27:36.000Z",
+    "summaryZh": "Tinder母公司Match Group宣布，將放緩今年剩餘時間的招聘計畫。此舉旨在為其日益增長的AI工具使用提供資金。公司明確指出，AI工具的導入與應用成本高昂，因此決定調整人力資源策略，以確保有足夠的預算投入到技術創新中。這項決策反映了科技公司在積極擁抱人工智慧技術的同時，可能需要重新配置內部資源以應對其高昂成本的趨勢。",
+    "summarizedAt": "2026-05-07T02:04:14.174Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T15:12:49.000Z",
+    "summaryZh": "蘋果公司已同意支付2.5億美元，以和解一宗集體訴訟。這宗訴訟的核心指控是，蘋果在推廣其語音助理Siri的人工智慧功能時，對其推出時間做出了過度承諾，導致部分原先宣稱的AI功能未能如期向用戶提供。這項和解協議的達成，旨在解決因Siri部分AI功能延遲交付而引發的法律爭議，避免了蘋果公司面臨進一步的訴訟程序。此舉亦回應了部分消費者對於Siri功能未能達到預期或宣傳效果的不滿。透過此次支付，蘋果公司尋求終結這場關於產品功能承諾與實際表現差異的法律糾紛，並為受影響的集體訴訟成員提供補償。",
+    "summarizedAt": "2026-05-07T02:04:24.785Z"
+  },
+  {
+    "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T15:06:37.000Z",
+    "summaryZh": "很抱歉，由於您提供的內容僅包含標題「Vibe coding and agentic engineering are getting closer than I'd like」及摘要欄位中的「Comments」，缺乏具體的文章正文，我無法客觀地總結其核心事實、關鍵主體及潛在影響。請提供完整的英文新聞稿內容，以便我能依循您的指示，進行精確且符合字數要求的中文摘要。",
+    "summarizedAt": "2026-05-07T02:04:40.724Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T15:00:00.000Z",
+    "summaryZh": "Ethos公司近日宣布成功完成2275萬美元的融資，本輪投資由知名風險投資公司a16z（Andreessen Horowitz）領投。Ethos致力於構建一個專家網絡平台，其特色在於採用語音引導（voice onboarding）的方式來招募和整合各領域的專業人士。該公司聲稱，目前每週能夠吸引並引導35,000名新專家加入其平台。這筆資金將用於進一步擴展其專家網絡規模，優化語音引導技術，並提升平台服務能力，以滿足市場對專業知識日益增長的需求。此次融資反映了投資者對Ethos獨特模式及其在專家網絡市場潛力的認可。",
+    "summarizedAt": "2026-05-07T02:04:46.277Z"
+  },
+  {
+    "link": "https://www.cnn.com/2026/05/06/us/ted-turner-death",
+    "title": "Ted Turner has died",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T14:56:37.000Z",
+    "summaryZh": "媒體大亨、有線電視新聞網（CNN）創辦人泰德·透納（Ted Turner）已逝世。透納先生以其開創性的媒體事業聞名，他於1980年創立了CNN，徹底改變了全球新聞傳播方式，實現了24小時不間斷的新聞報導。他同時也是透納廣播系統（TBS）的創辦人，並曾擁有亞特蘭大勇士棒球隊等體育資產。除了媒體領域的成就，透納先生也是一位重要的慈善家，特別是透過他捐贈成立的聯合國基金會，致力於支持聯合國的工作。他的離世標誌著一位對全球媒體格局和慈善事業產生深遠影響的傳奇人物的謝幕，其創新精神和社會貢獻將被後世銘記。",
+    "summarizedAt": "2026-05-07T02:04:54.255Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+    "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T14:30:00.000Z",
+    "summaryZh": "「TechCrunch Disrupt 2026」大會將聚焦於探討併購（M&A）作為企業早期發展策略的重要性。會議邀請了來自Coinbase、M13以及Mignano Law Group的業界領袖，他們將分享對於此一策略的見解與實務經驗。此次討論旨在深入分析併購如何能成為新創公司在發展初期階段的關鍵考量，而非僅限於成熟企業的擴張手段。這場對話預計將為與會者提供關於早期併購策略的全面視角，並解答相關疑問，對於理解當前科技產業的發展趨勢與企業成長路徑具有參考意義。",
+    "summarizedAt": "2026-05-07T02:05:01.643Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+    "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T14:00:00.000Z",
+    "summaryZh": "科技媒體TechCrunch宣布，其年度科技盛會Disrupt 2026的門票正進行限時促銷。此次活動提供「購買一張Disrupt 2026入場券，第二張可享五折」的優惠。此項促銷旨在鼓勵更多科技業界人士參與，透過該平台拓展人脈、獲取最新產業洞見，並提升在科技領域的能見度。這項特別優惠將於太平洋時間5月8日晚上11點59分截止，距離優惠結束僅剩三天。有意參與者需留意截止日期，及時完成購票。",
+    "summarizedAt": "2026-05-07T02:05:10.985Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "title": "AI boom pushes Samsung to $1T",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T13:54:09.000Z",
+    "summaryZh": "韓國科技巨頭三星電子，近期因市場對人工智慧（AI）晶片需求的強勁增長，帶動其股價大幅上揚，公司市值因此成功突破一兆美元大關。此一里程碑使三星成為繼台灣積體電路製造公司（TSMC，台積電）之後，第二家達到此估值水平的亞洲企業。這項成就突顯了AI技術浪潮對全球半導體產業的巨大影響力，以及三星在記憶體、邏輯晶片等關鍵領域的市場領導地位。分析人士認為，隨著AI應用場景的持續擴展，三星在未來科技發展中的角色將更加關鍵，其業績表現也將持續受到業界高度關注。",
+    "summarizedAt": "2026-05-07T02:05:17.748Z"
+  },
+  {
+    "link": "https://catstret.ch/202605/srss-hipster202510/",
+    "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+    "source": "Hacker News",
+    "pubDate": "2026-05-06T10:53:52.000Z",
+    "summaryZh": "這篇文章探討了在OpenIndiana Hipster 2025.10作業系統上架設Sun Ray伺服器的具體步驟。Sun Ray作為一種由昇陽電腦開發的精簡客戶端技術，其核心理念是提供集中化的運算資源。OpenIndiana Hipster 2025.10則是一個基於OpenSolaris的開源作業系統，持續更新維護。此文的發布，顯示了在當前開源環境中，仍有對傳統精簡客戶端解決方案的需求與應用。它可能為技術人員提供了在現代系統上部署或維護Sun Ray環境的實用指南，突顯了OpenIndiana在支援多樣化伺服器技術方面的靈活性，即使是歷史較久的技術也能在其上找到新的應用場景。",
+    "summarizedAt": "2026-05-07T02:05:28.353Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T06:47:12.000Z",
+    "summaryZh": "由 Peter Sarlin 創立的科技公司 QuTwo，在近期完成的天使輪融資中，其估值已達到 3.8 億美元。該公司明確表示，其核心業務將聚焦於企業級人工智慧（AI）領域。Sarlin 強調，QuTwo 的戰略方向始終以人工智慧為核心，他指出「AI 是我們將持續追求的北極星，而量子（計算）僅僅是一種新型的運算方式」。這番表述明確了 QuTwo 的定位，即一家專注於 AI 技術研發與應用的公司，而非以量子計算為主要業務。此輪高估值融資反映了市場對其在企業 AI 領域發展潛力的認可。",
+    "summarizedAt": "2026-05-07T02:05:35.701Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-06T06:34:32.000Z",
+    "summaryZh": "Marc Lore 近日提出一項前瞻性觀點，認為隨著人工智慧（AI）技術的持續發展，未來將使任何人都能夠輕鬆開設自己的餐廳。他所創立的餐飲科技公司 Wonder，正積極推動將其現有的自動化機器人廚房，轉型為由AI全面驅動的「餐廳工廠」概念。此舉的目標是大幅降低餐飲創業的門檻，讓個人或新創團隊僅需透過簡單的文字指令或提示，便能快速設計、啟動並管理一個虛擬的餐飲品牌，從而改變傳統餐飲業的營運模式與競爭格局。",
+    "summarizedAt": "2026-05-07T02:05:46.031Z"
+  },
+  {
     "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
     "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
     "source": "TechCrunch — Artificial Intelligence",
