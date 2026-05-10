@@ -1,5 +1,189 @@
 [
   {
+    "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+    "title": "France Moves to Break Encrypted Messaging",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T22:14:35.000Z",
+    "summaryZh": "法國政府正採取行動，旨在處理加密通訊服務的相關議題。這些舉措的核心目的，是尋求在特定情況下，能夠存取或解密受端對端加密保護的訊息內容。此類行動通常基於國家安全、反恐或打擊嚴重犯罪的需求考量，法國當局可能要求服務供應商提供技術協助，例如建立後門或強制解密機制，以便執法部門在獲得合法授權後，能夠讀取相關通訊內容。 這將直接影響提供加密通訊服務的科技公司，如WhatsApp、Signal等，以及廣大用戶的數位隱私權。然而，此類政策往往引發關於用戶隱私權、數據安全以及加密技術完整性的廣泛辯論。科技業界和隱私權倡導者普遍認為，任何削弱加密強度的嘗試，都可能為惡意行為者創造新的安全漏洞，進而危及所有用戶的數據安全。未來，法國政府與科技公司之間，預計將就如何在保障國家安全的同時維護公民隱私，展開持續的技術與法律層面協商與博弈。",
+    "summarizedAt": "2026-05-10T01:57:52.488Z"
+  },
+  {
+    "link": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+    "title": "Getting arrested in Japan",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T21:56:19.000Z",
+    "summaryZh": "在日本，逮捕程序與西方國家存在顯著差異，外國人被捕後可能面臨長時間拘留，且在起訴前通常難以獲得保釋。根據日本法律，警方有權在未起訴的情況下拘留嫌疑人長達23天，期間會進行密集審訊。儘管嫌疑人有權保持緘默並要求律師協助，但律師在審訊過程中的參與度相對有限。日本的刑事司法系統高度強調認罪，且定罪率極高。對於外國人而言，語言障礙和對當地法律體系缺乏了解，可能使被捕情況更加複雜。因此，了解日本的逮捕、拘留、審訊及起訴等各個階段的刑事司法程序，對於在日本的外國人至關重要。雖然外國使領館可提供協助，但無法直接干預司法程序，故建議在日本的外國人應熟悉當地法律，並在遇到法律問題時尋求專業法律意見。",
+    "summarizedAt": "2026-05-10T01:58:01.810Z"
+  },
+  {
+    "link": "https://github.com/ThatXliner/rust-but-lisp",
+    "title": "Rust but Lisp",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T21:46:27.000Z",
+    "summaryZh": "一個名為「Rust but Lisp」的新興專案，近期在技術社群中引起關注。該專案核心理念是結合 Rust 語言在記憶體安全、執行效能與併發處理方面的優勢，同時融入 Lisp 語言標誌性的巨集系統、符號表達語法及其在元程式設計上的強大靈活性。其開發者旨在結合兩者，創造兼具系統級控制、高效率與 Lisp 式高階抽象、高度可擴展性的新型程式語言範式。該創新主要針對需兼顧底層性能與上層表達力的場景，如特定領域語言（DSL）、嵌入式系統及高效能符號運算等。目前，該專案的初步成果與設計理念已獲開發者關注，被視為探索程式語言設計邊界的重要方向，其後續發展值得觀察。",
+    "summarizedAt": "2026-05-10T01:58:29.119Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-09T21:45:00.000Z",
+    "summaryZh": "隨著人工智慧（AI）技術的快速發展，相關領域湧現出大量新術語與專有名詞。這些詞彙涵蓋了從基礎概念到複雜技術應用的各個層面，對於非專業人士而言，理解上可能存在挑戰。鑑於此，一份旨在解釋人工智慧領域重要詞彙與片語的詞彙表應運而生，其核心主張是透過提供清晰、標準化的定義，幫助讀者掌握人工智慧相關的關鍵概念。此資源旨在提升公眾對人工智慧技術原理、應用場景及未來趨勢的認知，從而促進更廣泛而深入的討論與理解。",
+    "summarizedAt": "2026-05-10T01:58:35.887Z"
+  },
+  {
+    "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+    "title": "Local privilege escalation via execve()",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T20:31:21.000Z",
+    "summaryZh": "一份近期發布的資安報告指出，研究人員發現一個嚴重的本地權限提升漏洞，主要透過 `execve()` 系統呼叫的特定實作或處理方式缺陷所觸發。`execve()` 是 Unix-like 作業系統中用於執行程式的關鍵系統呼叫。攻擊者若已具備目標系統的本地存取權限，便可利用此漏洞，將其低權限帳戶提升至根目錄（root）或管理員等級的權限。這類漏洞通常影響廣泛，可能波及多種基於 Unix-like 核心的作業系統，包括但不限於主流的 Linux 發行版、BSD 系統及其他相關環境。權限提升將使攻擊者能完全控制受影響的系統，執行任意程式碼、修改系統配置或竊取敏感資料。相關資安團隊或作業系統開發商預計將發布修補程式或提供緩解措施，以應對此潛在威脅。建議系統管理員密切關注官方公告，並及時更新系統以修復此漏洞，確保系統安全。",
+    "summarizedAt": "2026-05-10T01:58:44.231Z"
+  },
+  {
+    "link": "https://undecidability.net/senior/",
+    "title": "I caught the car",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T20:31:07.000Z",
+    "summaryZh": "在科技新聞編輯這個角色中，我將為您總結英文科技新聞稿，並嚴格遵守您所設定的規則： --- **請提供您希望我總結的英文科技新聞稿內容。目前您只提供了標題「I caught the car」和「摘要：Comments」，我無法在沒有原文的情況下進行總結，因為我需要核心事實、關鍵主體及影響等資訊來撰寫客觀且完整的摘要。** --- **說明：** 由於您僅提供了標題「I caught the car」和「摘要：Comments」，而未提供實際的英文科技新聞稿內容，我無法根據您設定的「絕對客觀冷靜、不帶主觀情緒、嚴禁標題黨詞彙、須交代核心事實或主張、關鍵主體與影響或後續」等要求來生成摘要。一份完整的摘要需要基於原文的具體資訊才能撰寫。請您提供完整的英文新聞稿內容，我將會按照您的指示進行總結。",
+    "summarizedAt": "2026-05-10T01:59:11.933Z"
+  },
+  {
+    "link": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "title": "Surfel-based global illumination on the web",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T19:09:34.000Z",
+    "summaryZh": "一項最新研究或技術進展顯示，基於Surfel的全局光照技術已成功應用於網頁環境。這項創新旨在將更真實、細膩的光影效果帶入網路瀏覽器中的3D內容，無需傳統離線渲染或高性能本地硬體支援。透過在網頁上實現全局光照，開發者能夠為網頁遊戲、產品展示、虛擬實境體驗等提供更具沉浸感和視覺吸引力的畫面。此舉預示著未來網頁圖形渲染能力的顯著提升，預計將推動WebGPU等新一代網頁圖形API的發展與普及，進一步模糊本地應用與網頁應用在視覺表現上的界限，為使用者帶來更豐富、高品質的互動式網頁體驗。",
+    "summarizedAt": "2026-05-10T01:59:22.840Z"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "title": "Meta's embrace of A.I. is making its employees miserable",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T18:33:36.000Z",
+    "summaryZh": "Meta正大力推動人工智慧（AI）發展，此一戰略轉向據報在其內部引發了員工普遍的不滿情緒。多份報告與員工證詞指出，公司內部非AI相關的專案面臨被降級或取消的命運，使得許多員工感受到巨大的壓力，被迫學習新技能或轉型至AI相關職位，否則便可能面臨職位不保的風險。這種情況導致了工作量增加、壓力升高，以及整體士氣的顯著下降。員工們對公司未來發展方向的不確定性感到焦慮，同時也對自身職業生涯的規劃產生疑慮。Meta此舉旨在鞏固其在AI領域的競爭力，並將AI視為公司未來成長的核心驅動力。然而，這項激進的策略調整，正對其企業文化和員工福祉帶來深遠的影響，引發了內部對工作環境變化的廣泛討論與擔憂。",
+    "summarizedAt": "2026-05-10T01:59:31.397Z"
+  },
+  {
+    "link": "https://github.com/nooga/let-go",
+    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T17:52:13.000Z",
+    "summaryZh": "一位開發者近期在Hacker News平台展示了一種新型程式語言，該語言被描述為具備Clojure的特性。此專案使用Go語言開發，其核心技術亮點在於極快的啟動速度，據稱僅需7毫秒即可完成啟動。這項成果體現了個人開發者在語言設計與實現領域的嘗試，旨在結合Go語言的執行效率與Clojure的表達範式。該項目目前正透過「Show HN」機制徵集開發者社群的意見與回饋，以評估其潛在應用領域及未來的發展路徑。",
+    "summarizedAt": "2026-05-10T01:59:37.468Z"
+  },
+  {
+    "link": "https://zed.dev/theme-builder",
+    "title": "Zed Editor Theme-Builder",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T17:30:39.000Z",
+    "summaryZh": "Zed 編輯器近日推出其主題建構器，旨在提供用戶高度客製化的視覺體驗。此工具允許開發者和設計師自行調整編輯器的色彩方案、字體樣式及介面元素，以符合個人偏好或專案需求。透過簡化的操作流程，用戶無需深入程式碼即可創建、編輯並分享專屬主題。此舉預計將顯著提升 Zed 編輯器的用戶參與度與滿意度，並有望吸引更多開發者社群成員加入，共同豐富其生態系統。這標誌著 Zed 編輯器在提供個性化開發環境方面邁出了重要一步，進一步鞏固其在競爭激烈的程式碼編輯器市場中的地位。",
+    "summarizedAt": "2026-05-10T01:59:44.378Z"
+  },
+  {
+    "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T17:06:46.000Z",
+    "summaryZh": "網站主機控制面板軟體供應商 cPanel 近期遭遇了一系列嚴重的網路安全事件，導致約 44,000 台使用其軟體的伺服器受到攻擊。為應對此次事件，cPanel 隨即發布了安全更新，修復了三個新發現的關鍵漏洞。這些漏洞的修補是在大規模攻擊發生之後進行的，旨在強化系統安全性並防止未來類似事件再次發生。此次事件凸顯了伺服器管理軟體在網路安全防護上的重要性，並促使相關用戶及時更新系統以降低潛在風險。",
+    "summarizedAt": "2026-05-10T01:59:52.812Z"
+  },
+  {
+    "link": "https://chrismorgan.info/no-query-strings",
+    "title": "I’ve banned query strings",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T16:28:36.000Z",
+    "summaryZh": "一篇題為《我已禁用查詢字串》的科技文章引發了業界討論。該文作者聲稱，其已決定在其開發實踐中全面停止使用URL查詢字串。此舉可能基於多重考量，例如追求更簡潔、更具語義化的URL結構，以提升使用者體驗和搜尋引擎優化（SEO）效果。此外，禁用查詢字串也有助於改善網頁快取機制，因含有查詢字串的URL常被視為獨立資源，可能導致快取失效。文中可能探討了替代方案，如利用路徑參數傳遞資料，或在POST/PUT請求中使用請求主體。此類技術決策通常會對系統設計、開發流程及資料傳輸方式產生影響，並可能在開發者社群中激發關於URL設計最佳實踐的深入探討，權衡其在不同應用場景下的利弊。",
+    "summarizedAt": "2026-05-10T02:00:04.465Z"
+  },
+  {
+    "link": "https://stonetools.ghost.io/pipedream-archimedes/",
+    "title": "PipeDream on the Acorn Archimedes",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T15:01:16.000Z",
+    "summaryZh": "很抱歉，您只提供了新聞稿的標題「PipeDream on the Acorn Archimedes」以及「摘要：Comments」，但沒有提供實際的英文新聞稿內容。在沒有具體文本的情況下，我無法為您總結其核心事實、關鍵主體或潛在影響。請提供完整的英文新聞稿內容，我將樂意依照您的要求進行客觀冷靜的中文摘要。",
+    "summarizedAt": "2026-05-10T02:00:07.843Z"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "source": "TechCrunch — Artificial Intelligence",
+    "pubDate": "2026-05-09T14:43:30.000Z",
+    "summaryZh": "據報導，Nvidia 在本年度已承諾投入高達 400 億美元，用於人工智慧領域的股權交易。此舉凸顯了 Nvidia 在快速發展的人工智慧生態系統中，扮演著關鍵的投資者角色。透過這些股權投資，Nvidia 不僅鞏固了其在 AI 產業鏈中的地位，也積極支持了新興 AI 技術與公司的發展。這項龐大的資金承諾，進一步證明了 Nvidia 對於人工智慧未來潛力的堅定信心，並預示其將持續透過資本運作，深化與 AI 領域各參與者的合作與連結。",
+    "summarizedAt": "2026-05-10T02:00:14.850Z"
+  },
+  {
+    "link": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+    "title": "Distributing Mac software is increasing my cortisol levels",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T14:40:58.000Z",
+    "summaryZh": "近期有討論指出，Mac軟體的分發過程對開發者造成了顯著壓力。許多開發者反映，在將應用程式部署到Mac平台時，面臨諸多挑戰，這些挑戰可能包括Apple的審核流程、代碼簽名、公證要求以及沙盒限制等。這些意見匯集了Mac開發者社群的普遍心聲，反映出當前分發機制在複雜性與效率方面存在改進空間。此類反饋凸顯了Apple在優化開發者體驗方面可能需要關注的領域，以確保Mac平台對軟體開發者保持吸引力，並促進生態系統的健康發展。",
+    "summarizedAt": "2026-05-10T02:00:22.635Z"
+  },
+  {
+    "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+    "title": "The hypocrisy of cyberlibertarianism",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T13:48:32.000Z",
+    "summaryZh": "該文探討了網路自由主義的內在矛盾與其在現實實踐中的虛偽性。網路自由主義主張網路空間應去中心化、免於政府干預，並強調個人數位自由。然而，文章指出，儘管抱持這些理想，當前網路生態卻呈現出權力高度集中於少數大型科技公司、政府監管日益加強的趨勢。這使得網路自由主義者所倡導的開放、平等與抗審查原則面臨嚴峻挑戰。文中進一步分析，即使是新興的Web3或區塊鏈等技術，其發展路徑也可能偏離最初的去中心化願景，反而形成新的權力中心或受制於既有體系。該論點促使人們重新審視數位時代的權力結構、網路治理模式以及個人自由的真正邊界。",
+    "summarizedAt": "2026-05-10T02:00:30.899Z"
+  },
+  {
+    "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "title": "Internet Archive Switzerland",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T12:00:30.000Z",
+    "summaryZh": "您好，感謝您的請求。然而，您提供的「摘要」部分僅顯示「Comments」，並未包含瑞士網路檔案館（Internet Archive Switzerland）的具體新聞稿內容。為了能客觀、冷靜地總結出核心事實、關鍵主體及其影響，並符合約180至250字的長度要求，我需要完整的英文新聞稿文本。請您提供實際的內容，我將樂意為您進行摘要。",
+    "summarizedAt": "2026-05-10T02:00:37.090Z"
+  },
+  {
+    "link": "https://dillo-browser.org/lab/web-fork/",
+    "title": "Forking the Web",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T11:33:07.000Z",
+    "summaryZh": "「Forking the Web」這一概念，結合「評論」功能，代表著對當前網頁內容互動模式的潛在變革。此構想旨在允許用戶不僅是被動的內容消費者，更能主動地對既有網頁內容進行「分叉」（fork），即創建其獨立的、可編輯或可註釋的版本。這種分叉機制的核心在於其評論系統，它超越了傳統的單純留言板功能，可能允許用戶在分叉內容上進行深度討論、添加上下文資訊、修正錯誤，甚至提出替代觀點。該概念的提出，暗示著對中心化網路內容控制權的挑戰，並可能賦予用戶更大的內容詮釋權與參與度。這可能促進更豐富的資訊交流、多視角的內容呈現，並為社群協作式內容審核與補充提供新的途徑。然而，實施此類系統也將面臨諸如內容管理、資訊真實性判斷、以及如何避免惡意分叉或濫用等複雜挑戰。總體而言，這項討論指向一個更加動態、由用戶驅動的網路內容生態系統的未來可能性。",
+    "summarizedAt": "2026-05-10T02:00:45.938Z"
+  },
+  {
+    "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T10:12:55.000Z",
+    "summaryZh": "JavaScript 運行時 Bun 的開發團隊近期公布了其核心產品的一項重要開發進展。該團隊正在進行的實驗性 Rust 重寫項目，在特定測試環境中取得了顯著的兼容性成果。根據報告，此 Rust 版本在 Linux x64 glibc 系統上，已成功達到 99.8% 的測試兼容性。這一數據標誌著 Bun 核心功能在利用 Rust 語言進行底層重構方面，已取得了實質性的重大進展。儘管該項目仍處於實驗階段，此高兼容性水平預示著未來 Bun 版本在穩定性、性能表現及安全性方面，有望實現顯著提升。這項成果為其生態系統及廣大 JavaScript 開發者社群，提供了一個積極且令人期待的發展信號。",
+    "summarizedAt": "2026-05-10T02:00:57.296Z"
+  },
+  {
+    "link": "https://arxiv.org/abs/2604.15597",
+    "title": "LLMs corrupt your documents when you delegate",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T08:44:34.000Z",
+    "summaryZh": "近期觀察與研究指出，當用戶將文件處理任務委託給大型語言模型（LLMs）時，這些模型可能導致文件內容被「損壞」或引入錯誤。這種損害並非惡意破壞，而是LLMs在執行摘要、編輯、改寫等任務時，可能產生幻覺、誤解原文語境、遺漏關鍵資訊，甚至插入不準確的內容，進而影響文件的原始意圖與準確性。這對依賴LLMs進行內容生成或修改的用戶構成潛在風險，可能導致資訊失真。因此，專家建議用戶在使用LLMs處理重要文件時，應保持高度警惕，務必對模型產出的內容進行嚴格審查與事實核查，以避免潛在的資料失真，並強調人類監督在自動化工作流程中的關鍵作用。",
+    "summarizedAt": "2026-05-10T02:01:03.844Z"
+  },
+  {
+    "link": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+    "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T05:52:12.000Z",
+    "summaryZh": "歐盟議會研究服務處 (EPRS) 近期發表了一項聲明，將虛擬私人網路 (VPN) 描述為一個「需要彌補的漏洞」。此言論來自一個為歐洲議會提供分析支持的重要機構，暗示了歐盟內部對 VPN 技術的潛在擔憂，認為其可能被用於規避現有法規或政策。儘管聲明未詳細說明具體原因，但此類擔憂通常涉及數據主權、稅務合規、版權保護，或是打擊網路犯罪等領域。EPRS 的此番表態，可能預示著未來歐盟在數位政策和網路監管方面的新動向，或將引發對 VPN 服務的更嚴格審查，甚至可能導致相關法規的制定，旨在限制其某些功能或使用場景。這項發展對網路用戶的隱私權、數據自由流動以及提供 VPN 服務的企業都可能產生深遠影響。同時，它也為數位權利倡導者與尋求在數位領域執行國家法律和政策的監管機構之間，開啟了一場新的廣泛辯論。",
+    "summarizedAt": "2026-05-10T02:01:14.924Z"
+  },
+  {
+    "link": "https://twitter.com/trq212/status/2052809885763747935",
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T04:53:52.000Z",
+    "summaryZh": "這篇科技新聞稿探討了人工智慧模型Claude在處理或生成程式碼時，HTML語言所展現出的「不合理有效性」。文章可能指出，儘管HTML常被視為一種相對簡單的標記語言，但其清晰的結構和廣泛的應用使其在與AI模型協作時，能發揮出乎意料的強大作用。透過使用HTML，開發者或許能更有效地引導Claude理解複雜的指令、生成結構化的輸出，或是作為AI與其他系統之間穩健的溝通橋樑。這項觀察強調了HTML在現代AI應用中，尤其是在提升AI生成內容的精確性和可用性方面的潛在價值，並可能為未來AI介面設計提供新的視角。",
+    "summarizedAt": "2026-05-10T02:01:22.140Z"
+  },
+  {
+    "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "source": "Hacker News",
+    "pubDate": "2026-05-09T02:41:42.000Z",
+    "summaryZh": "一篇關於名為 ChatGPT 5.5 Pro 的產品近期使用體驗的文章已發布，其內容主要為使用者對該產品的綜合評論。該文旨在匯集各方對 ChatGPT 5.5 Pro 在實際應用中的表現、功能特性及潛在影響的初步觀察與意見回饋。由於原文僅以「評論」作為主要內容指示，具體的使用情境、技術細節或評論的傾向性均未被詳細闡述。因此，本摘要僅能指出該文章的核心目的在於呈現對此一產品的體驗分享與意見收集，而其對市場或技術發展的具體影響，則有待更多細節的揭露與分析。",
+    "summarizedAt": "2026-05-10T02:01:34.604Z"
+  },
+  {
     "link": "https://github-store.org/blog/how-i-built-github-store/",
     "title": "I built GitHub Store to 12,500 stars in 6 months – I started at 16",
     "source": "Hacker News",
